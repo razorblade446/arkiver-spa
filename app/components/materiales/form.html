@@ -1,0 +1,5 @@
+<form [ngFormModel]="materialForm" (submit)="doSave($event)">
+  <input ngControl="idMaterial" type="hidden">
+  <input ngControl="nombre" type="text" placeholder="Nombre">
+  <button type="submit">Guardar</button>
+</form>
