@@ -11,6 +11,6 @@ import "@angular/forms";
 // RxJS
 import "rxjs";
 
-// Otros
-import "ng2-bootstrap";
-import "bootstrap-loader";
+// Material Design Lite
+import "material-design-lite";
+import "angular2-infinite-scroll";

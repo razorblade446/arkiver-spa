@@ -1,7 +1,11 @@
 const path = require('path');
 const merge = require('webpack-merge');
-
 const validate = require('webpack-validator');
+const Joi = require('webpack-validator').Joi;
+
+const schemaExtension = Joi.object({
+    sassLoader: Joi.any(),
+});
 
 const TARGET = process.env.npm_lifecycle_event;
 const PATHS = {
@@ -46,7 +50,7 @@ switch (process.env.npm_lifecycle_event) {
             parts.loadTSX(PATHS.app),
             parts.lintTSX(PATHS.app),
             parts.loadHTML(),
-            parts.setupCSS(),
+            parts.setupCSS(PATHS.nodeModules),
             parts.setupCommonFiles(),
             parts.chunkPlugin('vendors')
         );
@@ -59,7 +63,7 @@ switch (process.env.npm_lifecycle_event) {
             parts.loadTSX(PATHS.app),
             parts.lintTSX(PATHS.app),
             parts.loadHTML(),
-            parts.setupCSS(),
+            parts.setupCSS(PATHS.nodeModules),
             parts.setupCommonFiles(),
             parts.chunkPlugin('vendors'),
             parts.devServer({
@@ -69,4 +73,4 @@ switch (process.env.npm_lifecycle_event) {
         );
 }
 
-module.exports = validate(config);
+module.exports = validate(config, {schemaExtension: schemaExtension});

@@ -11,32 +11,39 @@ import {TipoMaterial} from "../../models/tipo-material";
 
 export class EditarMaterialComponent implements OnInit, OnDestroy {
   private paramsSubscription: Subscription;
+  private tiposMaterialesSubscription: Subscription;
 
   private material: Material;
   private tiposMateriales: TipoMaterial[];
 
-  constructor(private materialesService: MaterialesService,
-              private route: ActivatedRoute) {
+  constructor (private materialesService: MaterialesService,
+               private route: ActivatedRoute) {
   }
 
-  ngOnInit(): void {
+  public ngOnInit (): void {
+    let routeId = "id";
+    this.tiposMaterialesSubscription = this.materialesService.getTiposMateriales().subscribe(
+      (tiposMateriales: any) => {
+        this.tiposMateriales = tiposMateriales;
+      }
+    );
+
     this.paramsSubscription = this.route.params.subscribe(
       params => {
-        let id = +params['id'];
+        let id = +params[routeId];
         this.materialesService.getMaterial(id)
           .subscribe(
             material => {
               this.material = material;
             }
-          )
+          );
       }
-    )
-
-
+    );
   }
 
-  ngOnDestroy(): void {
-    this.loadSubscription.unsubscribe();
+  public ngOnDestroy (): void {
+    this.paramsSubscription.unsubscribe();
+    this.tiposMaterialesSubscription.unsubscribe();
   }
 
 }

@@ -1,3 +1,18 @@
-body {
-  padding-top: 70px;
+@import 'color-definitions';
+
+$color-primary: $palette-blue-grey-500;
+$color-primary-dark: $palette-blue-grey-700;
+$color-accent: $palette-orange-A200;
+$color-primary-contrast: $color-dark-contrast;
+$color-accent-contrast: $color-dark-contrast;
+
+@import 'material-design-lite';
+
+.mdl-progress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  width: inherit;
 }

@@ -27,17 +27,20 @@ exports.devServer = function (options) {
     };
 };
 
-exports.setupCSS = function () {
+exports.setupCSS = function (include) {
     return {
         module: {
             loaders: [{
                 test: /\.s?css$/,
-                loader: ExtractTextPlugin.extract('style-loader', 'css-loader!sass-loader')
+                loader: ExtractTextPlugin.extract('style', 'css!sass')
             }]
         },
         plugins: [
             new ExtractTextPlugin("[name].css")
-        ]
+        ],
+        sassLoader: {
+            includePaths: [path.join(include, 'angular2-mdl/src/scss-mdl')]
+        }
     };
 };
 

@@ -13,8 +13,8 @@
     </div>
     <div class="form-group">
       <label for="tipoMaterial">Tipo Material</label>
-      <select name="tipoMaterial" id="tipoMaterial">
-        <option *ngIf="tiposMaterial" *ngFor="#tipo of tiposMaterial" [value]="tipo">{{ tipo.nombre }}</option>
+      <select name="tipoMaterial" id="tipoMaterial" *ngIf="tiposMaterial">
+        <option *ngFor="let tipo of tiposMaterial" [value]="tipo">{{ tipo.nombre }}</option>
       </select>
     </div>
     <div class="form-group">

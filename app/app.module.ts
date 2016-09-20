@@ -1,14 +1,15 @@
 // Módulos Globales
 import {NgModule} from "@angular/core";
 import {BrowserModule} from "@angular/platform-browser";
-import {AppComponent} from "./app.component";
 import {HttpModule} from "@angular/http";
 import {RouterModule} from "@angular/router";
 import {APP_ROUTER_PROVIDERS, ROUTING} from "./app.routing";
 import {FormsModule} from "@angular/forms";
+import {MdlModule} from "angular2-mdl";
+import {InfiniteScrollModule} from "angular2-infinite-scroll";
 
-// Modulos Aplicación
-
+// Módulos Aplicación
+import {AppComponent} from "./app.component";
 import {UsuariosComponent} from "./components/usuarios";
 import {HomeComponent} from "./components/home";
 import {MaterialesComponent} from "./components/materiales";
@@ -28,6 +29,7 @@ import {EditarMaterialComponent} from "./components/materiales/edit";
     BrowserModule,
     FormsModule,
     HttpModule,
+    MdlModule,
     RouterModule,
     ROUTING,
   ],

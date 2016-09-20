@@ -3,7 +3,6 @@ import {ConfigService} from "./config.service";
 import {Http, URLSearchParams} from "@angular/http";
 import {Observable} from "rxjs";
 import {PageableResponse} from "../models/pageable-response";
-import {observableToBeFn} from "rxjs/testing/TestScheduler";
 import {Material} from "../models/material";
 import {TipoMaterial} from "../models/tipo-material";
 

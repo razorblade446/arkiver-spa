@@ -20,7 +20,7 @@ export const ROUTES: Routes = [{
 } ];
 
 export const APP_ROUTER_PROVIDERS = [
-  provideRoutes(ROUTES)
+  provideRoutes(ROUTES),
 ];
 
 export const ROUTING: ModuleWithProviders = RouterModule.forRoot(ROUTES);
