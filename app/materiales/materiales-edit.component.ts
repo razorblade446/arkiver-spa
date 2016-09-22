@@ -1,15 +1,15 @@
-import {Component, OnInit, OnDestroy} from "@angular/core";
-import {MaterialesService} from "../../services/materiales";
-import {ActivatedRoute} from "@angular/router";
-import {Subscription} from "rxjs";
-import {Material} from "../../models/material";
-import {TipoMaterial} from "../../models/tipo-material";
+import {Component, OnInit, OnDestroy} from '@angular/core';
+import {ActivatedRoute} from '@angular/router';
+import {Subscription} from 'rxjs';
+import {Material} from '../models/material';
+import {TipoMaterial} from '../models/tipo-material';
+import {MaterialesService} from '../services/materiales';
 
 @Component({
-  templateUrl: "./edit.html",
+  templateUrl: './materiales-edit.component.html',
 })
 
-export class EditarMaterialComponent implements OnInit, OnDestroy {
+export class MaterialesEditComponent implements OnInit, OnDestroy {
   private paramsSubscription: Subscription;
   private tiposMaterialesSubscription: Subscription;
 
@@ -21,7 +21,7 @@ export class EditarMaterialComponent implements OnInit, OnDestroy {
   }
 
   public ngOnInit (): void {
-    let routeId = "id";
+    let routeId = 'id';
     this.tiposMaterialesSubscription = this.materialesService.getTiposMateriales().subscribe(
       (tiposMateriales: any) => {
         this.tiposMateriales = tiposMateriales;

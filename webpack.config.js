@@ -32,7 +32,7 @@ const common = {
         sourceMapFilename: '[file].map'
     },
     resolve: {
-        extensions: ['', '.webpack.js', '.web.js', '.js', '.ts'],
+        extensions: ['', '.webpack.js', '.web.js', '.js', '.ts', '.json'],
         root: PATHS.nodeModules
     }
 };
@@ -47,6 +47,8 @@ switch (process.env.npm_lifecycle_event) {
             common,
             parts.setupAliases(),
             parts.htmlWebpackPlugin(PATHS),
+            parts.loadFonts(),
+            parts.loadJson(),
             parts.loadTSX(PATHS.app),
             parts.lintTSX(PATHS.app),
             parts.loadHTML(),
@@ -60,6 +62,8 @@ switch (process.env.npm_lifecycle_event) {
             common,
             parts.setupAliases(),
             parts.htmlWebpackPlugin(PATHS),
+            parts.loadFonts(),
+            parts.loadJson(),
             parts.loadTSX(PATHS.app),
             parts.lintTSX(PATHS.app),
             parts.loadHTML(),

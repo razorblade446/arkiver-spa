@@ -1,26 +1,10 @@
-import {provideRoutes, RouterModule, Routes} from "@angular/router";
-import {UsuariosComponent} from "./components/usuarios";
-import {HomeComponent} from "./components/home";
-import {MaterialesComponent} from "./components/materiales";
-import {ModuleWithProviders} from "@angular/core";
-import {EditarMaterialComponent} from "./components/materiales/edit";
+import {Routes, RouterModule} from '@angular/router';
+import {ModuleWithProviders} from '@angular/core';
 
-export const ROUTES: Routes = [{
-  component: UsuariosComponent,
-  path: "usuarios",
-}, {
-  component: MaterialesComponent,
-  path: "materiales",
-}, {
-  component: EditarMaterialComponent,
-  path: "materiales/:id/edit",
-}, {
-  component: HomeComponent,
-  path: "",
-} ];
-
-export const APP_ROUTER_PROVIDERS = [
-  provideRoutes(ROUTES),
+export const appRoutes: Routes = [
+  {path: '', pathMatch: 'full', redirectTo: '/home'},
 ];
 
-export const ROUTING: ModuleWithProviders = RouterModule.forRoot(ROUTES);
+export const APP_ROUTER_PROVIDERS: any = [];
+
+export const appRouting: ModuleWithProviders = RouterModule.forRoot(appRoutes);

@@ -1,0 +1,1002 @@
+[
+  {
+    "idMaterial": 1,
+    "nombre": "engineer holistic web services",
+    "tipoMaterial": {
+      "idTipoMaterial": 1,
+      "nombre": "Quality-focused"
+    },
+    "archivo": "curabitur.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKGSURBVDjLpVNLaBNBGP5mdpNsHptH25i+0toIRRAFD3rxqCjowaPtzYNYvIleehE8iHgTBO1BBCl4aG+CxZIeWqrFBxVEUXpIwZqmsWuyaZNusu9xdlPxcSp04GP/Heb75pv/QRhj2M+i2OcSbz1+Ny9F5OOVhhXd0W3qckMuGBweuNydw+G67f9dMBDHsprbleJKoSCmU4ns2MXhuGExIoWEf9TJ/zFpf1uGLbQMp3f0nqFTpW7nTNslz+bLKFZMaAbDWtVFUXWxvuWivO1CaTBUNAbLAdarJh68KKOmGVROZw9RzXBIKEDR1xNH/oOCrR0LmThBgJsJCgRB0QOQDBNU6yamX28i2RFHZzLke6JN3fYt5rpj6M/EMbusoNaw0BWjPjHIhRISgdrwyAq6OuPI9cVAdotHNd1pZ5MfzPXGkE5FMLVQ9AkeUeao8nhyrohEIuKfCYt/lVFrtR0Qnh3bsiGJLgb6kph5r2C9ovt4/lZBlu/JQQeU2b6z35kVm4YDz41p2thUG8hmZASDAZRVCa9W6n6jDGdTSHx8Cm3uIcxSAXpnL8oXrgLsjCdgM15bolQ5OS0jLAXgKQ4diGCAwyublp8APk/h5KUrCA0dQetTHl+XpnGU1ZioqaVvhmkPHu4Pk1iYEkId/1bvSYS0O2H55X2cGL0GaXUBWLyDSCKJg9lBHFuYdERz5+fa6euzqZAcjYohgYg8m5SXT+AqlBJQ/t6bG2ui1D0EnL/xp4Vv9yCp10Syl2HKnxWLp0Yu90e/z8Bo/UCT7zXqAlZWUdrTMEU6Mk++vFm0y3oYdSGAmkpQKBGHX/2I7HWcl0YGxjV1Y0xwyKAjsBJnTZzL23d/AbqhIfYa8w35AAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 2,
+    "nombre": "empower rich ROI",
+    "tipoMaterial": {
+      "idTipoMaterial": 2,
+      "nombre": "motivating"
+    },
+    "archivo": "vel augue vestibulum.mov",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJISURBVDjLzZNdSBNQHMV98lHovfcSbS7NkshK0zSXKbqmtTHSLTUt1OVHEaUUis6H5kul4QeCIpig+IFFUEIo9jUttWJoyUAJbbvpcjrdfl3tpaAs6qUL5+XCOfec//9cP8DvX+D3fwj4LhVpJT5JiA14i03Ca8oX6xfyxNq5bOExGsSqXi9W0k8Jd6paLB9PWnAdPabbFJAEjYSL+wMwNARjY2CzweQk3sePWGhtxdHSwmJzM866euwWC/ZrZSwdPOJajIhM2hB4TsNd6OmBjg6YmIDRUejsxFtcjD0nh1mjEYfBwLxOx4vERN5WVWHLL0Ts3mffEAjxlZie+qorQb7GzAybZ3AQr1rNrErFx4QEPktMR0fzpqKCaWMWImTvnDNwt2ZzBjLvNpm331teBt3dMDcHVis+rZYFSXRKEWd8PFOVlbzPMCIUe6YcO5XKH7awlpMV4MnM7FsvLYXhYRgfxyeti9hYXHFxzJvNfJBkZ3DYlGOHYtdP17ii1QW4NWl9npLSbwJyBq6oKFZqajj/8AzZ/ToyutLQtafwyx4sn0gO+BKverB65Sq+9nbWqqtxFJg426ulbbKBltd1pDaq2LJIS4djti/uP2RbNRXhlmSZ163vUNP06hZ11lq0TanE1ERGbNlEERoRJPOO3LiZ6Na3pXgu9uZy+6WF2mdmCrpyOVAe7g6/rBz4bVVPtyX7S8u2vHsGLCNVmIeuk16fQliJ4p0iP9D/jzsvLY/pGk+iuZNMaFGw9a8+k7Q8oiwMevL93Ve6KsnKrbmJHAAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 3,
+    "nombre": "synthesize B2C bandwidth",
+    "tipoMaterial": {
+      "idTipoMaterial": 3,
+      "nombre": "exuding"
+    },
+    "archivo": "amet.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKoSURBVDjLpVM9TFNRFP7ubWvb1x+QQAtRIFaRmEakaYiGiJaAurioiYsxXXVxMHESB40TJI5OOihxq0sZTDBq6kANikAJNLSBAokQ29q/1x/69673PoSoMS6c5Oa8c979zv2+k3MIYwz7MYp9mvb3IBKJ9HB3T7BSFAXcW8Q3P/KvWOTHXC5XaBdDRDIajZ7jflyn03VYrVYQQnZ+cr9bTJjwyWQSxWJxg+dv9vX1fST81SEevLXZbKRWlLE++wlyfBO5+BZq5ZIK1BkkWGxtsNoPoePUaTCdHqurqxzGLpDl5eVZDu41m8148+QBVoLv/qv5aP8QBm/fR6lUEsznNF6vd2xtbU3vcDhw7IwHBTmrXqxXymC1GpdB0XnSDvfFw7C0n0XXwGUYG5pUOYlEQtJyBrnh4WFLuVwG7wEGvHeg0WjUIoVCAay+jVx4FJbWfjQVMjB1diEej6t3uIQkTafTU3a7HQaDQaUVi8WQSqWQzWZR4wwK3yZhanbD2uZCfuMDVhYDKrharQoWE9Tn8z3f1ScKCGr5fF59XU6uIL8+CUtzI+o5P2zOG6CJ99BpqcqCMxihCwsLOQEWIJE0mUzQ6/WglKC6NYmW7ivA9ldMv3wFc2MJJL2E2o95wS7l8XjyVJZlRXRTkiQIKep4Uop6JowDrAzLwSKUcgxgCur5zzjiuYvU/DhQyYyqd7mWkNPpvOX3+8O8H8hkMqCEoRD1obGjF0oxxLEluK91Q6ls8l5F0OI4D33osX5vEsnO6EmBQOCFVqu92lRbIhKR0XrcyF+d5lormHkd5kVOgGgaAOMlfHk2EmeKMkj+3sZgMNhO5x5u9Fx/Cg1d47OQ5ln2x/5pjN34vjiHyMQjH/nXOk+NuZOsrkhM4YsklmjvsD2PneWa+QnIJn6IP3aTNQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 4,
+    "nombre": "iterate cross-platform infomediaries",
+    "tipoMaterial": {
+      "idTipoMaterial": 4,
+      "nombre": "utilisation"
+    },
+    "archivo": "odio consequat.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHMSURBVDjL3VK9S0JxFBWChvoHinap4UG6RIsihYMfiTboUFGhPVIbxAJFG5TEKM1U1CWENjEUigiyHBRnicrCwaIlXPqggldRnd6VkNqMti4cfvede875Xd57AgCCv0DwjwIkEkmn2Wxe8Pl8t8lkEm63+8pqtQ7w6OL7GnE0Iw1pfwSIxeJ2lUq1Eg6HUa/XUavVUCgU4PF4LlwuV7FarT4TVyqVQBrSkqcZIBKJRux2+32lUrk1GAx7SqXyzWQyIRKJwOl0gnriaJZKpa5IS57vG6x4vV4uGo2yGo2mQyqVPubzeZTLZRSLRWQyGRBHM9KQljzNAIZhZlmWvYvH4/M6nW5fJpO9yuVyaLXaBqgnjmakIS15mgF9fKnV6vNgMHiXTqdvstksEokEbDYbHA5How9t+mCLjX3MrGlg8Mreh+eYcDNAKBS28Sv2KxSKS6PR+GSxWDgeL3q9foLH0OzixItnawq7pzEcXecQOjBDH2IwYOkOtPStx/3D3PbJOrbPIqAKHJoQOmQpgGspQOUSYe90A99r5zhGAa39bYPWHm41Nw1/brJh9u9P/m4DXrg0GuhFMGds3EwnPbf8Dr5Clnk80Npf5zLxn1E7ljyteCJyAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 5,
+    "nombre": "matrix killer content",
+    "tipoMaterial": {
+      "idTipoMaterial": 5,
+      "nombre": "encoding"
+    },
+    "archivo": "turpis a pede.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ+SURBVBgZBcExbFRlAADg7//fu7teC3elQEoMgeDkYDQ6oMQQTYyGxMHZuDA6Ypw0cWI20cHJUdl0cJLIiomR6OACGhUCpqGWtlzbu/b97/3v9/tCKQVc/e7RRXz+7OrSpUXbW7S9tu8ddv0M+3iCjF1s42v8WAP0XffKi2eOXfro9dMAYJ766SL1092jfDa17DfZgycHfvh7/hau1QB9161PhgE8epoNQlAHqprRIDo3iqoYDSpeOjv2zHRl7atfNj6LALltJys1Xc9+CmYtTxtmR8yO2D7kv4MMPr7x0KULK54/NThdA+S2XTs+jOYN86MsxqBGVRErKkEV6BHynp//2fXbw9lGDZBTWp+OK7PDzqIpYiyqSMxBFakUVYVS2dxrfHHrrz1crQG6lM6vTwZmR0UHhSoHsSBTKeoS9YU8yLrUXfj+w9d2IkBOzfkz05F5KkKkCkFERACEQil0TSOnJkMNV67fHNdVHI4GUcpZVFAUZAEExEibs4P5osMeROiadHoUiIEeCgFREAoRBOMB2weNrkmbNz+9UiBCTs1yrVdHqhgIkRL0EOj7QGG5jrZ2D+XUbADEy9dunOpSun7xuXMe7xUPNrOd/WyeyKUIoRgOGS8xWWZ7b6FLaROgzim9iXd+vXvf7mHtoCnaXDRtkLpel3t9KdamUx+8fcbj7YWc0hZAndv25XffeGH8yfuvAoBcaHOROhS+vLlhecD+wUJu222AOrft/cdPZr65ddfqsbHVyZLVlZHpysjx5aHRMBrV0XuX141qtnb25bb9F6Duu+7b23funb195955nMRJnMAJTJeGg8HS0sBkZWx1suz3Px79iZ8A/gd7ijssEaZF9QAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 6,
+    "nombre": "aggregate sticky niches",
+    "tipoMaterial": {
+      "idTipoMaterial": 6,
+      "nombre": "attitude"
+    },
+    "archivo": "accumsan felis.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAL+SURBVBgZXcHPbxRlHMDhz3femdkunZ3Zdrublgptg7W0aig28SAYk8aDUuNFjkRvhBMHNfwL3vGgQcWEGGJiTCQxgjFoECTUqG1AKZj+MqUUum1xdmdnZ3dm9tW1TTQ+jxw5+vLlQqkwqZTiv4T/E4RtAiRpi431jW/NQqkwefb0x4ghJK2YfwmCRiO0hXEACFob6JZGk/L2qbcmTaUUKQkSn6f2zQxdl0PKp/bSmXO4e/c6c7Uz3C/75HIuDzd9lGlRqUW8cURjmQqDHb6/iT9qUwkCwku3CYI1giBAGjM06lXqYZVmPaBeD0iiGiItQDCFbZ5XBB2z62Q3vPMLmdd6KPXtJhsvUE+GyeVz2MrAtGyCMEKkAQgm/xB83ycIqlDKEnUlOJ/Nw3MtdHiVuHGYsGpQbF7hQOUiynma2oUr7Hc7MNnheSXQMXnPxT8xRtf7myQv9JHpabC3uUlB/cqAeZtszzG8oYP8uTTCMxtnMUFoi6IGtSBERFPtTFFPQHRuEf16gXz9DMN9wzj9h9hamMOWJjm3l+6exzCFbdlsHset4bkubdaxQbJvXkNVFaO9Q3hDL9JY+xR7l/DH7B2SluKTuRhD2Fb1awRBA79S46fVB5xfWOLmwS2ypou3b4ro/geI9QjLydERLmNPTFGJFQYiCODme6Ejz2yYsNy0KFYfMXZoHO/xV4lW38OwYpqVQcrfTXPPKGIUB2gz+ZvWmumVJWZW7+A4Oax784w4g5SenKL54EOUrYn8Ada/v8GP+0Ypd3YwZWdoMwUIkxrlNCZjO9iLK4xnR0haJdZuvUtXySba2sPG9Z+58dQE2uuis9kArWkzQBAxyOHiSA5rfpmxw8fJrFzj9ws/MPv1Fje/uoq7uBvD7MTGwsYijRMEMJMkJU1T+rvH6S/A5x+do/nblwwdeB6/vMnKrXn2nzyNld3DhIpRHTbKUKStlCRNkVeOTl0slnpeUpYJCJXZLxgfLPLs6CDlljC9XiDUGdqEHQJJklJ+WL70F3VJO/3fH/GfAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 7,
+    "nombre": "expedite distributed systems",
+    "tipoMaterial": {
+      "idTipoMaterial": 7,
+      "nombre": "task-force"
+    },
+    "archivo": "cubilia curae nulla.gif",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFESURBVBgZBcG9S9RxAAfg565DI51uCBocpGhoqM1VaAjByXAImvoXDtr6D4JAaG2oyXtpKJGEltYcGntDErEhEI3kvDP7fb+fnqcVAAAAQAeg39XLqsVcyl62bTw8AkTE5tqb8WHOU1MzzUFej1+uR4SIzeWPOcu/TPI7JznNecZ5ngcrEa3YnJ/7fHehY6Kqqiq+eedgP7cH4zZ6dxZmnamKoiqGnpjTXcxj2tSVq/4qGkXRGOlrfDcvK7TJ0qypoiiKob5G9cWsukSHoCiqamQgiiqKoE12p2YUxVBf0aiK6ybs0qbu/HJZMTRQFEWjuOFU3aFNnn06vLCnr1EURbHq1PF+ntIKXiz/+fDTFV/90HHNTWdOTO69fU8rYH0tr7rzc2YUF8aOx3m0NYJWAPe76VmttzK1bzsbW0dAKwAAAID/tYu/URIDsoEAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 8,
+    "nombre": "synthesize magnetic functionalities",
+    "tipoMaterial": {
+      "idTipoMaterial": 8,
+      "nombre": "adapter"
+    },
+    "archivo": "nam ultrices libero.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEoSURBVDjLnZIxS8NAGIabf5JfURf/g2NxyCCEbAGXcuCWIQSC3C4hZHPXttopKI5S6KaC2E2umDRSg6SXwGcubeAuCeVs4F0e3nu43Pf1AKDXTPmpZfpc1K5e1e04rLBDRVEAS5ZlsE+yVxBFEdSinUT5lyBNU0iS5HBBnudAKT1cwEdawE9B1/XYMIxY6hHDMMS+7xOMMXEch9i2TYIgGLiuO7AsiyCEqpimSUoxFgTsap7nEf6Ku19RupimaYRj7aWRZbWguTRHZU4kWC3eCsKXGBbxpn7xMzbC9fMNFJ+vArtdjuAjW/CT2Qqe3tfw8JYI5d/5HfzMRgK7X01h/DVpCy4fv+FiuhLK9Poc6NWpwIZLBEOC2oLG0lRlCdbvmgLLsSRT/wAPFzLO5ovpLAAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 9,
+    "nombre": "utilize mission-critical e-markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 9,
+      "nombre": "coherent"
+    },
+    "archivo": "velit nec.tiff",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIySURBVDjLpdNdTFJhGAdw120X3XXR5kU33fQxS0+5Yl24lFnQKsvl2nJLM0fmXLNASceKgAv8yBGgJPEhkcIShEEYKuKU1IxcTm0WUDiJ1Fpbm1tZ/855186oLS/k4r/34n2e355z9rwZADLSyX8vCm+WU6fqT38+21S4ztPy1rmK4lXF5Ry//Hwm6LjoHN8QOGOgUOe9iGByCJ7FJ5BMX0ORiosfa1/wTHqQIAQ4VCHbwpXL53iWHPAe7QefJAvq4G2MLY9gcnUcQ0kf/AkvAm4DPvhl6Lq+jwEuESD7inLrCWXJ10BygC56SgpHlofxfGUMjvhjDH7sR1e0Hfq3VmiqKSwOt6CldCcD7CDA3qrOXfRo37tjRojC5SRt81KYIxp4lxx0+mCOaqEON8NeR2Ght5ppBvsTT9Yqai60F/y0vTehPlyBW+FKAliiOvQnPGQKY+Q+TOOdCCjzEPU2/A1wxIaH3a8N0C20ouGVAI3TVVC9kcEa0yO0MgrfkptM0mprwqypGKG2AgaYYYEsqfGFI94D4csy1E6VonlWgt64Fb6EG7aYGTdGK1ETEv6yu+wEcDQeZoA7LHBEJfxkiejQQxczccZtEE8JwHNRKLMK1rRzng6R3xU8kLkdM/oidAh2M8BRFsi7W/Iu38wBty8bXCcdSy6OyfjfUneCbjj34OoeMkHq92+4SP8A95wSTlrA/ISGnxZAmgeV+ewKbwqwi3MZQLQZQP3nFTLnttS73y9CuFIqo/imAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 10,
+    "nombre": "productize leading-edge partnerships",
+    "tipoMaterial": {
+      "idTipoMaterial": 10,
+      "nombre": "mission-critical"
+    },
+    "archivo": "augue luctus tincidunt.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJpSURBVDjLpZNNSJRhEMd/z7vr9m7t2oopZl/UoVWpQ0RC0EFL6FAQ4a0OXbrVLaJDEdStjhEUFQVBHaIuSocIomtWJvYFRhb51eqaH7vu7vu8zzvTQbENvDkwDAzMj+E//zGqymrCY5URBxh6vm/Ar21rM6aapwSF7yORm90PBP9NGQAWskc/ujiAUa9ly4EHNcYY0MVhjMFV8jtyA1dGdKkLEEvUqkbhZHHi1XngSRwApxXErgl+3yKyMfBqMSaN33yI5vZrCVQBARVAMV6q6VvPgcv/AKHxVCyRTaCiSPkX4UKO4uRravyNoCGIRdUBjnTLhQQq25Y1wKgvrowtgdoFwsI86ZZT+PWtgKGU72du5CWNbWeJJVKYeAYiL/4PEHrEk41kWk8vraoogtgxwj8vmP7+gVTzEfKDl0jXCf7mixAoVQBVjSpIaRCN5tCogLpZJJxh/vcwaxu7qN24h+Evj0nEF/A1gLDaBwGq4pBwCrFTiM0hNoctjjE7kSO9IUM030PDrtPMTIRIFCwfdhFgVQ0R6v6gbhoN86ibZnZ0jPrsCaj00/fwEalMmULeY378E7gqgFqZcaXpubCYEFdK44IGivkk4u0kXVdCgh+gQlR8y/aOc4y960Ws2GUNtBJcH759vB2lC0MaYwjq6hJbO896UnqDSpm93VnEjuOvGyKz7SBTE/e/Lh5whWfqv9NxZkPrsZtNO5NExT5ULe+ffWVvdysmth6Sh3l379KkinSuCOi7sX9098lHm2LeT9TNUOVkwCOWzJL7PMBQ79Wn8ZU+zAXW77/bXVZRVKQqdbkigqo2/QXSf1oX6zFeUgAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 11,
+    "nombre": "brand wireless channels",
+    "tipoMaterial": {
+      "idTipoMaterial": 11,
+      "nombre": "User-centric"
+    },
+    "archivo": "tellus.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKiSURBVDjLlVJbTNJRGOehXtl6dD20tbV66cGtrfnUU7WW09Sl3TRsokucuGGZInIXRRAFEQhMBNMCUkEDuWiKrTC1uTJvqVQP9dZDDW1p/TrnT2u5XNbZvp2d75zf5fvOxwLA2i2aJuoTqjEZe6e7XcHqqCJhnWmHclSCumA1+78IGsblidszbQi8G4R5yoDaQBUqfRXsfyIglhOWaQr2wbXihP/NAPRPNBB4y8FzF7P/SlD/SJowTxsQeOvF/ddOOBatqBoSYCjeD82ECtddXBR257N3JFCOihOmKT38BKyeUEI5LoF9wYLOBTPuLnXCF/dAGhbhiv3C+h8E8pG69fZnrcSuF6ufl/BlawO9s91QjNUlwWseSMJCXOrM3dxWgmGy+ZAsIvpqnGxhalVHlQzYFDUi/nEVqqgM3jU3xCEhVUZ+10Xk2XL2MASGSa1IRiy1xXQM+N6yg9gWM8oULB+WJMHBGqqM2IfHqB2+hWxLhoIhoJYMsWY8JA3qXe5iar0zb4Kc2FaNyzCw6oYoWA1eVwEE5gIUN2eioPEUMhpP4Iz+5D6WYkRsJwHbcxMG4w9QOchHx6t2OBc7CNjFqPG7CyF1F2JozojZ9yHowqXI0x1FWsUBJ0sxKk6hLuiQmKZaGbuOBVsSTHJcDwcc9Wl4X7bAO68HXZoIF7pICY7zUjaYJtb4b1jtMzYIfHzon2rRv+KC0H8T561ZEBKSdGEq/HM2/L58L4yUIPkVlT7+YWm4diu8FkCZpwSEEFnmjO+k08M5lsyatLL9G02ha1CFOAxYFeRsd1DeV7qXTFc/t4fzjd/HwzlT+mauLfsY6fRBek8eKnI0R6ANFTHKdKdnktf8GqKiHk7qVcflafJVZ3cab/K4gcQnavvn3kDzPwBTBMCdhxN/5wAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 12,
+    "nombre": "redefine bricks-and-clicks architectures",
+    "tipoMaterial": {
+      "idTipoMaterial": 12,
+      "nombre": "Mandatory"
+    },
+    "archivo": "integer pede.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJFSURBVDjLpZNfaM0BFMc/v7s/pv25tnsXlrzo2nav3d3y4CaelqLw4l1JEVaUl1GeUHtQXpiSUvKqZFFWJtFajO62K/KwlXQn7syfe+3PPX883AkNKefl1KnzOed8zzmBu/M/Vvm74OnMiayZJlTNVfXO2fT5nX8ChJYm9zRhJFrrWok1xAJRTf+tgyWAU6neDwuyUCx5ieJCEREZ+xsgcHfOjJ50M0XV0LL39sa2QEwYnRr7JKKqqiER4cru641LNFBT1tfGMDfMHccCNcMd4s3xsLribjyeePp7EVUVdcPcyBVe83HuI+KCuRMKKjBz1oVjiMgfAKJk81kaqsKsrG3h/dc86loex+dRUwQlUhdhz7VdLiKIKLcPDATBz3dwbPCgx5vjZKczqBnmirihrjRUhVlTvxYzxzEGRx5w99Bg8MsdiCjqimjZ62KymmIz87x5+YLZ2SLF+QJuxR8jHL13wEWUFTUrUDNKXiprYoqYUZ13ossr2Lh1E2uaYtx/fpPh7EPS3S3nQt8rJ1a2syq8isnPE8SbkiSakiQiKTqiKWSqSKqtEw0pnau3oUGJdMdmgCOVACURBCXz7hkbop1MvJ0kl59CVYmGo8x8zlMV1LGjfT8Ax7su0z/eB9yqqQSQkqBmJCJJRI1cfoobe/sDgO2XurxQmOZ5bojR3CN6tl2ld2AfNRXLAObKABGevBpBVFlc0dwPYcWorw2Gx4aCzckt9I/3UR1U8ijzAOBi8K/vnO5u6QUOA/XAF6Bv+EKu5xvVXGolRpHH+AAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 13,
+    "nombre": "visualize mission-critical supply-chains",
+    "tipoMaterial": {
+      "idTipoMaterial": 13,
+      "nombre": "intermediate"
+    },
+    "archivo": "libero.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMGSURBVBgZpcFNaJt1HMDx7/MkbdMkzZK0SZxLmlZc07pN+3KoVcEdehR0ysAd9OZBvCmIIIhMPMjQswheFF+QIVitJytTRi0r2crqbE1dbddtVdq0WdbmyfPy//1MQRS8+vlYqsr/EX767elkvif+QyLankctUMGoYnwf1/XxfR+v6eK6LoHjYpoOntOktrV7e31pdTJczHYtThwr5PtzaQ6IKgeMKCKKUcUYwYhijMGI4hvD5YVf0hfc+lL4SHcsn4mGqKz/QWAM5cU1Hh4bZP5KheHjvQS+cOXnNYaG+rh4cZFCXxZjhIH8ITL3HE6FLQtElbaQxc6e0AgsGqaNnYbP93MrGCOI2nh04lrtVLfrFPMpAhEsy8J68+NZtQMHWxTLDjExWmLXa8eIYEQRgcAIgQiJcIOZmXncvSqB57N1q06oszR5PW7vjUc7aGRzmVgmk7V+W/mVlcoKGxs32LixTnTvJ06Ep3DjIxCJyd3a9tXqnfrmcnnuVUtVOfDSe998Ov5g/5nB+4ocikcpZW0OSOBw69IbxLLjLK5uMl8boTy/OP3ZuRefoMWm5fRbX/V2J+OncpluPAPxDv5RW5umMz1M4vAIqf1ZCgmHtnjPI/zNPvnK55azUzs/2J+LYIXBsklELA54d29SrUzR1ZPE1KcoPPQceWeGviPx1Nijr71Oi33h3Wd1cKh/LJVMsVnzMSJ0tlmgytbSF6TvfxKal7n00SfEkw6xWplirEZXOnmaljAtTU/sze0a1zf3abo9zMxdIx0s81TfDpn+DKb+O6hg9ubpP/ky1W/fJ9peaqfFpiXwfXwjeEHA8upN7uw3OabfkewdRhpXUXEYe6aEeLeJRCocPTHJY4WNo7TYtDQ9D8fxKPR0UMxEmEgsUBoYJdq1jQZVsEKUv6wAgjQrZAaKjCZXQj+ePf6Apao8fuadpdy9ucG2SAwxAS/kPmTi+Q8I2WtosAso/7IJdZb489oCla/PnrdUlf+aPTe2rUaiKoqKoCKoCCqKiqCiIIKqlv8CsLWQKDaepcQAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 14,
+    "nombre": "maximize visionary mindshare",
+    "tipoMaterial": {
+      "idTipoMaterial": 14,
+      "nombre": "collaboration"
+    },
+    "archivo": "mollis molestie lorem.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAI3SURBVDjLpZNNSJRxEMaf1XVVyA/8iH1fKdEKIzwpSIeCLmkRUaaXSsE6tB3qYLIQeTUMCwqEKNI6hJHRNamwEDSXCENKoaKNNjLCd9PDRuX7f2b+HUSzcLs4t2Hm+Q0zPBOw1mItkbEy6RiP9LSPnuhK19x6r6nn8MDBrlUBHc8iveFsN+rkOJ2nnhy78q+4ZbCp180ri7qFbmfjjb3L9UDH+MlMq9oXznHaNuVvgYjg3dwbJOYT/UKJkAIx0ucUlLVVOVWgJabiU4jPxPtpJBJU1bMqWpuFEFQVFhakgEbqhBKlkUyStUJCrEBVEQxmwfisEyPRgLUWp58e3xgKhBJ1znaoKh6/fYRbjYOBlSscuN5g62vrQSsYjg0j9T1VPnIu9ikDAISyOFUEtITS4sidxtCy+FpDSI2CSlAJYwj68ueIQoEYQixBEYTzwqBh9xLA+Ox2SlwYXazTX4QAQBAASJlZMP6cl/KK8nMLUF5agR+/fp7Zf3V3tVDgFLv1lRsqQCVmkx5SqdQcKTMAEFgyUsvdQ82kDFSUVIbcYhcKC2/egwhRWFAEqkH84wdMTU/7Qjk6cfHV/b8AANB8c99mGukk2bq1fFvm+uJSqAo+f/2CickJEcptGjn/8tLr98s+WM3Key7v2rEuN2+0proGYhWx5zF4yeTOFxcmx/5r5aV42D4y5n1LLvhi4NNg1vMWVhOnBQAAfWarVSgUNJKdri+YFmCIB0NDECMQStpvDKz1nX8D4+Fd1+gIFK0AAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 15,
+    "nombre": "brand visionary users",
+    "tipoMaterial": {
+      "idTipoMaterial": 15,
+      "nombre": "product"
+    },
+    "archivo": "vulputate nonummy maecenas.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALeSURBVDjLY/j//z8DDKvNusuTturRzro9L95NO/b674RDr37W73z+Pmnxg9PypRcUkNXCMIaAcu9Nj7rjb24ee/rt/9HH3/47zry7Si7/vKZM5hlGggYodd5g1J9wc+KiKx8+Wk+5vSh367OLlp3XF8kknxbGphnDAIWGK4kbb37+pV13pV82+6xF1Y7nt90m3NwinX3JWrP51hzz3nsHTTrv7jZpvbPbrPXWQc3Sa8sQmqsuq5bsfHF15ul3b2TSzphJx5/UmXLw9Wv/KbcPSGdecFauuDnZZ97jz9kbX/zPXPPiv07pjXXisRfK4AYYtVydufn6pz/zTr77MOHAqxczDr5+e+Dmp/+xs+6eEfM6IKffcGt9wLxH/5x6795NXPbkv0T0+Wax8LNsDMAAYgEGUOySM+8++027s1cy9GikRODhYHG/g3lT97x4mzL77mXJhLMZMUue/rdtu3sZaKt7xNzH/2WizveCwwAYQHrZax5fmnTg1SuJoCOGMBeJeu5VT5px52LGrHsP3Cbff+824d5Lsajz1kBbgyJnPvyvmnhhGdiAjp3Pv087+Op/89ZnX5Jn3N4GEhRx32Mc3HPj5LJDb/5HT7r3P3HJk/9iEWdrwXIhp73Dp97/r518YQvWdICMgc6NiZ7/+H/yoif/U2fM/58zJf5/Wp///6hWj/82ucU3BL2OCOPWHH3ezLr+5mWv3rvffKvrTzeuTvy/5crU/xee7frfvzvrf3i/7n/jdJ15OA3QzL60JmHeo/9iwSebY9tdvm+8POH/xmuT/oNAz57U//170v+bZ0v9wNAIDCRj0dAzxe5tdz54tN35Kux3Itin2vD/titz/iODTZemAg2QxLTZvfPuJ9++u/99e+789+m4898o7eIxyxzp7927kv6370oAa27fmQB2gUW2/H+8gQjDQJtagns0/vfuSgHbDKJBfKB4D1EGQA3pAOJPIGdD6Q6QOADllJVJzH+HzQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 16,
+    "nombre": "envisioneer end-to-end networks",
+    "tipoMaterial": {
+      "idTipoMaterial": 16,
+      "nombre": "maximized"
+    },
+    "archivo": "a pede posuere.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALoSURBVDjLhZP9S1NRHIf3D+gfURRhL2gFFQYFiSkEIkZFI8kfyjIUNNFCrOnMFxKJMTfCKNEl5AxUVCx1bm6NdMMkx97ci5vTjTn3otvdy9326dxbiinRhQ/n3MN9nnO+557DAcDZH7VanSuXy4VTU1OL4+Pjm8PDw4HBwUGTRCIRf+wXXz34/V5Ho9FkEFhE4ITT6YTf78f29jYikQhCoRAMBj3E3a/otyJ+v1DQnvmX4A88abVakU6nEY1GwUgcDgd8Ph+SySTSSQo0ZYJ8egCvO+qV7W2NmXsCZmYGTiQSYB6apsG8WywWBINBVhqnNhAL65GKreDrRC+aX1b2swICXyTLToXDYRbY2dlhJevr6zAajWDGk0kakZAR8bCBXUWCpKb6Uar26ZNcDoFFa2trYGIymViIqZkRud1uth+PhYhAR0An6W+RFcahVCpRXl4u4mRnZ+N/qbh/BZMfShDZ9rLiQCAAm82GsrKyJVag0+lgNpuhUqnQ19fHQkzrcrlgNi5DN/EAWytS2Ba6Ybfbsbq6Co/HAy6X62MFDLwLMRImzBiTlppr2DRIQIct0I/chVY7i3mdBUbHBopLbm0dEjDZhc3LKmgGihDbHENsowt+6zgWx+qh0jvwRWtEQdFN/aESdkU5OUQ8y4fPNITYWjPm2s8hsTWEH+/zMK8exTvpBApuFPX8cxNLiy/APtOAuLcPlKUMc205iDrqEbRNYKH3NvILC1N5+dcvsQdJIBCIFAoFPEHyK9d/Qm/XYklaigDZuOhqLSLmO7+zco+U8gYOhQDC6lzt3kns7OzM4Lc2T38alcDmNUD3TQjHXBfiHjE7e2SFS0o4y7aUrQKUewQK/mmvoulk1t5l4vF4Gc8a6noeVz2k1d15oHxWxP0ziHnJHnil+/IZ9I4Oru8SyBqOSzkHr2dVVeVlRcf5qKI1JyVvyU7Lms6kZbxTKdmLLFrWeCJGIGrm+TFqpv4oNV13RPkLngD4bMIOcuMAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 17,
+    "nombre": "unleash real-time mindshare",
+    "tipoMaterial": {
+      "idTipoMaterial": 17,
+      "nombre": "matrix"
+    },
+    "archivo": "eu sapien.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAB+SURBVCjPpVHbCYAwDLyIIzmEX07hCH64nAOIuo1Sq+CZ1ueXVsyRBJrc5aBCPEeEvwuxK9XtDn0Si/ZU9gUg2Z/dYEuiuxSI5mRtwyuEIR5KOpVZYRUjjMLVVkIVCk6YPPdg1/LNQ87xdtl4JauaQ7CHjAfXeK5FH+7h9bNWB/9J3PASf8kAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 18,
+    "nombre": "maximize web-enabled metrics",
+    "tipoMaterial": {
+      "idTipoMaterial": 18,
+      "nombre": "knowledge user"
+    },
+    "archivo": "rhoncus sed vestibulum.mpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAITSURBVDjLpVM9ixNBGH5md/YjH3u3EnKX5BDcKyRNUAs7QUwawT9gZSptJL/gQK6ysLYUsfAX2CSNIVgKV4VwBqIQCGc06mFiYnazu+O8o1mihaA37MPM7L7v+zzPOztMCIGzDA1nHHy96Pf7L6MoqkogDEOsVqsEQRAk8H2f5na9Xq9RHiMLMvm6aZqdfD6vgv4cmzYNw0Cn08FwOKw1Go22UiAZH7iui/F4DMuykqTNRFqPRiNsbW3B8zwiPZCv26zb7Sr2XC6H6XT6m1yyQomMMei6rtgdx0Emk0Gr1cJgMKhxYifp5JWCbNtWWLNvKqE5jmMsl0tUKhX0er0DTkzz+RyTyUQ1aB1EzRRCBqeLCDQb33wLlsGxnYohTo6QcVylkgpUqTptKElaUpI1TcPOxatIp3ZxqZQFN3R8/BrgdOZjlrqA0ragnKpGrOSVQAXWoD2y57G/m8apz/B+Kt8xHXs7DiLTTY6YU4F1Ekkvl8tqJnz6HsA0DYR+iFi2wQ8FbK4jFFx9TwrQCfz0LBJQwGJhIFhFkA/C+FcjGbCQPSt5JaWSy462ms3mzY2/LJn3KjcwK1yBkzLhRwJck1a+rCA+9/Hk4TNJZLfY3y7T4+bQszjunMuahyRgOvfj8MMxu5Y/YfO3r2bvjo/usX+9jS8Ob90tFAuP8t5l983r5oL9z3V+fr98u7hfeRrHYeoHJYR682gpzWwAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 19,
+    "nombre": "unleash front-end vortals",
+    "tipoMaterial": {
+      "idTipoMaterial": 19,
+      "nombre": "Graphic Interface"
+    },
+    "archivo": "est congue elementum.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAI5SURBVDjLpVM5q1pREJ6r1w33qLihIgoS0Z8QYhRCAjapXBqrFCn8BQ9SBixs1N+RVyqBGBvttFELxUJxRwm4gc81ZwauaNp3YJhz7p2Zb7nnctfrFV6zRPDKxQubTqfz+3w+h1nA6XSC4/F4i8PhcIuXlxfM5VQqFcE+DiWw5vdSqbRiMpmo6P91L1MikUClUoHBYBBJp9NlYsAQv+t0OpjNZiCTyW5N9424H41GoNFowO12I+gTe1zmms0moRsMBliv1w90UQo2chwHYrGY0NVqNSiVSiiVStDr9SI8oiN11IpFcrmcQkC/Z4L5crnAfr+HYDAI7Xb7iUek3W4Hi8WCDBKK0EzMwll4hmee50GlUhFLHBDG6XjAAiaJKItEogcGwiCn00l1drsde8I8oqJWDHyBgzabDcmwWCzQ7/dBoVCQvO12C1qtFubzOaxWK2JMA7ARA31AI41GI8RiMZLm8XigVqsRQDKZJCOn0ynU63UCogH4BXBAo9GgwnfhMORyOZKDLNAwbMpms5QDgQBEo1G8C8AzR0vFYvETUq9Wq4RIV5QZhQzi8Tjo9Xqij0YXCgUYj8dUw+Rc+EQi8Vm4LPl8/hvT/oNtda1W6xcz7kMmk5Hgd8eFA9k6svyH5Y+TyWTN3d82v9//1uv1/gyFQhaHw3FhLN6gYd1ul26oy+UCs9mMMv8Oh0MRu9KzhwE+n09stVqDDPHZZrOZWJMY/9jlcvmV5TEz9xl/B+bbmaEvGJMv/wD5tI7A5/InTwAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 20,
+    "nombre": "leverage end-to-end content",
+    "tipoMaterial": {
+      "idTipoMaterial": 20,
+      "nombre": "explicit"
+    },
+    "archivo": "semper sapien a.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGGSURBVDjLxZO/alRBFMZ/c6MmomKhBLv4AIJiYekjCFopKSzyCnkGW99BbMTOQhsrBcFKsLCJhRYBNYYsWXNn5s6Z81nMGu+626XwFDOHge/PmfkmSOIk1XHCOvWn0ZdXsulPpAFZQbUgG5BlVDOURLWELEJJXLz3JMwTVOP0tfsLChIEmC2A4OD5g0UHebLLWQl5bAcBJAcC4i9D6FZRiUtGMMOHb9j0PXhGGtruA3hCnpBHzly+i5d+CUHNgCFPoDIDjcEJeQ8yNCxxYL/2m+U55Yh7mpFE8NhE7GiRwGsi7bzF8meoA8io6ZC1jfWm7AnVCPLld1DjPna4y/kbm4Djw1emH56h2oN6VFNzIKOOCI6DFCTKj48cvN6m9jtQC64yAjcXrjrnoBu/94VbDymTPSZvHs/A6RgsT0gZqC1M/46AJcJKx7mbW8RPL5m+e8HKpeusXbmNI1AFDHBkmZHzFpO9p3fkJSNLqEQsfgc6uhCQJRgy7qlF2ypXHynMEfy33/gbubc6XKsT2+MAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 21,
+    "nombre": "expedite mission-critical eyeballs",
+    "tipoMaterial": {
+      "idTipoMaterial": 21,
+      "nombre": "extranet"
+    },
+    "archivo": "lectus vestibulum quam.tiff",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJySURBVBgZpcFNbNN1HMDhT//9d926NWRb65BtB8MWAZGwZIGRcNAZD2qA6E6cOKDhAjFmBzwYYzQeOXHHiwfFAOHAZScUEmeUAPFlWzMDyOtm27XdoF1/3xdZ0iYcvBCeJ+HuvIiYlm+vVD535yN1GzIz1EDMUDXUHFFD1BA1RBUVR81+jWkx9xNTe7I5nsMX3y/uimnpjW7mGn+fYa1RxtQwMUwFF2VdI37s2kvVU4gJosKn+74mBE3HPFW6MZncnHybdGaAzKadeBA8CNqsU1+Zp2f0KK8PvguJiLbHDSGIEvOUqw0PRZdJdR1Aqr8RdY6hWqJRKfBnOMTS7T1wu8izDo730RQlLl57o8PVPuzuHQWSWP0RxOuU78zQ9+rHTL5ymA3nZpeYmhigrVhrEESJTXXMxY6ls6O41CH5MoSASJK/CvNY4SsiWSfv3Vy6+h6SGiAVw/bBDM2gxC52urN/PFcvzWNidGRGwGLyQ2/RUyqgoUlt6Qb3XjrJO3tHiFIZNiw+qCFixCZ69vH9n3/6vX5oevdwmpXCRXLDbyKNCs0nRR7KNmrbP6Oa2MKFa6vEiVUM2LGlE8fA3XF3vjx7y8srZV88N+YPZt73ue/2eWXhB2+bub7stSfB2+b/qfiRU7Me0yJmrF3/hHRnH8uNPKXRU9yrZ+FmkSgBweDK3AptW/MdqBoxLZvtF0LtDsv9x5nYP8XlP4pM7szRdn72Xz6YyNO2cLdKMoKYlqr0kh0/TbZnhIflOlsHurj1aA1VQ815bbCDhbtVnmXmlnB3Nkx/M3dVgu5uqnUHUYIoKkZQQ1T4P5XVxsWEu/Mi/gPrlHrAGd9XNQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 22,
+    "nombre": "optimize end-to-end partnerships",
+    "tipoMaterial": {
+      "idTipoMaterial": 22,
+      "nombre": "demand-driven"
+    },
+    "archivo": "libero nam.tiff",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK/SURBVBgZBcFLiJVlGADg5/3+/4yOllro1BRZjpmXTAy7rIKCKAQJWrQpAhfRLtokroIiWkRUBEFE7QKpiCjaVBBhdqer3bQyyTE1bzPjeJk55z/f2/PEnY/v3j66ZMEDJWzBQgQIZJBVV+uB6VP5cZyZ2rHn5W19AIitT3+25/VHtqwvJZYljQQgE9KJswO7vp127ND8+d9+2XfpZy9vmwdoSxNrR9pm2a/HNSWCICvDrLouXRgM3b7mYrde1/q6nliUdd3Umy/evHb1WLwye3Jyf4mIizKzGWmKXqENmkITRFAEqvElI7bdPG7tqunRq9bd8+N1tz26NXPRw20SUBBBCpARSlCacPT0BVdf1CiDE1aM7TG+evOl+z951uzJs6+1kEnbEEJGqMOkhLZhJIu/TqXB3BErz79tzfUbnT7whn9+/uPVwSB2tJkk2ihSSkQJgaxkU6iHXXnhHRMbNpg+9Jb3PzxZl82Vnfc9c6RfEhURlAglQokQGXpNaOcnrZh518T69c4ee8+vnx/0Qf+hwX3PHJmCUjsyqUhkJtLg/EkzBz+24O8nTWyYMH/6Q99/9J2Vd7xgOsYToK01ZSZJSjDz334zk3vVbtr86TMWfvmSmam+ZuNTxq7ZZNh9A6AMK8MkK8PK5NFDvti7T3vJVTbfdIula+/30+8Xm1q83eI1d+s1RdfvALS1SzXTEz/0LesfMzb7p8uWX+uryXmv7Z7VxiJ19fPOlSv4qbPr8p7BfAXQdt3QcMj4kp7mq0+cyZ5TR884d7avNzpmYtMGK1atksne452saTDXAWi7+Vq7WrM/FLnlQTVSCgtQk8PSoaOdLKHU0LZRu2HtANrB3PC/xSPN8p039BdnZpFUwNLRFmQy2gsRaq+J2WFX/wVoI/K5ux779N6IuDHlIgBJIiWQYK7W+n1b7AL4H1KjWV696jEzAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 23,
+    "nombre": "reinvent visionary users",
+    "tipoMaterial": {
+      "idTipoMaterial": 23,
+      "nombre": "extranet"
+    },
+    "archivo": "volutpat erat quisque.pdf",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKbSURBVDjLpZNLbIxRGIaf/9Lfpa1rZ0hNtYpEVRBiNkUiEZFoKjSxQmLBglizIQiJILEgWHQlgkpLGg1BU6E3imorLkElLmOmM1XV6mXm/8/5LH5GI7EQJ/lyztm85/ne872GiPA/ywa40NC3X4TtSnRIa43S4GmNUhqlBU/pUaVQnqC0fnRk89ywDaBFdpeHs3P+5eUDlW8XpgmU1jkAmdU7QQSUB1qB6/rnVBLcFCRdcF0G99bjumrMKIFfPgjkBkB7fon3UyQJbhK8FLyIAuB66rcHSumfAgZ8ToBon0Rrn0T5+6AzyKd5eVi3j7HDuUfnmchWRITTN6PyfdiViw3dIiJS2RgTEZErzf69qiUmg59rJFq/R/o6a0UGIvK1s0paTqyN2QCu0mgRbAuqW+JYlsnVB3FsC2pa4yQSuxjKLmbK3BJ6u17iGCmyJ0wna+rMiekWBLAtgw3hADWtCdaHg9Q+jrO64BVDmUVMKlxDMnoZZ7zB+/ZX9A+ZGMmeRWkC0WCbUPskQWvPcR7eEEI6xvDYPCbNKWMkcg7T8cjIysfxPnC+dwun95a/Nn1HNSJChgWlSwMAFNtDbJw+g4lzyhiJnMXMcEn1F9B9vwNZto/vTggAE/ypA7BMg7qOHnL6PrBYxhEsXkcqVoHlCMn+fLob2mDVSQIFC9M/ZwN4nud7YMKMgTpyJ8/GkyDRZ6eYHHQY6c2jp/Ul5qqTBHLz0VqwTH4TuMpvYcHMLDoaK5i/fAdjPjbyuqaJ9lu9PL/zFKPkEMFQoU9qGWgtetQgSdPBS28Wp5TOzO1KkHpey6xFK/iW+EJX2xvuhg7z5do34GE6C30DI9cBjD/jvGnllOElhdPscNEsJCPZPBxPbCs92vnub6H6AWmNdrgLt0FkAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 24,
+    "nombre": "incubate rich technologies",
+    "tipoMaterial": {
+      "idTipoMaterial": 24,
+      "nombre": "asymmetric"
+    },
+    "archivo": "erat volutpat.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJRSURBVDjLhVNNaBNREP7eZvNHU9aqBDxkiScvIh78Aw8qleTgz0lvHjwoivW/YBBBDxY8iIeiBiMoeBPBQIUqXnrQgxBy0l6aEkIWbDA0JTZtNrub3XVmQ7YEbRx4O+/tvPm+mXkzwnVdDJNsNuu2Wi1kMhnxL7uE/4jjOCgUCpvaZf7kcrknFMlRIcQOOm6nFaS955xMJiHL8nAA0zRvp9NphMNh/7Jt295ikEAg4DtoVyYvoGN8VF8/W/IB+JKiKDjwfgxR2YHucLouRkMW3hz65YNql2/dG5HsqfV2p0jH/X4N+AKziYCLO0cEHo67mBqn/4qMVdPB8ZYF7dLNi9A7M+bvNmKys09LnZnwASRJgmVZEJKLEIFIxB6gxYCkcHDdRHB55SXanZPWavsGpQDaX/NT4Ag4DUGp3v9KPpSB4Cxoua6NmWQc52pNytV8pM6+FdrhE9MEsssH4CIxwLs9857uF4+1ElAgEZosS+g213uVbHcAw9jogz7A7Eoec/onlEol77xt+hW40VLaMmTbYse72t5j12MjFKpuLPwVQWr0VI95Zy+C+tXzGCN7aWsMWxZ/TlDYX4LC+QGTCtMxng68AjuUy2VPVyoVj1nTNC/MYiIOtfA5S6xnw0S5pjWKau3784EI2IG7rq85/0QigT4Bi7r47YEW312DaX0YmAV+Rmau1WoIhUKo1+uIRCJoNBoeINv7otbnX6jNhaWBVqa+X9N1PcbMLKx5Flhzf9A0ukNnoVqtPs7n86cNehohNqaW991uF9FodG4zgD87aSjZlUUofQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 25,
+    "nombre": "empower world-class e-tailers",
+    "tipoMaterial": {
+      "idTipoMaterial": 25,
+      "nombre": "Graphical User Interface"
+    },
+    "archivo": "dapibus.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ1SURBVBgZBcFNiJVVGADg5z3fmTujY5NZBANBIVkZ2J9IKkZFGKRuglq1KaqVtoqoVbSKFi1LoY2QEVSbcqiFWWJqPxL044wUGESQVqJOKerce7/z9jyRmba++tXTy2YmnyphPaYQIJBBNuPWfls8l1/EfxdeOrJnxxAgMtO2148d2ffC+rWlxMqkkwBkQjp7aeT97xf99cfS5ZPzv6w6umfHElQoXdw+qN3KhX90JYIgG30243G6Muo9tOYa999WfdfOLs92x4UHd3163eG3ti8ViIgVmdkNumKiUIOu0AURFIFmdmZgx4ZZt9w6uazOTO+FAklAQQlKhBKhRCgRShfOnL/i5hUjd64Kz2+6XjfRPQkVIJPaEUJGaH1SQu0YZHHqXBq2sdaGHlg9KWoZQ4VMEjWKlBJRQiAb2RUGlBZa66RCFFAh0RBBCIlENiY6QBTRhyypIROo0MZk0hDITFAKWqhdkkGSQt/oG1ChtZSZJCkBSCCEE79+Yv7UnIuXLxiNR8rwnsomFfpGn2SjAUjQkuPzHzp98XMPb9ngplVrHFr42OX5ubpx1943K7Rxaple+2EopBZkBo2MNL3wnie2P6ovvbtntzp48iMb1232+6n9OyuMx72+Z3Zmwn03Fi3pkz5oyWffnjERKzy29lnw4iPvmDuxG/unKoyXWhu3lsNefPNnr0VKAVpy/tK/Fk5/7afTR72yda83DjxjqpuEqxVGV/u/pwfdDS+vG05nZpE0wLXLqn2Lzzn287s237XF3IndBlEd/fEwvB2ZacPOgzvHo3w8Iu5NuRxAkkhpovug1u5Q5SoGfWurDxzf/eW2/wEnITFm/fHryQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 26,
+    "nombre": "engineer enterprise vortals",
+    "tipoMaterial": {
+      "idTipoMaterial": 26,
+      "nombre": "system engine"
+    },
+    "archivo": "et ultrices.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALoSURBVDjLjZNrSFNhGMdHJfVl0peCKAKNoL7NopQ0CCqRQrxlUVoxK6eZk0oy03Ap5rXSYZsiedsWuYhGopgaqNNlrTR0uUtuuOl0lE6n87Kb/857aKJJ0IE/7/M+PP/feZ73nJcBgLFWCoUiuLOzs6K9vb2/ubn5l0wmm5FKpVqxWCyUiIQn/q5fDZRKJZMyCyiz02QywWq1Ym5uDgsLC7DZbFCrhyF8nu+qEuSJKviFvusAf8yter0eKysrWFpaAoEYjUZMTU3B7XZjxb0I16IWnR0vUVKUIS8seOi7CiBvJman0wnyuFwukP3IyAhmZ2dpqGNxAsv2YXiWf6CtpQ65OakiGkCZg6i2PXa7nTbMz8/TELPZDI1GA5J3u11YsGngsKvpLpyU7txO8qTfTQlmUGbB2NgYiLRaLW0iMxPQ5OQkHTuWbRRARRlNVDxNdeiAXC4Hh8MRMFgsFv5X5GwIeGZmBgaDAWw2+xsNUKlU0Ol06OnpQUNDA11M1vHxcTpP4uSaQNyoDYBOr8Xo6CgsFgvi4uKmaAAp8poIhIjkvHmysqsD8KjpEi5UHkDv4HdojBOIijk/vQFARPZpkuPgioLAqTuMhBcsZL+NhVRZjvTXEQgt24WmTwMIizg3vGEELyhFFAhZvwBvvlbQxlfKMpR1pKP+YzGSJKE4WrANp6PC6v95iNeoeYn5aVsailpTkN+SCF4TG7nNHFR25yG+LgT7cxge+kfi8/mCrq4uWGapT2kexLBxAHHVB9H4uQySvieoVxSjpreQgtyEsDsXiZIw7HuwZWl3JoNFA0pLS5l5j3M7Gt+JYfippiHRQn+cKd+DU892IqRkO67UHoOgi4cEUSj8M30cfqnMI+suE4/HY97PuledzE10yd5L0TfUjSHDFwzqlejp/wBW/lZcrT8Jvwwfu98t30MbbqNXXG5qSGLy9arLCfGq2IvR1siYcGt45FmVf/Ym196szdiRyfBbW/8bMwbKi+1SPUYAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 27,
+    "nombre": "aggregate frictionless niches",
+    "tipoMaterial": {
+      "idTipoMaterial": 27,
+      "nombre": "local area network"
+    },
+    "archivo": "eu tincidunt.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJjSURBVDjLpZNLbxJhFIb7A/wF/A5YunTDzuqmO+PdsDFx0dSVpJq4aIyQmUIU06a1gUqCJlXb1Ehb6QhiGgsdKFNAwAIOhWEcBobLUI5zPpgRLzsneRfz5bzPec93mQCAiXGdc4FJk0WTVdPUSNbRmunP+nHjGU3muy8lW+DjMR3ZTzMHiUMhziaF3b0U82InR0/76zaswdrfACPzWV+obI8fZjm+JoGs9EA9HRA1Wl0oVeoQ3mO5hc2sHWt1iA4wo5lNfZXbHRXwU7p9qMs9EDQ1O32yJitd2I3GZM/6EULMBIBzYWzsrJurUhcqP7rAi0OVxQ6U6h0DsrkV5m6v8DiOCQGWAPONxti6+eKDENxyJw3z5OwOXHclSBr8UrnvQPkjNHoRYA1/OWJwZoyKpgv3EZAgXYtCWwNsE0Ct0QOppcKJqMDi6msGvQiYih0kBNwsLEAAdryhAY5rbaJJ+zZcm2dJOvzvqqew4l0V0EsA+3GWALAAu+qRsbhQbcP5e0G4Sg8B+C+1erC49NwAWD98TjKi3IGGog47ksgs5E8UyFUUDfCeAHBj8WTSRREoj9cYweINZuhCqQaDAZAOGBeV5RUiNF+mWDJerz+ArU9JsLvfGptouuOr2oKhKCdIbeMkdKXLLeM40ZzRujufLHNX3OnhMeoXiXoVt6+9C8l8vUmSiE2VpMEx8PjQnC7WweHxyTPU+q+LNH6V57xR+7J/jYvEMlDgJbInOHMyL8BGKA5z1AI37Xzz91Uef0w3n+Vts0836EeuJYaadwuPnbTw0OFhZhwB+hKd+vdj+p/n/BMZPwxzcSL1lgAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 28,
+    "nombre": "syndicate plug-and-play networks",
+    "tipoMaterial": {
+      "idTipoMaterial": 28,
+      "nombre": "toolset"
+    },
+    "archivo": "cum.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALtSURBVBgZTcFLaFxVAIDh/5577jwzj0wSUmqMtKIiBltbbJ1FUCxVoQu3FrHGVRU3BVcKrkTcKOhCUOtOAyJ23WIQtFawpoooZWKJpnbsNJN5PzP3PO5xArPo93nOOfasXCgfAz48mE8UhzpiqCN0FLFrog7QA+qABVpAA/gC+FYyERlz/NC+qeIbT85xt4GKckMV5Voju6A09ELLzXqfi38PTgLnJBORMfPZmMeectsSeB7SA19CPBAsxgW+EAQ+PLaQZH8uXTj/S+UDwYTVOitxmAh6yqOjoR1CZwSdETR2Yadv2fPm6i2KB9IszQZzkgkVmvnLZcuP21VeO1rgs+tdAu1YOZxlKiHw8fA9iADPdvn5nxa/3epUBGOH39sqjETu2UJG4oUwDB2RcmRSHuevdtjpWgZhxEBH4KDaDflobbNrlVoRh97demHpgfTth+5J5ZpNw5kjWQxw6mCa7aYlk4bPr7X54XqfkfGIHNjAYpQ6cOH1x9fEw/cnP13M+Ik7bc3ZYxniMR9PQCElObmYptox7E97XK0MscbhHJgwxKrQMiZ+v9Y9u3knHBUCn08ut6m2DQJHe6C5WOqQl4KbVcXR2QSxwENbS38wNEapLmNi4/0Hv/r3zxvHN0p1YnGP1e/r4ODr9TbZlKBTU7xSnKG4lCUZQKMfYkJVvfT2c44xyVjKr6lpEUI3g3UOPIE1lu6O5aUTcyRjPjhISUGttYtVYYUJuXxudRZ4p/jIvZx+eoHvSopmz/Ly8jyJwBFIkD7EfMimYLM8xChVZUJapU4Ap34tbdHalfRDh7aOUHsoE2FsROQchVyOV5/Zx3ZjiFWqxoS0Wh95/qlHk2+9+AR3sw60dSgDOPj4UoVUAL3+EKt1gwlptd7arnf4cq1EfipJPpsgn46TS8fJpGLEY4K4FJxenicuodbsYbX+jwkZGfPNlfWNhSvrG/cBM8AMMA1MA7lELAgSiYBsOkk+m+KPv8o3gJ+Y+B9yFXCQeyJWrQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 29,
+    "nombre": "maximize distributed deliverables",
+    "tipoMaterial": {
+      "idTipoMaterial": 29,
+      "nombre": "optimal"
+    },
+    "archivo": "dignissim vestibulum.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKbSURBVDjLpZNdSNNRGMb/EcjsxiCkMKhGCEaxTAoh60qyIiKaiDTNUklTWatwoLnSbbiaa5vDMefGcv/+29gHa3ObqWvpprTp5kckrpvu2q0XhVZU7OlsF2I32sfFe/G85zy/l/c5HAoA9T+15eHS0lJOIpHI/ScA//liXYd55vOLUGxN6l1Zu8ssNPwxgJgr2x3zENpnofC9Q3fgPTK6VhGo3BZAzBy+OQbpqxXclDnh9o+/FZhmsrpO4cWle3rOloDX01F7ryWMRs0oRBrbfKb3aMg7m9H3n9qg1Oi0vwGWl5f1JKwkCSsZjUY/RCKR9OrqKoYY97e5uTk4HA6QHmQa4xdyF2q1el0ulyclEklSJBJFMklrU6kUCADhcJgbi8UQCARioVAIdru92ufzwWg0VvGZMtwaPgG9QQexWFyTAQuFwo8UmXI4Ho9jamqqYGJiguX3+0vcbvc+m83GMZvNeQaDoXhgYGB343DJV7Gfh2p9Ee6I69kEAoFAMJrdY3Jy8hMBgEzjBoNBWK3W6wLrWfCZ0nQzfRL1puNpkacKzoQG7a4rOKfemzbRRrS0tHRkAWNjY+MjIyMFTqeTZbFYOCaTKb+NKYV3UQf3gjZrtCf60R9qBx3rw21rBU49ZoHXyq3MAjweD5cAwDAM1+VyQafTXWsk+2bMqqAA8vE29L5sQo+/HpLRZuinpag1n0FhN/Vz4zlomv5BwmJptdoilUq1p8Z4BI54P6yzStDRPjx784RAWjE4LUGT9QIKu3K+7++kijcAJCyQsKBUKiGTyXB1kI2Lmv0oV+ejTJGHuuHT0EV60MBUoPBBLi43nA9v+5k211HpjvUbdDkOdlGpQ8Jdx3g8Xs5fAdgPqfUDXTuR30mxN/d/AaKgrAVJC0Z9AAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 30,
+    "nombre": "synergize robust initiatives",
+    "tipoMaterial": {
+      "idTipoMaterial": 30,
+      "nombre": "Switchable"
+    },
+    "archivo": "cum.jpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAD3SURBVDjLY/j//z8DJRhM5Mx/rLLo8Lv/ZBsA0kyRATBDYOzy8vJsIP5fUlLyv6Cg4H92dvb/1NTU/wkJCf8jIyP/BwcH/8fqgkUHSXcFA1UCce7+t/9n7Xn9P2LiPRWyXRDae0+ld8tL8rwQ1HVHpXPTc7jmuLi47IiIiP+BgYH/vby8/js7O/+3sbH5b2Ji8l9XV/e/mpoaaiC2rX/+v3HN0/81q54OUCCWL3v8v3Tp4//Fix+T7wKQZuu8S+THAkgzzAVGRkbZ2tra/1VUVP7Lycn9FxcX/y8kJPSfh4fnPzs7+39mZmbUQARpBGG7oisddA9EAPd/1bRtLxctAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 31,
+    "nombre": "e-enable cutting-edge platforms",
+    "tipoMaterial": {
+      "idTipoMaterial": 31,
+      "nombre": "client-driven"
+    },
+    "archivo": "quam.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ4SURBVDjLpZNdaM1xGMc//5fDZqTZ2c6Y9mIkmZelll2hlCVF3FDKlZRyQWJXmsKNCzeLcqdE5D0mL/M2s6HlJSlhs2Rv51iYOZ3z+/2ex8X/zHZJfvX0/J6b7+/zfH/P46kq/3NCgNNt3w6ost2pzBYRnIAVwTnBiWKdTAiHs4oTeX5467y6EEBUd22qmxb/l5ebzn1Y/IfAicQBCi7uBFVwFsSBMdE9mwGThYwBYxhtvIcxbvIEgTEfFGYVg9go1OZEMmAyYLPwth8AY924B85JTsCDviSoRCQiEYkby0AiAUA2J4Cq0nyzX3+mjZ5pG1RV1XOPB1RV9fyTqL7QEdVXOqOc/J7Wbceeq6pGBMYJokoYwMWOIYLA51LnEGEAV58N0T54iEdXBBUh1tXEgrIpZE1E4I+1oEAYeGyqLyH0YePyEmI+rK8rwfcC5lfPxfcD1i5LRF9rZdwD4wQVCH243pXkWeooT1sUVSV8sR/f94i13KHh1Utam0+iRaUsKVwH1OcErKCqxAJoqC2mowXmVFTS3fuJhtpi8p6WUTTcxbyte5lctZD069tMb2vlzurYLh+iqQMIfI+7r1IA9PT24uFx73WKzP0TzF2xgbyPD/BObWFK92WqKgpRT3eHANbayAMfVi2KEwb7WFkT5+GbFCtq4rR+/UxeaRWs3TO+A00zCcSrHPdAlZryqfQPp6lO5NMz8JOywkm8+/wdnZHg18sbFFzbSSY9wC9g5EeAC+jLDZK2Hzz7fmnWSYGxDmMdzgrGCdZZ6ks3MrXzFhUz8gmDGCNJS8+gr4oc9/52nds3lzeODvftCJxX4QL9onBizW175DdAmHVGgBeCfwAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 32,
+    "nombre": "scale out-of-the-box users",
+    "tipoMaterial": {
+      "idTipoMaterial": 32,
+      "nombre": "hybrid"
+    },
+    "archivo": "convallis.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJlSURBVDjLhZPfa5JhFMcH3dX/Meiuv8CBoRdjIvOieRUYmjkzmBaowXCbU9E5U5KhtmX7QbrpyF3UuhDRVFoXgnrhmJO2CSFELaIYw7FvzznU+uGqA+d9znuecz7v9zkPbx+APrPZ7F1YWGgnEgmsra0hlUohnU7zSu+UX15eRiwWez8+Ph6inh/Oj7m5uapYD/F/O45EIu96AIuLi12xnirMT/EvJxNK0QMgeWTX7j+D1pfHTf8r6AMlGB6UYQy9xu2Hb3iPLB6P9wKWlpbOAHrRfOuP5jvhn4DH8SfnA05OTrCzs4NGo4FarYZKpYKtrS2USiUUCgXkcrm/K/ie5MnPzs5ie3sbKysr8Hq9DOrctaCpVqHb7Z4/g/l5TqLdbmN/fx+7u7toNpuspl6vs1erVa55NH8OIBKN8mYmk0EwGMTBwQGrCQQCDEsmk/D7/awgEon2AsLhMAM6nQ729va42efzsVyPx4NyucwKCEK56enpj6Ojo/ckEsklBgSDoTMFJpOJVRCs1Wohn8/D7XbD4XDwkClXLBa5ZmhoyMsA38wMAzY2NmC321ERZ56YmIBCoYBOp0MoFILNZuNYNEGtVj8niMVi+cQAl8vVzRcKp2NjY3A6nQx4sbkJmUyGbDbLN0FXSUeTSqVQKpUXCTA5OXnEAPHV+tSU86tGcwMGg4EBGo2Gi+VyOYaHh9kpFrlTlUr1kgB6vf6w79eJXhYmZDfEsA5XV1c/rK+vQ/xoIGVWq5VjytEe1VDtb4D+/v4LAwMDVwYHB99qtdovRqPxSPjxyMjIdeFXRfyZcrRHNVT7DWZq3D+QvMywAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 33,
+    "nombre": "reinvent world-class metrics",
+    "tipoMaterial": {
+      "idTipoMaterial": 33,
+      "nombre": "strategy"
+    },
+    "archivo": "eu.mpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIbSURBVDjLjVPPaxNREJ79Qena1EO6u/GQ9CiFouCp5FQQET0KQvBQbA/tqf+BCEXoyauCl7KFHkoOvYimUpToRTyISVtsliImpCwkLUGqxvzY3bfOvO2+bOgljx32vdn5Zr4336wUBAGUy+V7f96/3PVaDnjNKty17DkYbZ1KpVLppu/7n5nbnVDAh7NXK3Bn4/tIaFVV59R8Pm9ns9nV8aOClZhCbwDguu5QIGMMiGn8rGlamCSXy80ggxfMXAAFPPj9qXipkizLHBQtSZJEQsFg7KBgTZroZGEArWc7TSAchXIA4w+sPdQH1xAMDGQgeXD+4aNIQODZjHaRILT9Wpt/Q8wwA3X/rXVVD3glkQD3h7V/vGrA8Bvz0Rf2AK/F7zRQoY8qIAPn+TLczx/xRPF709nzPOFHayeTyfkBg29vrEkj5BkFPdlu4NtHugH4wYUSqNBaziQGE5hXifXgMVfh115RdHr90TUOIkPNBZtutwvVahUURZFlYuA4zmqzsAl/v24BFhQSRXJFDYvAlUoFUqkU+VmMwSLIyKC1W4ypwISRr9PpgG3bkMlkQNf1YRXkL6+thIlN8y9PIDGgygROp9NgGMZgqOIqEIPa0yV4sPeDgwlIne/1etBoNHhV0zTjExn+Cxh041bl3c8rSY0PCzWIgGQRCxpnSlKv1/m+3++HSaKGLV2fmp9OjN122u7JxnHrYNTf+T+76nzVPsi2lQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 34,
+    "nombre": "benchmark extensible partnerships",
+    "tipoMaterial": {
+      "idTipoMaterial": 34,
+      "nombre": "Expanded"
+    },
+    "archivo": "semper est quam.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ3SURBVDjLpVJdSJNhFD7bp7Js6qaUDqmxEFfRQFmZ00wjXYK2kgX+h114Ed5siZf9aIWFUSLRReVFgUElGVkURDCkKI3NlKIaRYmWmJmSue3b+9f5DGuBBNoHLwfe7zw/57yPSggB//NFLQcUKHG4BCEuESbt6uUQCDncqNm3x4gEbtVSR5jbuStGEPoaHSRibV7yCDxMWhH8HsHpCd6n7J8E9mPDLsGZmzN27tHJze2z23aUIbAcCTITfM+Y0qMiDQd7gNJSQdnd6MudZZEEhYd9Y5VbpFRZ9kJmlG/OdOGNdC0+58wNg03ijFZxTnGJhJZKjt1RuBCHXFmV9QfszccmbXf/9Lfc2MeTZkvBytFiw/h1Q/Z6xkhTuS3eyCh1qeQDdT0Kya/FUC3am7yjt769aCjMp4Lv7yzoyNeZHM26Ndnw7mHTjODcXnO/NpdzdggFzv71CkVHBmNKxp/cy5sY3Jo2MxKiejY7VZGwzlhUD0D8EAia4VP/+V7BuNNS84AoGHXEvCmMUc/tJOsXt7kuGdddPJsZbUqy1gKEfDBwtQu0uiDQULgUj2MBp7YfHXLhvONo5yWnpMdzylbd15YXHG3QrobtWao4fQC4/AHTw4H9eA6mgkYVleXjAx22uHkCVHXtzYhGdcI8p3PalMuhK/YYVDmhW5sBPDCM2CBYnWY09Rk0Gj8kWyo2UDnsnifgjLTf7P8+guqtC7aYHK5PTCuxxsZ9BUGn8LEl8N7yKzECHvLDqnQj9pCGvpZNGxeNMtobs1R3pUrqj0gwraQ/4q8apBVmmHj1Avy9Ld2LJhHtaXyXnEHBBdrnEUf8rqBUIVJ+AugPahHelS39AAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 35,
+    "nombre": "monetize scalable applications",
+    "tipoMaterial": {
+      "idTipoMaterial": 35,
+      "nombre": "Business-focused"
+    },
+    "archivo": "donec.mpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJASURBVDjLhZLNa9NwGMe/WRKXpp19L6WrdVsZHgq9aBF2cFDRDi8WxJPssqMXDx4H+xuGFDz1YC+eBvUgnWDc0FqoL+CmHlylthurdWqG7bY0zUvtL5CSxYOBh+f5/fJ8P89LQg0GA9ifu68XMzOB8INJ/kL8WKGwf/y5WW817z/KrBXtuZQdMBRfuz5z+emcb4E97LvwtXsG3aMOfiiP1Y0Pwu3ineenIGN24nm//+GsN8U2dQ3bf4BnByJe0luIhsKM1+Fatecz9ovZs9NT7+QaPFoKG3sStOgOPrFPQP92YtoTif4XoOkyTmTgTUvHN5EBdxKFo7sEyr2Jnlr7Z1+jEarVqlCpVAa7P0U6pEg4kmqgxjgcfPdAP9xDnAPqu7/oQqEwyOfzwinAUDzvcDjSyWQSVzxZ7Oy/RSZE45JXw9w5BTeTW/jSfo+l1D1ks1kEAoF0LpdLj0ZQVXXF5/Oh3W4jPD6Ji+O3UNxeg6q9AsP28bHVwo2pRfBdHo1GA/F4HPV6fXkofUGVy+V5nuc3Y7EYOp0O+v3+yIZgkM9MURRomgbLspiYmIDT6YQgCAR2lVEUZSUYDGLojSSO4wwz/w/irbGu6+j1ekgkEqjVassMqSJJEkRRhCzLoyRN0wxvns07cmYYBm632+iQANKkMmnZTLAL7GfiXS4X6TpNRjBIxMyq1sp2iPnO1DGm0BTbIfZRzJ2Q2AAQkt/vH1WyJpjLI7F1ocQikcgIsF4qlRbMlqwjWWPrmJau1/8CtF7RM3ksOU0AAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 36,
+    "nombre": "mesh cross-platform e-markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 36,
+      "nombre": "disintermediate"
+    },
+    "archivo": "ullamcorper augue.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMZSURBVBgZBcFLaFxVHMDh3zn33Dt38poknTSJTVva1LaKxpQ07UJLKlQRTYVUcKNCwWUtCuJWXLkQxIVCl1kIIaCCG0GwXdgkamJS0hLHWs2znbym05m8JjP3nnv+fp8SEQBe+fT21XRT6h2t6ANCQAGgAFEgDuvcfLkot9R26ZOxG4MRgBIRAF7/fGLs2+t9z2itmgU8BAAARACEwm7MyHSZ9ZVaJTd3v3X8xmDNAABoT50KjNf81yaeVgoUiINEHNYK+3HCxacbOX/SMOkKdeJOlwY++KnFAAAotdQ0/PuEV4qeUE0snvg0+Yfp6XqD+rAdjQIcnU0Bg/2d/BKspxfW6oeViHDlm9euvvTsueGXT14Ev5WNSsjufo2NJzkWV6c4f+x9WjPddDc7GtMeKd9QqUa8+9WM9f5sGLsw0Nv33atnLnmSbqa8H7ARBcwXfKCF57sCbt0d5anMc1RshpVywmIx4njW5/vJtUh3tmc/7j/WG/yjEwqR5b8tw9/5mIe1efIHbpNvzHO64yCTuR9IBR5h4BEGPoIGpdGHs50XSiZiubKK5xqYXdwlCUvsHv2NOTPN1KMchw50UCwv4BtN4HmkjMYBImAC46fL1RLFxGeiuEdp2yMIY1pSLxBtHmX/8R/ICUecRPieAgFBkThIHJjt3Z3iKcKuOtvB0rrD+S0s5QP2ZqAuzNLeukZlfwctKZQojAYHhD4kVtC55fkfo60qtfI4qdQKKooIwibCjCXVPMXxTI2Zfx9wpK0XAZyAAL6nsZHFFFe3vvx58tc3L53tP1Jo81mq1YicQRpX6c4+pFaGO/kM2Z63mZuNcQDASIdPXHOY8S+mls5e7728+djMDvR56kRDiE0CGrOWuwtFVosHeevyZ6TSGURABO5tWsQJcdViAKa/nr137sPR6nbhQfrm8ijOWYyfhvoXOdTzHnPlOlTZ4gREK7RTGKOcTZw1AAAublv/aGgouxdLvYhoBBwAkEk7AEQg7SuUwvme2kmsyysRAaD/2s1rNpYhpdQZQeoAABAQQBAAEACqzrk7Gkb+B+5ReIstDYkxAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 37,
+    "nombre": "maximize front-end experiences",
+    "tipoMaterial": {
+      "idTipoMaterial": 37,
+      "nombre": "Mandatory"
+    },
+    "archivo": "in.doc",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJqSURBVDjLpZNLSJRRFMd/M9/okF86IONzClciCRNGZS/BFoIa9BBDrSSC0F2rIFxZUAaDrWrXoggEqVBxHRSmofighUk2jEXjPBxHRbQv1O8+Wozo2MrowuFy7uH+z+/+OdehteZ/lgugZ3i1U2vapFaHlFJIBUIppFRIpRFSpYVECo1UaqKrtbTSBaC0vtNYme39l84PXoeO7hBIpbwAg99fIZRASIGtBLa0d3cpdmodZ7qwbelOE0j5cL389r66WxsCW8hdD6RUAPSOLO5L4NKJXLbSBcS2AMC1qnzefErQdK5g56xvLEHj6d18aW1jL4EtFUprXAb0jS5iGE76xxZxOMG5fWlwfBG0JsMFR3xZbNl/PUEDLsNBQ2Ueg+NJLlfm7yFIz0OxNYRQewm0ApcTBkYjRL5NEhiaI9+bS3Qhic9fQ++HX8yN9eMr9LK8vMKBdQ/V1R1mSkAotNY4tWB19h16fZ1bN1uxLItIJMLo+Ec82SbNV69gGAbxeJzMqSlWcnLup0xUKZzQzCTxYIjmG9d48vQ5s9MTFBUW4vf7Cf/8QXf3BPGFBY4dP0VtzXnC4XC7E0AIgQbCoRk8OQcBeNR5D2HbtLS0UFVVRX19PXV1dQjbpqm1HQCPx+Pe9UBryksPM/15MjWqDx8jhCAQCGCaZmqALAulFD0vnnHxQi3RaHTDobXm7suvI8KWFavJeXPty1vOnqyg2OcjK9NJIpEgGAzidrspKSmhoKCA35uKWHTeHh56P+dI/85lZWVGUVGR3zTNgeLi4jy3220AzqWlpTYg6vV6B4CMzc1NGYvFkpZlNfwBMWlOUI5ySkcAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 38,
+    "nombre": "enhance next-generation e-business",
+    "tipoMaterial": {
+      "idTipoMaterial": 38,
+      "nombre": "open architecture"
+    },
+    "archivo": "vitae consectetuer.tiff",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJNSURBVDjLpZNLSNVhEMV/f7UCy+iaqWkpKVFqUIlRUS3SHkSPRYugVbuCaFPrEgIxsKCFix5QtIsWraIIS5MQa6G1CTN7iKa3SAyt7P7v983M1+Kqm4oCB4bDmcXhzBkmCiEwl8pijpXTf+v0iKqWmimqgqpHxCPiZtF7h4hrO9DUufc3AVUtLdy2jxCUoEYwwUwJKgT1mApBhRf3bu75owMRj5mQnkwSVDDxmPoMisPEsWDxcq7ltXDl/JOgoqioipeTXZf2X88RcRRVH/znrtrZQePRWtQCI2M/slvv9l4AMgLn7n+gP/kddYY4RZ0iaZ3la0sWIl5wEqgpT7BxVYLLt5/nA+R4n+bEsi5+Zg1NW/botPUZnru0nNb8du70THFs3gNqyorxzmfO6H0a8w51KWS61aVQF6MuxnyMiScWx4qCKlo7d9LzbnRWIMe5GBXH/LyiTOKSSf7qtzZCtseZ4Cb6Kc1fTVXxZr7HU1zs2ITqWQCiI7s2hBAMMyMEI0xj6fEEu2uOocFQU4zA58kREgsLefbhMb1DT4k1vSTrzqOX0aukH0xUbqFkXT39Y1GqvHYfsTg0GEPjbxkcH+D9WB8TqXGGvr5nw8odrCmpI5YwHoUQqK6u3g60ACngBnCq9gxbD60/gZgipmgwPk0Ok7+omJcfu3n0+uFXpzREf3umw1crLHYOZ45YHJUFNdGWij30DHfTPtD22QkNyebQF/3vN65rypqqK6vP7RxoH3VGQ7I5vAH4b4GKxmhKLTs3ZVrxpTkMzsx/ARtuob3+yA7oAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 39,
+    "nombre": "deliver scalable e-services",
+    "tipoMaterial": {
+      "idTipoMaterial": 39,
+      "nombre": "capability"
+    },
+    "archivo": "augue luctus tincidunt.tiff",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACxSURBVDjL7dItC8JQAIXh491HWbDvD1pEDIIKm1zDxqKi0WIULAZFYc1msF3ErEZlMC9Mhxx/gTAR28KpDxx4QRK/DCXwAbDg0oLMTShtQF0F5AlwvwHkqy+Zxxs+lwsmvs8DKrIw8DCh8njNLOxRtxrU4yF3MFRhIBFQ2XxG3W7yXq8xjULGsIsDFwF58zzq0YBpFPDc6XIKp/iFI4S7h5BbWGoFW03gyABVtyzxT8Ab8Xzei+tkcykAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 40,
+    "nombre": "incentivize efficient markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 40,
+      "nombre": "User-friendly"
+    },
+    "archivo": "vel.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIwSURBVDjLlZLNS5RRFMafe9/3vjPOjI1jaKKEVH40tGgRBWEibfoPQoKkVdtoEQQF4T/QqkVtWrSTFrVsF1FgJbWpIAh1k2PNh+PrfL4f95zTQk0HHKkDD/cc7vP8uHCuEhF0q/KnmXNgGR248PZFN4/GISXMC8L89DBPV0Dp4/SsazJjrtfb9/vdxfn/BgjzY5M8Aq8nBya+V3h93vtnQHFxat4kszntJAAAxus1YvnZQV5V/jyTEZarwnwFLGeFZdT0ZFOJdD84qoCDOpQ7grZfRNj020JSEOKvwvxGiF+q0tL0N5PuO+Mk0nC0B0BDsYCCImyzAIktBBloMwKJLSgKYcMAcdhC2KpVlIig+H5qxcv0n0xmj4Gbq+BwC2wtJLbgHUlMEFJwUpMIGpto16u+kJzSACAk+WCzvNbe+AVljkOYIcQQou3TbvdOJo+g4aNdqzaF+PT43HJVA8DQpcVIiPPtaqlEUQzlDELsTpgYwgTAQIjQqlUCtpQfn1spdmxh+PJSQyw9CrbKgM7tvcISQAxlBhC3GuCYXk3cWP25m3M7dk88qbWBRDVApaATOSjPBdXXwYEP5QyCgvjE/kwHgInHtHYBnYA2owhrPiiuw0sOw3EZFEagIB7qChDiYaUcNIoFtP1KxCTPhWiDw7WbXk9vKpnOgsI4exjg6Mbq96YQPxm79uPOvqvbXx4O3KrF6w8osv2df17kr5YXJq7vnw/S0v3k7Ie7xtud/wAaRnP+Cw8iKQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 41,
+    "nombre": "deliver sexy e-commerce",
+    "tipoMaterial": {
+      "idTipoMaterial": 41,
+      "nombre": "archive"
+    },
+    "archivo": "turpis.mpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHYSURBVDjLlVLPS1RxHJynpVu7KEn0Vt+2l6IO5qGCIsIwCPwD6hTUaSk6REoUHeoQ0qVAMrp0COpY0SUIPVRgSl7ScCUTst6zIoqg0y7lvpnPt8MWKuuu29w+hxnmx8dzzmE5+l7mxk1u/a3Dd/ejDjSsII/m3vjJ9MF0yt93ZuTkdD0CnnMO/WOnmsxsJp3yd2zfvA3mHOa+zuHTjy/zojrvHX1YqunAZE9MlpUcZAaZQBNIZUg9XdPBP5wePuEO7eyGQXg29QL3jz3y1oqwbvkhCuYEOQMp/HeJohCbICMUVwr0DvZcOnK9u7GmQNmBQLJCgORxkneqRmAs0BFmDi0bW9E72PPda/BikwWi0OEHkNR14MrewsTAZF+lAAWZEH6LUCwUkUlntrS1tiG5IYlEc6LcjYjSYuncngtdhakbM5dXlhgTNEMYLqB9q49MKgsPjTBXntVgkDNIgmI1VY2Q7QzgJ9rx++ci3ofziBYiiELQEUAyhB/D29M3Zy+uIkDIhGYvgeKvIkbHxz6Tevzq6ut+ANh9fldetMn80OzZVVdgLFjBQ0tpEz68jcB4ifx3pQeictVXIEETnBPCKMLEwBIZAPJD767V/ETGwsjzYYiC6vzEP9asLo3SGuQvAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 42,
+    "nombre": "whiteboard leading-edge mindshare",
+    "tipoMaterial": {
+      "idTipoMaterial": 42,
+      "nombre": "migration"
+    },
+    "archivo": "quis justo.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKaSURBVDjLrZNdSFNhGMdPF15EdOO94E230kXR6sIZZl4VkRiVMdOLiqC6sMgr08hQQUqUnBFJbRqKpa6yrw2bzm162lduY2dubjvbbF/Oj+WZuu38e8+hdRNGUA/8eDnw/P/v83FeCgD1L1D/1YBhmBKCwuVyKZxOp8LhcIzZ7fax+fl5hc1mU1itVoXZbC75zcDtdpcSYWBxcRGJRALLy8siyWRSPOPxuEg0GgUxBU3Tgbm5uVLRgIjLiZhfWVlBPMziy5thTD59iPG223jZcl1E1d6Iyf4umCZGSE4QsVgMRqORNxgM5ULZFkGcyWTExAenDv4RVUcjUqmUaDIzM2OhSDnrGo0GPM8jS0w+ytuhvFmLRxfK0XVaItIrq8DgrTrQfefhV9Xhm0kptjQ9Pb1GKZXKUCQSQTqdRjabFc/t7W0RobI8Yb0cidkbyKRmsaS+CJduCFNTU16qu7t7GD9DKI1MH4JhfnACQWM/YloZMqsKrNqbkTA0wTtQjU/yhneUVCqtzBsIfZG1wePxwO/3w+fzQdiM5/U1bCWHsLnUhM3IY6zamsCxzWDkZWtUYWHh4fztglgQBYNBsCyLQCAgfi98uIfv3nZw/qtIsw3gfLXg3NUw3ZGkqIKCgkNklZZcLieWKwjC4TBCoRBY+yQCE5cQ0tRjnZGBWziJtLcGGy4ibtmfeX62+BxFYrdgMjo66iRGsFgs4gyC9CB8IzWk1D5seKrAMcdh6pHC2nEMtjbp1gtZcdWvP5HELsIerVY7QnbLC32H3l8hPT/D+lcJOGclzL1HMSa/y2vejr/6LCvau+Nj0uv1RTqdLutR1WMreh8bzAnQPWVQPWnNqdXqor9+jbOdB1od/RVRuvOIf+DyvjM75f0AOEMKvrn+ie0AAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 43,
+    "nombre": "redefine turn-key portals",
+    "tipoMaterial": {
+      "idTipoMaterial": 43,
+      "nombre": "challenge"
+    },
+    "archivo": "volutpat.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIkSURBVDjLjZPLaxpRGMWzsHQTpLvusgiF7rvuqn9L/4Muu/UxvlAUFa0SUWsU32+jg0iLi1KIohhREWnxTdU4aG2E5vS7AxHSWJvFwJ3H79xzzv3mCMDRoSudTksTiUQ+Fotx4XBY8vf7x8CFaDS6CoVCQiAQ4Hw+n+RRAqlUShqPxxm8Ho/HWK1WIPjG4/FwLpfr6UGBOzgSiayHwyFoDYoAQRBwdnb22+FwJG0225O9AslkUkof83cwA8/Pz0FxsFgsRCcECxaLhTOZTJK9MJW1HgwGIPvMNsgRLjsD6NMNxL5+g9lsvjUajSW9Xv9sB1NZUgJ4KkuEyQG8Xi9IFLPZDOaLJt5++IJ3nkt87w9BsKDVal/vhckBqCwx+3Q6RalUwo/ZHO8DFQQ+NZHgP0Oj0Ww5jnsjCtBufDAY3E4mE5AI3G63mJ3BJI5isYher4dGq4uPcZ7BNwS/2pVIcN7v99/2+310Oh3k83kRZg4ymQy63S4ajQayuQuo1eqNUqk8vXeM1LJQq9VwfX2NdruNVqslOmDNX11doVqtIpvNQqVS/ST45MEgUVmjcrksfjSfz9FsNkURtmulUhFdMFihUJzsHWWarOdOp3NbKBTEo2OtL5dL1Ot18DwPyvtLLpef7hu63cJutx9brdYp240dIcudy+UYvCH45b9G/t4NTdaxwWAYsfysQMq7kclkLw79cA8e6HS6Y2p6RLDwP5hdfwD40PFHzWBC4QAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 44,
+    "nombre": "extend intuitive e-services",
+    "tipoMaterial": {
+      "idTipoMaterial": 44,
+      "nombre": "alliance"
+    },
+    "archivo": "eleifend.pdf",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJlSURBVDjLpZNbaM9hGMc/v8NsTqF2yMhZKIexmpFyRZIiblwouZDauLYoTVEryg2uXIoIOUU5zJkh4e9QDmtJbWxrbUzz/72/9/m6+P3HLslbT9/3ufm+n/f7Pm8gif9ZMcDxe717JLZ62UQzwxukZnhveBOptyHl8anwZk/3b5pZEwOYtGNDzejSfzm58dTH+b8JvFkpwMizdSCBT8E8OJftkzy4BPIOnONHQzPO+eIhBoM5CCrLwNKslBZM8uDykCbwtgMAl/o/GXhvBYMA2rtAlpGYZSR+UIGKCgCSggGSOHy1Q/0DTifufZUknbr/RZJ0+mHWn3mU9edbMu3qG9DmQ08lKSNw3jCJOIKzjzqJopBzLZ3EEVx40smDr/u4e96QGUXPGpkzYQSJywjCwSsIiKOADUvKiUNYX1tOUQhra8oJg4hZ02cQhhGrqyuyp03tTwbOGzKIQ7j8rIsn3Qd4fEVIIn6+kzAMaH35Fn37wbZD68gnCUl+EbAkI3CpIYmiCNZUlwEwbfIUgiBg1cIyJqbzGFPiWbl8GXUb66mqnkrJ2IvUbq88GEI2dQBRGHDjZTcAbZ8+ERDQnOvm+fszVM1egA89C8avwAeO2nlLAeqRxK7j79TzPa/mXJck6darTG8XdM3uhbry+piGrou5I1pcP17h7wwk5k4aRUfPANMrhtP2pZ8J44bx7nMfff29vGl/SNP1LQA0XdtCa2cO4GdhkPRg78kPVYm3kS71uNTjU8N5I/UpxSWracndZOn8ZVx6dZRhQcz9F3cAjgR/+51rt1c2AXXAaOA7cLTlcHvDL6y6kIpO9lqsAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 45,
+    "nombre": "e-enable integrated infrastructures",
+    "tipoMaterial": {
+      "idTipoMaterial": 45,
+      "nombre": "structure"
+    },
+    "archivo": "lectus pellentesque.mpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEXSURBVDjLY/j//z8DJZiBLgZkz37Ynjrz4ReyDEideb89afrDf5ET7v4n2YCEqXf7qpY9/T9r76v/Xu03STMgasLteaVLHv+fufvl/6k7X/y3qrlCvAHBvTeXFC54ANbctv7p/95Nz/5rFZ0nzoCAzpuPsuc++D91x4v/jasf/y9aeP9/89rH/6VTTxJngGPDtc3xU+/879789H/5kgf/02fd+V+17OF/yZhjxBmgVXCaRT3v7BqP1mv/a1Y+/J824/b/woX3/osHHSAtECVjjqy0Lb/wP2/+3f+Zs+/8F3XfS3o0inntXWSeffJ/0tRb/0Ucdv4nKyEJW25ZYBh/5L+w5fb/ZCdlQYMNs4WMt/wfuMyEDwMA0Irn/pDRT58AAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 46,
+    "nombre": "mesh plug-and-play solutions",
+    "tipoMaterial": {
+      "idTipoMaterial": 46,
+      "nombre": "Progressive"
+    },
+    "archivo": "vestibulum ante ipsum.mpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJOSURBVDjLlZLdTxJQGMa96K4/oPUHdFfrpntyZrXsoq25tlbroi6qi7ZuYsuZ0UXRWiv72NS0gjIgDQ1LS0wkwU/UVEREUkEIBBFE+V48ve/ZICza7OLZOTt739/znHPeEgAlhZpyB8+MLa58HHL63H2zy4muycVku8UZahl2TNJ688/6wsbd31yBLps3BNdqFCvrMYRjSURIvOdzzdAcmozWhTaLc+8WADXvHHb6RhYCEdEU2kiIJu/aBtwEywE3k2lQKjz8NB7Sjs7vygPMDu9ddogmUliNxsWaSGfwM5sViqcy+BHeFCl4r6YkzwzTnXlA9/SSh924md25qFDszMnmfGuga4pEd3QjiTxAN/49xY0c10MgjsuOuSssBdfh8IdBSUG1AibTDmbzAHrhZab6IzHQq6N3xo3+LyqY+1phMmig/9AISolm8yyMdo9IcKtt6HcC+h653uoScTsJ0K65jw5yYrWOOISrol6Kht4pcUV+g0efJwx5ADXtUA3a7aMLflHQoa0VzfTSoHMBUClqwL9EM4Lrb01JOt+zZQ7ob/c/N1qDDGEHBugKxO6mOS+qWswZRb/t9F+DxCLHAzQovsfdEyAYXn6d4cHBa7r7NXU/brwbiCpNtsNFJzEnaqp4KjufblDU4XbtJVTJL+BqjQynyvZl6e8P/nOUC1UtvehWNr+BUqlGXX0T7j14gpMVZcFitUUB0ivnBvQ9PQgEgrBYxvBC8QqVxyXz2wboVfKzlSeOxsrLD2VLSyXZY0ck8feN1Ze3Dfgf/QJBCig+4GhFlwAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 47,
+    "nombre": "drive sticky solutions",
+    "tipoMaterial": {
+      "idTipoMaterial": 47,
+      "nombre": "website"
+    },
+    "archivo": "etiam vel augue.txt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHYSURBVDjLxZPNS5RhFMV/7yhGhsL0oaSBfRDF5CIFKchVRCHVNugPiEDa9AcUBEEgQosWUVC0ixYuQtoUmAuLWlSbehmpFGGQQEhCafK5Xy3mdYIKWrjobs498NzDec7lZhHBRqrEBqu1+uByzcx63Q0zxUxQFVRTE0USqunpmevTp/4QMLPermMjRBhhTrjiboQpYYKbEqa8nbx/8q8OVAV3Ze3bImGKq+AmDdSEa2JT507udIxx+9rzMDVMzVR0dGb89N1W1UR35ew//2rTU1w9P4h5UFtabbk18eYG0BC48mSO6uIKlhxNhiVD16zJD/ZsQUVJGhzqKzOwp8zNh6+2ArSKrHFxxwzfSwuFZcEK6+u8fVsfF2pDdG7OWPiyzIFdZSQJTQGXhKV6MSjNQdfUCFIFSYKok9dWqSf7JZDSD0wTbR3djcS1SN612IARKmgSRIO9Xe2IBSoKQHbuxOGIcNydCCcK9IgGj4AI5koDRATh0cAIZl8/zkqPnr3L3i/KfHnfUXr6j1Ndyup9gyN07j7Cp69tU5MvPmeTL+eyDzMTGcvV+eH+7Qzt76Bl5eMUQBYRVCqVYWAMqAP3gEtFP5rn+ez6Kn97N5rn+Wz2349pwwI/AbeHbP+UHpVDAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 48,
+    "nombre": "orchestrate compelling e-commerce",
+    "tipoMaterial": {
+      "idTipoMaterial": 48,
+      "nombre": "software"
+    },
+    "archivo": "pellentesque.png",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAG2SURBVDjLY/j//z8DJZgsTUdmCkodmSV7eO8EkQayNN8+WPry3YOV/3d2ib0nVbMsUPPrT8/3/n9+Nun/1hbxP6Rolr99sOTtZ6DmD7cLwZrXVUt5kKb5xb7/P17U/b+4xu4/UHMRUYEI1KwK1PwOpvnSOgeQ5vlExQJQs8atA8UfPr+EaL662QWk+diSPDlWnAZsWjufedOaORyHZ0lrgzR/ebkfrPnWbm+Q5odAzYJY0wFQI+OmtXN5N62ZVbJpzYzrB2bIfX5zaxJY86NjYSDN34CaVbEmpN4lK5hWrJonBtS8ddOaeT82rZn9b8vSmn87u6X+393n///gdKP/QM3OOFNi95Jlks0Ll6+bOG/l//OXzv7/8+ny/09PD/zfPD/vHtTmVJxJuXfxErbW+UuyG6Yu+T9t15X/rQt2/k/t2vK/ctKa/0Utk7YuyFeXxpsX6qcvXdswe/3/tpXH/neuv/a/cu7J/9E9V//7Fi57n1w+QY1gZsppnfMvqWb6/8iSyf8Dcyb8907r+R+QO2tbbNHEIKJz46bF5SybFhVZbVqY17BpfqbEpnmpfJvmJfESYwAA/ZPGvT+K5AYAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 49,
+    "nombre": "visualize scalable architectures",
+    "tipoMaterial": {
+      "idTipoMaterial": 49,
+      "nombre": "middleware"
+    },
+    "archivo": "in.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJpSURBVDjLdZLLaxNRFIe/O2kTqxmNxAopUjXWB7pwrUIXggs3oispCoqCFWG0G6H9D6Su3IjrQEAExYULF+LKlagUNL5qs4i0jRhokj6mM/dxXIyPIdgDh3s43Pvx+517lIiQjmq1etJaeyuKomPAFmPMC2PMvSAIXvKfUGlApVK57vv+/aGhIeV5HgArKyvMzc1Jq9W6MTk5+aAX0Jd6fCifz0+XSiXVaDRoNpsA+L5PqVRSYRhOl8vln/V6/XEa4P0put3uq2Kx6M/Pz9NsNi8GQaCCIFCLi4uXZmdnKRQK+bGxsTu9CrxUnTPGsLCwsBQEQfVPc2pqqgK0Op2OGhwczG9oAchYaxER23tpYmJikA1CiQiNV1fk2cxRjFNYazlz5A0Z0Yg1iElSa/vUddtPgfMKOe2J4eC1dypRIML45WMoPFRmAMVpcAr6NgECVvOxevEscBZg5Nwdvj28+c+CWAMIpvWIvtwOlMqD64eBAoiDtQ4jJ0aJw3mcWQPnkDhKAYwBJ2Bj2rW3eN4WCoeP8/35XcTtZHj0FO3PNeJwCX/PdkQsouM0QIMIYjWFgwfwsjtAOWxked8aYJiYwr69rK/mELMG4v4CPADRGhELVrP0YYZ27TV4BrfuiMIIJKb95RPtr43ErnOI1ikFWidUG1PYv4fM5iJ4MeUL45S1ge4Ptu0bItvtTxQ46QXE4BzOxLRrNTKbfdiUh74sOAPdNuHST/TqMv7wVgSX2E4DRCy5XVcZ2J1BZXPJF3r94CzEIX64jNUR4mwyL2NSgDii/uR2MgtjEKN/p/l7Ym2yWNYmtUsW9hfAtnFXLnJPWAAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 50,
+    "nombre": "incentivize extensible channels",
+    "tipoMaterial": {
+      "idTipoMaterial": 50,
+      "nombre": "Self-enabling"
+    },
+    "archivo": "eu mi nulla.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKoSURBVDjLdZPBTxNREMb5B7h41LuJB+8mJiaGxIheOEhCJMiBaAjRiwdR9KAkBEFiNDYtYFQMEiIBDIQgYGlBS0tLwW1LgUILtBbL0m67bWmXXdh+zisFCsFNfvs2OzPfm/dmpgBAQT5ljSOXCQ0xR4SJGOEhdMx20j8/sJDQEsrorB/zgTjWIjI2krsICtv4MRcAs+V8Co8J5IJHuowe7KkZBONAvy2BPmcC04IMiZxUgtmYD/M9EDkQ0DKDqCD7JMm7c1JEhzkKh6giQ/9oQVzdt+dEtFkB+rhEqH5BQaclguXIvtPwrATdeATebWQz2KRXklaZkckwAZXFZncfo/MNO+N4PxlGmzEMVxBY2QQsy0k6zg6EHYAngfCGHktdZVgZaAD34Ro0rx+OMwHO4Rfx2bRFAjx0EzwG5+Lo+eVlu4QYvSYfhOAAQoZaiM4hSmUDMWcvjC0lu0wg4g6maGcebRTcTiJWX5IF/yXOMZp09dGo+wXkP4MITbxC2tWPvXUTuI/VmUMBnYGHVr8JjT4E2+qRgKWvqFxwPYOaNiHtuw/B9gCLnVVwdlSjpqk7lj0Ctx6D1hDKBn+1i3SRGbC0n79rjkZdT6BKFqS8lZAC5Ugs1GHlUwl+cxzbhDu8RPOqBAcPBNKALwFwdjrzTG0u+A4k/23E55/C03oTFjuHsf3G0h6WUaHS8FSjpRhgNg9hYfQRpf0T0loVdgIVECkTj64Y36a88GwpR2XMb6QwlUs/2g33cB0c398gaC1Faq0cAvcY7rYS9Js8sPmV4410spV7moqAxDqW2m/BUHcWU63FMDZfh9HmxiKvnN7K+cNUf+8iZIsGsvUtrA1X0VtzHtMzdrAB++8w5VN65YzcWHlB1b+8kelqqVDuNnyJ5kZbc9o4/wOexAeGRUz8AAAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 51,
+    "nombre": "embrace sticky initiatives",
+    "tipoMaterial": {
+      "idTipoMaterial": 51,
+      "nombre": "Re-contextualized"
+    },
+    "archivo": "sed augue.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALQSURBVBgZBcFfaJVlHADg532/bzvNo9MtY1oXRlRWsCREIlFXoaBmUEIkaH9uCsokEIK6qbtg4UVBIN0kFETQnVQ3FmXOxMwg1BApA9GdTdFJbLqzc87763lSRNjy/i+vDgw2dudkLe5AAgmRiKJbyj83r8eP6b+Zd44d3LEAkCLC9g+PH/ty39qHc07LgkoAEAHh2mzHV7/fNHWpfeuvs+eHJw7uaEMNuUqr++tq2bmrqpwSiSj0ouh2w+1Oz5MPLPH4g7WT5dqiKA/NjL313dDRT59pZ0gpLY6Iqr/K+jJ1ospUiZTIEoqVg/12rFvp3vsbA/Vg8xBkCBJk5EROSU5JTklOSa6S1o3bVi3ueGQ4ee2JO1V91QtQA0RQVyRJpKT0gpzUFf2R/X09LJSuUhZsvK8h1bkLNUQQqFMWQiDlJCEKUWX6ySUppRIyKYMaAgUpkSSBQBT6KkDKUi+JHAoigBpKlwgKEiIC5IyS1FUQiSAkvUKvADWUEiKCYL5927k/jpu8eMby4SFTV69b9/ROA0uGHDt8yMhdQ36dmTE0O1iPjb3brKFX6AWdhY4jh7/WiFkv79ltbm7O5cuX/Tbxrap/wM7nnlXXlVarpe/06frI+cEPaijdUCK8980xq69d9NKeXd7+6HOzF064e+UKo6OjWlf+deDAKZOtKevXrze2aaNLly69nqHb7en1qKfOGh5sgqde2W9+oWPXrl02bNhg27Zttm7d6la7440394GlS5c2aui2S+mWEnnpinS5dRL8dGhc9HrGx8c1m00wNzcnlfDJxwdiy+bN6cqVK/M1dOZ7083+avn+7WuaX3x2NE/8fNSLY4+yadT09LQLFy5oNBpWrVplZGREztnEiVO9ycnJqRQR1u39YW+3E88n8VhemF68/Mb3ffeMLEuNRp+EM3OrO920KNYs+rM/KdFuL5RWa3rm1uzMlv8B/jBGW3bkYMYAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 52,
+    "nombre": "grow magnetic methodologies",
+    "tipoMaterial": {
+      "idTipoMaterial": 52,
+      "nombre": "systemic"
+    },
+    "archivo": "nibh.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALJSURBVDjLpZBrTJJhFMdfxUzazHQzp5aK84IgysULmNc5SXMFloVp09CJqDOXt+XMiViKlnkpxVZG5ijLlZZmZpeZpjVdfelrwqsfa3nJlAB5T680kNba2vzwe852nvP/PWcPAgDIdjAeIRXTkCGfS92WIKZ6WsRrn7tnebmUlt6Egy4JTn7Cyfy3oHwK2A0oK6ZRZYi7rCJu9lYO8ye/847qcGaWU47N4ehxFnC8/xaUvQU/yQIhsAbV0mvRkbXouIYfsfHYajw30jS4yk3yXklMXlk8xF9PvopK/hCwSifB+6Bkv3vFfFPe6QHdGpOtWQ/jdFi+xKpBm8Nr1QaOVK2PrFdro2VqzCxglk6AafArhYPNMxK0lmGvYrTPp0Sl9y9VKTTMUN91VhjczZDJtwQl40aBfq+bUuu6Tx91ZEyzS4i222fPE/Zkq0cdhaqf+XcidLkKBmR104haCm1cQw1aNgvoZ19DFZ0fbLB3xDZ2O9UjaegFRICCtQA1EAQoZntCLchRMNZqh9JB0EUGXocnUUvy0W0Jil8BWO3ggbXtZ9PaxcooKOplY3k9LEzYHQznB47Dg9k2KOvnQUKLi2HR023YLAg+8wK0iE2qHrFxMQkKe8Nh8GMnPPxwzRjsm22F1pdl0POuCcRKLoQ27DTQ6qwcjMNBRc/hpjM51hSOkzE78ZWN4StjxdA4WggXR0QgGRKC9GkedE3UwanbkeBbg2wYA7TCZ8ApC3Rll1Ovh5fTFvD6LeNGANyfaQXl+2bomW6CW1MyXFIA8gkpiJSJQKpGvrhXIvTfgoIRYIoDeAyxP9efz0nAKzFFTsKS2tyx+BZn7MAlByxTEQGdbySQ3csFzyrrFY9zdiHmP6DmDwNVPAQU8ROcx0ARDeIMQMAmuY+AjEOV2kFWTzx4VTqBn6gNyDn9YBb8D/jKax5VBHCuREiW/V/ef2+t0gzxSwAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 53,
+    "nombre": "e-enable viral infomediaries",
+    "tipoMaterial": {
+      "idTipoMaterial": 53,
+      "nombre": "Switchable"
+    },
+    "archivo": "sagittis dui.jpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKaSURBVDjLrZNdSFNhGMdPF15EdOO94E230kXR6sIZZl4VkRiVMdOLiqC6sMgr08hQQUqUnBFJbRqKpa6yrw2bzm162lduY2dubjvbbF/Oj+WZuu38e8+hdRNGUA/8eDnw/P/v83FeCgD1L1D/1YBhmBKCwuVyKZxOp8LhcIzZ7fax+fl5hc1mU1itVoXZbC75zcDtdpcSYWBxcRGJRALLy8siyWRSPOPxuEg0GgUxBU3Tgbm5uVLRgIjLiZhfWVlBPMziy5thTD59iPG223jZcl1E1d6Iyf4umCZGSE4QsVgMRqORNxgM5ULZFkGcyWTExAenDv4RVUcjUqmUaDIzM2OhSDnrGo0GPM8jS0w+ytuhvFmLRxfK0XVaItIrq8DgrTrQfefhV9Xhm0kptjQ9Pb1GKZXKUCQSQTqdRjabFc/t7W0RobI8Yb0cidkbyKRmsaS+CJduCFNTU16qu7t7GD9DKI1MH4JhfnACQWM/YloZMqsKrNqbkTA0wTtQjU/yhneUVCqtzBsIfZG1wePxwO/3w+fzQdiM5/U1bCWHsLnUhM3IY6zamsCxzWDkZWtUYWHh4fztglgQBYNBsCyLQCAgfi98uIfv3nZw/qtIsw3gfLXg3NUw3ZGkqIKCgkNklZZcLieWKwjC4TBCoRBY+yQCE5cQ0tRjnZGBWziJtLcGGy4ibtmfeX62+BxFYrdgMjo66iRGsFgs4gyC9CB8IzWk1D5seKrAMcdh6pHC2nEMtjbp1gtZcdWvP5HELsIerVY7QnbLC32H3l8hPT/D+lcJOGclzL1HMSa/y2vejr/6LCvau+Nj0uv1RTqdLutR1WMreh8bzAnQPWVQPWnNqdXqor9+jbOdB1od/RVRuvOIf+DyvjM75f0AOEMKvrn+ie0AAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 54,
+    "nombre": "synthesize holistic vortals",
+    "tipoMaterial": {
+      "idTipoMaterial": 54,
+      "nombre": "customer loyalty"
+    },
+    "archivo": "cras non.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHtSURBVDjLpZNfSFNhGMYXZ110E1QYFRR6Yd0kIhgE3ozlIII1oQvzwjAUtD8jSFILoigISqrVCAy2u6y5aAQpuJH9cUabK06GSEOnHCcrzAzsrJ3Z3K9zDjGMhhzog+fm4f093/e97/eZANP/yHDhXKhyw6TfMT/qrluJuA7z0Vs5M/1g33bDAXFfHZ96T5KRoijJGKP3rAxfqQoY3R15/BGK9IZs8p2uzOQQUZdjxRCsfAujzPpIBE4ji726tICY+0jGEJyTn5GOt/FDPMMHbwOJx+1E7zhYs4l/wVNNyBO1LC/eItXfSPx2DWtOwShcNOCla49h+J+A4PXdLKVeFIXFcxW8sm+UnlvN+aBNmFXVVQjoaS4t1WAp9pRIX2tReKx9fzYzcJP8xCBp31lipypyoQNmpx7gdu5iSYqw/HmMgYvVhO9XMTXiRPQc4u3VaoK1QuKnCnPXDp2b4FoZX29YNH+6EJBVX9eC/zhfeiwMt5bgb9pKf8de/c7asfPvA6xe3y9tQ/P1gAbrZsY9jaTFhyyIfbzuPliA9d7YhKTsbQYVUjpMLKqS2gRUf04vOGrZwjFrCZ4T5ToY6q55srq54fodl6Mt5b9SnWXMn19PomUdQ3ZzbtAmXDD8mUbqd3apO878mUJSgzX/N4hT3VGIyxnZAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 55,
+    "nombre": "evolve compelling e-markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 55,
+      "nombre": "alliance"
+    },
+    "archivo": "faucibus orci.gif",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALRSURBVDjLfVNbSJNhGP6li24C6UIiDHWah83UdJv7d7R5oiiPWGp5yIUHNNF0acNjrmWe5gx1Ujmd+pubW8upaSWZRilZdhN00WVBEAgalSK5p18hczm7eOF7eb/neZ/n/d6PAEDsFWETAoSN8aWbZ/EDXqLIFLr67x27RPpU6LUzl1hJiC08a7461lNo4GYLBjnf/ktwYrPjOF/+JxeZeWtCY+hSTk00FX9TsCroZttSrggb9iSQjJLL4hFybUuyiVwRDHHBpzjg6zmoni3B7CcLrjVnIiY75KpDAtqnVDQcComBXD5tioL5vQ6THwagfqFCQKsfMifiYJzXIrjlGI43+CNQxaK7jpArtM9t77RPWxjFx9CiBjcey1BhTUGZ9SIkWhIBDUzIBpIRGe/zcVsB7XOd9gnBfW6fhCK/njPHg3rTgtrxDJSa45DeH45UYwIMC3fQMa1GoJIJYaq3xc4Cf4AzR+rZIHVsmN61o3osDSWmWKTrpUgejEXXjAoF/SSye4IRVMMCS+HznVnmXWg3A/Ieey3VkIjmqUIUG2OQ1hOOpL4z6JxWorA/AZd6QnB99DySu/zAlB+1+RZ7weey598B8jpCfuSZZWh7Vo703kgUUWIaSCKXVpbVHYRKy1kYF9ogH45DVOuhDXHTwQNeOR6V2wSC29z6kOYA1I2XI0kXQ0vm4eFiJ8xv27eAQwsaaKbk0M81Io+KBrd+/0aA0snZ7hnZ9UEzXnIPdD9vpyUHb4HVT4rQMFkA1aMc1I5m0Q1y0TWrRFqvCN41xK9d+x9YwZoJVLBw4S4ThtcaUPMt0L9qhO7lLZokH9rZOuRQJ8GoIpZcFcRxh5/Iv9RHn6Bl4FSbKyJaXSBsckZGjwCdM7WQ9UfDvYr4clhBsHZtoqPwzHKfY2S4wV/p9DNTHwH3CuIzDfZ1uMp7hXvqkXVGpZPNrWIfXBQEY2ftN8xTb5GsXWfEAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 56,
+    "nombre": "extend rich bandwidth",
+    "tipoMaterial": {
+      "idTipoMaterial": 56,
+      "nombre": "composite"
+    },
+    "archivo": "donec.pdf",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK2SURBVBgZBcFNiJRlAADg532/b2Z2Z9fdUdfWUlwNooJIFNryEEUSBAVCVy9eIrwJngqCwI4Jdg46VBIdukRQtBAdOliUHQ0qlbXE9afdmXVn5vt7v54ntG0Lznx1axWXHh/MnBhXybhKqpRM6jTENu6jwSYe4DN8nwOkun7+6P75E+df2gcAdsq0OC7T4ua0OVhWbBeNm/cf+vbvnVdxLgdIdb280A3g1lajE4I8kOX0OtGhXpTFqJNx7OCsxxbn9nz8y+2LEaCpqoW5nDqxXQbDiq2C4ZThlAcT7j5swDuX1504MueZpc6+HKCpqj27utFOwc60EWOQI8uIGZkgCySEZuTK9U1X14e3c4CmLJcXZzPDSW1ctGJsZZHYBFkk08oytJmNUeGjtb9GOJMD1GW5srzQMZy2any99qddPcZlbfd81+27EyEy38882u/aHE0Wfvj932EO0JTFyv7FnmsbjRCZjKdeWX3SqePzvrnyj/dOPw0APv3xnpTCzxFeu/DdrKbu9jpR2RC1xkXlv+0arP26AWBaMyq4t1UKIYlQF+W+XiAGErTEGGQtVZNcPHtcSq0mtTJJP0+KojDaKeXQlEU/n+vKI1kMmhTMdKJpUfngy5tioG6S1CQt2ralpd9J8hfPXV7ChdWnDrkzat3caMzNUKdW0dSy2EEraIQQtKnVtkldV8qyljdleRKv/3bths1J7mHRqprW9rjSCbmzb+xSpxKRljYkM3nXh1+sezDakTdVdfzUy8/Ovnv6BQDw5vs/yXQkE59cfdtS/5Aguje+5a3nLolmjItS3lTVjTv3hz5fu2YwP2uwMGMw15PnmcP7WZ7fdvLoqkH3AJGt6QGPzNX6XfIQhGOnLy3hHFawF3uxO/aPHH5iZU9n0BuYyRfUqRJSEtpGCmN/rF93d1T5H4CHTHMseNtCAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 57,
+    "nombre": "disintermediate impactful solutions",
+    "tipoMaterial": {
+      "idTipoMaterial": 57,
+      "nombre": "Optional"
+    },
+    "archivo": "nisl.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKYSURBVDjLnZPJT1NRFMb5G1wDHV5boNiqdHrvFYolCAtsGSSWKpMFKhYqlDI6oAEKaVJwCIgSphaKtLYWCgSNBgRjMNHoxsSFS3cmJmA0NMTw+R6JKKZl4eJL7sm953fOd3JPHIC4WMpcppG5SGnZc8ZjVVF6QLn975sDgfaZmvg71oRJZIRUYcuAnq/2KWroGfm3QwEn2YpLVPPvOD2oiqj9yq/mGznegl56mx6T7ZbY1M6YAM0CuZkxT0b2Wg6QW/SsApRXDsotR+d6E9Y/h9DuqoCuJq0lKoDxqU1/pITGR27mBU4h+GEcTz5OY+ClA5JbyahYzof/9TBO9B/FcWcqpA4xU3We3GJ87ntnfO5meinMvruNnqcmXA2XoDVcCc0wCYkzBaZpA7ILRJ/2O2B87jA+QT9UeDRe8svZYAG8b/txc6kc9mA+yqayYPQXwvdmBEOrA5B2p0BtFIYOWKCm5RukWwZyXIbA+0F0LpaiKaBHmVsLw4we99ccsM8a8GClF5JOMcQdou8prULrgRmQo7KI0VcE13MrGv06lE5kodhzGvdWu2GdKkTVWC4DcELcJkKyXbCb1EhAVM//M0DVUNqP2qAJd1baUDaZjTMTeXAttsPi0cM0mgvHvA0NkxYk2QRIrieOsDmEmXttH0DfVfSluSToWmpD8bgOroUOWNw6VI7koGfOBuq6EqLLTNU6ojrmP5D1HVsjmrkYezGIrlA9LjKgnrlGXJlpgbCOD0EtD0QNN8I3cZqjAlhJr4rXpB1iNLhrYffUQWoT7yUKzbxqJlHLq0jc5JYmgHMunogKYJVqF7mTrPyfgktMRTMX/CrOq1gLF3fYNrLiX+Bs8MoTwT2fQPwXgBXHGL+TaIjfinb3C7cscRMIcYL6AAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 58,
+    "nombre": "maximize robust e-markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 58,
+      "nombre": "array"
+    },
+    "archivo": "nunc viverra dapibus.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEdSURBVDjLjZIxTgNBDEXfbDZIlIgmCKWgSpMGxEk4AHehgavQcJY0KRKJJiBQLkCR7PxvmiTsbrJoLY1sy/Ibe+an9XodtqkfSUd+Op0mTlgpidFodKpGRAAwn8/pstI2AHvfbi6KAkndgHZx31iP2/CTE3Q1A0ji6fUjsiFn8fJ4k44mSCmR0sl3QhJXF2fYwftXPl5hsVg0Xr0d2yZnIwWbqrlyOZlMDtc+v33H9eUQO7ACOZAC2Ye8qqIJqCfZRtnIIBnVQH8AdQOqylTZWPBwX+zGj93ZrXU7ZLlcxj5vArYi5/Iweh+BNQCbrVl8/uAMvjvvJbBU/++6rVarGI/HB0BbI4PBgNlsRtGlsL4CK7sAfQX2L6CPwH4BZf1E9tbX5ioAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 59,
+    "nombre": "revolutionize global infrastructures",
+    "tipoMaterial": {
+      "idTipoMaterial": 59,
+      "nombre": "Configurable"
+    },
+    "archivo": "id pretium iaculis.png",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAF/SURBVDjLpZN/S8JgEMd9i1JURPSDIoIkS1FQI4iQgihStExrhGmydGObyZyyYRaybBRFQb/8vxcgBIF92275ApoHx7jjns/37p49LgCuQdzlXmEXd8RON1L4QPjM9NwbQtkXBE+eEWCe4D9+hC99j+XDO3j3b+FJ3CCcvu5a5wgQLXV6ceUT/3Xv3mWPAJayE5/fboAA4dw7nNjspmoDQqevlDAMA+12G61WC1/fP1BVFfV6HbIsUyyKIgRBAMdxVD8drf0BzIU5scl12QZY27ZM13VSbzQapFir1VCtViFJEsUsy6JQKCCfz1P9xFrFBlhX5cTGVyUb4D96oESz2SR1RVFIsVKpoFwuo1gsUpzNZsEwDDKZDNWPhQUb4D0wHHUwHCjZgKVEmxKaptHc/ZmtL8/zNLMVp1IpJJNJxGIxqh/yn9sAT1x31IHbx6L/FtiF3Sv6s+a2NMxE65jaUMwtX9CixiIiRkM8RoKc2XbRVGZhnrGcJcDAr3FQwC803UMOARws7QAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 60,
+    "nombre": "synergize bricks-and-clicks e-markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 60,
+      "nombre": "Secured"
+    },
+    "archivo": "ligula pellentesque.mov",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK4SURBVDjLjZPrT1JhHMfPq/NH+K6ty2bhJcswzUa2hTMaEmCsZmWuUU0HQuAVEWHMgCnLy2yOhiOKIs0L08ByXgab1TTRNlO7ULwylTOZ9iL9djiVrdLmi++bZ7/P5znP93kOAYDYKt1F+0k6cR4ZK86jSCS3m9sW7pGxwh5FwlqfOmnNW34w7NUcInck6Ck+QNJgZNjExYTzOl67iuG/nQuf7kjEp2eT/xV45AlknyopMmLJweRDGR05Jt1KBDvLMdoiRp8uLeKpTiO3FHiUiWR/WTI12sBD8JEC/kYBvLXpeGrIwHCTGOPuKgxYRXCXsan7ilTyD0G/Opn0lqdQfisfwccq+JuEGKjjYHpqkklvLQc+iwiBe2p06/mwSVOo5kvJjISgCyLpgij/bQGCHWX0p4rgNZ7AyxdjWFxcxPLyMuZmZ+BUHUOHlodnd26g/eYpmIQsSn86niR81akBf9PZn+fMo+EsTIy/wtLSEgP/yuzbGbQUsnFXdhJd5gtoLMxAOWdvgKCb5Xr1aevDzXno0WZufHg3t7nz3/n08T1qclhouHgUZZl71ulwfxRYncZ9omGPWOstG6urq8ywUqmESqWCWq1GaWkpsxaNRmEx3YKaEz8Vg/+5RpPJtEJRFDMcA1tbW9HW1obKyspNQUwqkUj2bfkODAbDSiQSYYYrKipgs9lgt9tRU1OzKZDL5RAKhb8FRc8vJxR0nTsvtvMGxBb+N8dQO2ISjUYDh8MBp9MJWsysPXhjR0GnBGIbbzrbytGmaw/zCRr+LOu9iqrBEhT1FqDAmo9wOAydTgeXywW32426ujqEQiFoBlSoH9NDO6REvkOERFl8lKB3HqRtIdoWOC5Lp3jXchakUum80WhkQLoXmM1mCASC+dySMwvZtVlf0zWpYzT8ZfeVXYPEdr/pTvMdjX2sh+52/VQAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 61,
+    "nombre": "leverage granular relationships",
+    "tipoMaterial": {
+      "idTipoMaterial": 61,
+      "nombre": "transitional"
+    },
+    "archivo": "luctus ultricies.tiff",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALWSURBVDjLlZNbSFRRFIb/c8bLjM7NcUadvDZig1kgUVmBEpRplIj1ki/1XFAQXUAq6EL1UvSQFQk9FD4ERRGNZBcJ8UaQGgWpqSOOk46XyctxPHPOPmfvtoJCkUX7ZT+s9X2svdZeAmMM/3P6fV4fUVmZFNJ9RccGq2L+Cbz0uijgEgWMUsZOGUXLviSjA4Efg/sX438V+Bu99yFgL9NgI5SZLSa7GOybYqCqsKCwxlUFHMyjDJ+t7jKjLb0SAtMhjzRCHfsEq4kI/rGZiweuDF36o4DDBw3G5KfW1CrYnBsgB+ugR6ZApsbBBDOcOckITMxU89RfBRx08+uRyblpt8VVhViDAnm4FlSRecUKRJMRTJM54UCKOSZ3mYsZaPDmiQY06xrSknIOCfbMCqjh15BGW0BlGVqUi2YXEB/HEBfDwHQGSaZ0RaAp7J4zr9BtTSmHrvSDhO5CJLNgRMVcWAKJqCBRglqzHRGN4HysjtkIHV8REInlxyc6oUS+o7fDh7g4ilhmRjwPWm2xCIxJMPC/EjWqyHCux9mRLlRorHNZIMrztCHU8wWapiIhIRfBHitC4wm4rcXj6qSAB3Ybai28efY85KcVITPZi4fuaGXJDYd5USAs/sSWW552iztpe+7WcjTV+VB29DDOtDxBacER6IxCpzooGEKzQSQlpqDD/w6dgWYa1VTH0hSKT/p3vL3u6VOUV+vc3nyEBsfAg0vwcJj3hWrQKAHRCeYUCYWZxZgnC+KHodawuPyW0hq/d2Jo+nlkphcD3W1cEIXGR5NqzUKaNRtum4eP1gSXJR1dI21oG2ydXFCxWfh9mZ6dW1sGxhrrs0QoqgqVqkvVeJwF2ObZg4+BdjR9exNSNewavca+Cqtt4+PTOZdB2YWUNRZkpJlQPdyNjZk70dH7XpJAt3C4b6WJq536E9kGVWE1hOD4zfSgS2GiUDidUPLizlzLcs5P3E1ndhQ2sD8AAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 62,
+    "nombre": "synergize real-time communities",
+    "tipoMaterial": {
+      "idTipoMaterial": 62,
+      "nombre": "productivity"
+    },
+    "archivo": "lacus curabitur at.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGrSURBVDjLpZM9a1RhEIWfu3eNYVcLiYqrmA8QjPgrBFGws4uCrYKdVgFBAorYWFtYBe0FiQqbRlBbERGDhUEwxkRBiCEbZd85x2LvfrFbBDLVFHMezplhMtvspkrsssrt5sHCj44V2RiIAAyWkCHU6kNw5/J41gcAOHpgBGMsMGAZGdwDkWB5vTHoIGzsQiCwjV24KUCSkUw0h0SIaFnERiqE7V79kGZoEOBQa9AgCYtCoI6wDUxpCCAJFEbFUGu43avrxKDkQYCSCLmT0z2ZXURqO0nDAClBhDr5+yFQW3rMwY/zlH4uc6J6mPrLtdlz9XS/C4ggolxsvRC6dcra0hNObbxg+spV9k6dZvtDnU+vF+8unt2zVeo6MBFGCSLcukqIFGbfu0ecPHOR0S+vyOYvUVl+yuTEWO7MN3ocuNhB/8ZtU9lYYfTIFFy42c0+VyNXNtmzA/H5W6OTWRIOI2C6cojG++dUn13n3/YaDWDzT07krGY7+cY3M8fmRvZXbx0fS+VyaYXNX4mv63k0//p2ttN3fjszPrv1e/VaHtlE5P5ueHi+nu79Bx7reDBYdnW7AAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 63,
+    "nombre": "transition ubiquitous paradigms",
+    "tipoMaterial": {
+      "idTipoMaterial": 63,
+      "nombre": "client-server"
+    },
+    "archivo": "tristique est.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIrSURBVDjLjdNPSNRBFMDx764aarTaZqmb9mcXDyaF9IeS/kBCUR6kbt3MU9gxCjp1iujgpQ4eutS9SxAUS1Barm6EYnRYTEPNpaAtbXPd/f2Zea/Doij+wQfDMA/mM2/eMKgqWxk/29p0vXyQLcbL7u518wFVXV6kUim11mKMYWk2xpDJZEgkEkQiEWKxGJ2dnYGlPaUrNd/3iUajAKyEVZX29nZUlXg8vqqCVYAxBoB348WbWQUrICpYC5cOGVzX3RjwPA9V5Wjd/LqNhOqtAcn0TkQFI8UKjAUR5WqrwXGczQGAE/W/15z+OHmd5EyOJu/axoDruqgqA9NhrCpGQGyxF3nf0FDTzIj7lCt9fRUvbk4X1gBZ+xdV5UxjhkfDXaj4eGLwjCESbqK57iQLziKf08ncud5w1fvbc7ll4E6y58C26nIuawcighGPCy1dWBWsWATlR3aWww2nyXmF4Mj3geyR+8HwMiAiB4NlJaSyX9ijERzjYVWY+TOBLwYjPr71+ecu0Np4lpyfD36cGvwTBLiVuBHCBt7uKqvhTfo1IoJjHIw11Ib2URfaT31VlLKSCnbv2MvobIKhb4n5vMfxUgBrbI81ohO58cB2L0Q8/Yq8cXg23IsnHo5xidW0cCp6kU8zg/RP9mttZevY0N3RsSLwvPwhQADIYxlnkggdq57rQ+EJgWAFQ1+HOOZ2BMJztefXfKbNInovsGilpLIgNvrrgU4t5f8DTGqAX1cDO6cAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 64,
+    "nombre": "optimize viral e-services",
+    "tipoMaterial": {
+      "idTipoMaterial": 64,
+      "nombre": "directional"
+    },
+    "archivo": "eget.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIzSURBVDjLhZNLbxJRGIZP22la6KLpou1GN11QKGW4DFTH1phorZcYi8R6w2ooAlUSjUStC39A49I/4sK9f8OFLoyCwZAAgsMwc87x9RuoSXWgLt7MvGfO+3zfnAsDwAaJT0094+PjlojHTc7YpWHz/g4x5hELCx16Qm5eg9zOQGZzEMeOQyQSsLze8v8Ab2TqOuTT55C5R5CPS5ClPYhsAfJJCXY0htbkZH4ggFp+LYIq5I00RDoDQz+DRlxHM3YSxsoq+K27EDt5WDMzlsmY5gIIn0/Il6+ocpECazDip2BrOuzYCViRBMzoCgT9El+/gEYgUHN3MDLSlMktCFKTQk5QRCgUjoOHYugsRyC3bqObvodv09NlF8DWtKYsvYDM5NCmijycgFA1iOUoeDAMM6BCXEmiq6+ioihv3YC5OdlbtJ0cOlHqgKryYAR8SYXtD/UAMr+LzvZ9VP3+7y6AMT//rq1R1UIRfOMyTAKYTnAxSOEQOLXe2kziq28RHxnbG7iNrdnZ991kCuJmGnK3CJmiNblKPvOAdiCHaiSKT4pybug5qDO2VB4bQ23tNIyNi+CFhzDObqC+fh5lVcXnQIAfeZB68nqloSiojI7ii67jA73XJibQIG8zJo8GeDxZUAeShi3ST+fzP/4HY9nhAMYscTC5Q2oxViFfOeQdgDUQ8IuxO04l+wBg9kP75PcP+V4XbZrrAlC4TmpRxarTBV0sy3ZuZ18W78OrpBYB639yvwHcmnk0jmx5QwAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 65,
+    "nombre": "implement next-generation vortals",
+    "tipoMaterial": {
+      "idTipoMaterial": 65,
+      "nombre": "support"
+    },
+    "archivo": "tristique fusce.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADESURBVCjPvdCxqcMwFIXhw/MDF3HgqRIErEqdOlcijSqDcZPCYE+QCTSBJsgGmeBu4AmyyFnjpnjCZcrwtx+nOFB8Dl8Ba1lllWVTzNsoSWIZQnh6cdOxsHKRf58kUhF2X9xueYCFtwqiDFT4XmHvZj/AjfNrzCnHPLwCFa63cmaXDzBzrAtBPBUK03d7y2aqYGSqwMuFNpi7ou1/iVxBYqzAyR9NPrG9NuGHuCqgSCXKIGFTuM2Kke7RluaJB6bvXf25N1fx7E1Sq2rLAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 66,
+    "nombre": "transform revolutionary bandwidth",
+    "tipoMaterial": {
+      "idTipoMaterial": 66,
+      "nombre": "access"
+    },
+    "archivo": "lacus purus aliquet.png",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALISURBVDjLpZNpMNRhHMc31ExNmjRTDdVMsxXLkntnTcmxJTKFMK6JnK1KcheKDDZXubbSoRdlNFFNGFTIbeiNsyjHnzI0ZrFk/621+21bx6wx9caLz/Pi+T3fz/Ob56AAoKwH2WAU2QyP+wNO6xKY3WgOsMseKJQvTrm6p0ohplzcuqR4/lsQ0QQmhzA0SxkUW6QPbv47xz9t3zBjd3ZeStu0g+OAFJGUESnUtYLwRqjHjyhqxxFCvVtE+dwxC84vc5ZklmV1dHnhrJUNlW9ty588ZS+wzSHiVwkMwxpAPRm/b0/kcOqF82/m5wyYpIBhwpXfyTCOyAjKLJT0Frji29sktD+xQgeX7ikrGoTVY3nhhJaJZFj/hFA+vD+YeMFOe7QwVhOF6c4yYHYUU53FaEm3Hl8UhNbKBKJdagVC1b0i0zPvyS3eRLayz7Didp+hSteb+fMT3XELwu8lGKtNg6DrNRaIRnQ9DSBlAr2QGsTo2euKlVUkC9t2JFNciUSKCwEFF0LMCi2S8LpjJWJBIwQDl8FrC8KXZ77oyXZDW7aD+qIguBrYsNEOCpv65VsPiE3Kn+y6DjHZgrl+L5AjHpj5HI2hPPPxKeNDH1cOUffKBwgpSk4iitLu5fDd9IOcsU9RS2FPkMPu4HfHoI9rSfalM4yk3aqtCA4HvcPjnTTz5XBkskZlZ0UIxIJ6kEO++D1yDtPSTnq5LJFjlh5/zTvQuVQBk3BtVWYEPc/7qjqvpzwaHRWZ+NHqjLkhD/Dar+FrrsXPqjSGJjNBe5CRSM9ZLbhYDgO2pp0+W8PqZQoLmCHQ+9AJNdFqaHpgg7oEo9E7/keOy24sWEON5q7NNg6jbV0R0APLQGeXQotdggR/HQhbciFszUJrkgWe+x0AK/AeaH6vligGzbdIxopAHmdTFZLjRRNV37YRVWVY1pVG6VD/9xv/AJGzmhVs7+fUAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 67,
+    "nombre": "whiteboard cross-platform systems",
+    "tipoMaterial": {
+      "idTipoMaterial": 67,
+      "nombre": "Programmable"
+    },
+    "archivo": "nisi.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAI6SURBVDjLpZO9a5NRFMZ/b9Jq0iY20qoVxY/FELGgFoRuFQR18atLtUgHRyfR0Un/AKU4qVOxg6hLHXRwUhQaNUiLCK1iQSs1GvP9vvd933vvcUixCcnmhXMPHHh+POfA44gI//O6AGT5mejqb0QCRIeICREdINpHjA+hwmiFaA9CRd+5aacVYDTdB8bb6CLgwNoHCBQfnW934JdWiIsg1mtMHRCxgIOwTnAiG5HQ67CC1thgFV2dA+sjEjS6DcAqxCrEemwYOIsN3Q4A4wMasQokXBM1ixViXRCNBK0OIgC6VmhYlqBJ7GGth1gPVS9TXC1jwiqi6+0OrFGopVdo/zOYAERjVIXY7q1YXadWqJLYeYbySq7tBhEA4xXQlRUSmQkSBybpSR8DGyLGpV4s0zN4kk3bD1H6tkAQibQDHBHC/DzFF9cw7hKYECshWtUo512SAylMZZYt+y/i9vaz8OBEdwtABJJHJglLvyi9vIWVEERRWq3Qn74AKkd2eoZEysOL9KJVcKoFgFY40Qi9hy8hOkX1zSwhe5BohuRmF+t/BbGY2lv2jl5F+/7N7NRIct2BVhSf38ade4j9k8f78prCco7UroNYdx6xHsNjaWzwg1hskW1D4xntB1fW1m8PU+7u6OWBzOk7g/vimFoWkYD3Tz4xPJbBifZB/Djv7l/Pi7VHOwKyUyPfhyZmdkQjy4guNkLQdPdoPM3Pjx9YfHrjcVeniGo/iOXujXliBbG2qeRfx1pEZPAvfWh3mkWk9eIAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 68,
+    "nombre": "exploit synergistic e-markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 68,
+      "nombre": "composite"
+    },
+    "archivo": "imperdiet sapien urna.txt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKnSURBVDjLpVPfS5NhFN6/0F1EF9FFBf28GhF0UWrkVQQZkamgbckoGEUsbVJgLl2K++F0bcx0UwZT07bZnG6yzc3hJND56ZYr59zELjSdm36NTZ6+9yOEQQyii8MLh/M857zPeQ4HAOd/4p8BBoMB3d3d0Gg0UKlUDzg+nw8kpqam4HK54HQ6MT4+DpvNBovFguHhYQwMDMBoNEKv17O12WwWiUQCMpmM4ni9XuRyOWQymYKRSqWg0+nWk8kkwuEw2tvbo1KpVMDxeDxsIh6Pw+/3IxaLgeSi0SgmJiYQiURgtVrZmsHBQVAUxU7U0tJSdKiBw+HA9PQ0RkdHuW63G0NDQ1wC7uvr45JvaLVaLgH7jbdE4f57iHxqwpzuBuZVZytZgrGxMQSDQVaDlZUVVgPSmYBDoRDb+WtAhY1JEXaCViC1ju0gQ9h688ehuiMjI0in07Db7WCU5prNZqI0l4wbMBXVbVKvkImbseF6h/2Fj8iterHwgU8fEjCF4kAggOXlZRAw6WwymRCe1WOLEuNg34v974+xFXiCkKEGQW3FZkBx+1Tejnt7e4nSUKvVUCqV6FcL8XOhDge0H3vfqkCvlWN3qR6LnSX40lZ8qaCRbG+O3t2YFf0BV4KO3UeSeomQshiS5zXbeU7s6ek5zSj9vqurCwqFAhrpI1C2Z8zYHtDRGvxaq8AOM0moowTh1ssnBAJBOo+AEUtMXrlcLlQ2VGwufq7HvE2GxEwZ9qLl2Jp7gSVlUarhKS/BgIV8Pp/OI2A8LWZsya7LRPyxu4qw5g4m64/Bpy6F/fUVGDqbWRsztaiuro789ZgkEgkaeeeQ8XcgMyPHTNM1mB4eT9nrLlysra0V8ng8AkbBayy7eoR+W3Um62wuzTrarrstovMnC13nb3Lp9V3T7PhSAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 69,
+    "nombre": "target cross-media experiences",
+    "tipoMaterial": {
+      "idTipoMaterial": 69,
+      "nombre": "content-based"
+    },
+    "archivo": "convallis eget.tiff",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAI4SURBVDjLhVPNaxNREJ8k2yxuDMGEkGi0QltREC9+HQQPKl5EkBz8D7xI/QDxIh4KpeA5lII3IbeAF6UKHjU5SS2op1JKTFiN5GOD6WY/s/t8M5u3bkvBWWZneJn3m99vdhJrNBqrjLEH3MH3fRBRuOd55NN8qVwuL0PU6vX6N13X2f+s3++zWq1WxwZRlxAZbf37CBiP/IzcxwL4l1+bZcRkvxGAG2DAscxMAIAPRaBXS3NIguu6VNdefHoPDPP97Ku1X1KAynXzwuGuBdudMSiHkmHnoxmJxwRdnEwm0L7/5HkK3BV9bGzwo0uBhKmeTEqGCwvyHimYDwcBgxPq7yKMjTe2Y68cjnsXf1y/s0gMEjEAj1e2h+4e/X5kHv6Xr3C+rS7ounHbNa3HcpJVYGw+JADsfuuMHGok6VNWaMmkDNrnFEx2deAMXpz88DrWvHyzApZ1WkJdwhzHgW63C5qmEeVsNgv5fJ4D8JkguGEBGxtBsWECs20gAPEp8bKqquFC8f2gPJ1Og692QHIdYIb1rHn2yqO0IsHoj70VFwywcDAYUCyVSuQI0uv1KMZuXIVP2SM7YJrrM75XYY4NYNmr8agE0VloF/MRM9mcP95hln1XTjAY/RxuzPW21iQcnJCAmpF2q9UKgfBMAGCzuebm0k7uVAecyVvaxCgDHBh25XtPF3K5HBSLxRBAfKX5wfbLcJXxEH9UFIW8UCjAQYY1B/4XOIOP1Wr1HDLBgmgUecTf7Qf4C2kj+HVimC2aAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 70,
+    "nombre": "redefine ubiquitous markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 70,
+      "nombre": "service-desk"
+    },
+    "archivo": "dapibus nulla suscipit.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK/SURBVDjLbZNNaFRXFMd/72U+dDLNRItGUSeJiagTJ6IQhdhaWoopFCJiF10UBAXpSlHcddHi0oUbkXYRFURE/NiIIjSkpCpdtGoTJG20iUMsMZJokhmqee/de8/p4jmDggcuFw73/s7/nPu/nqrSe/hch6peUZhD6VYUVUCVeNPaEmcwYbn06/nv1gIkiA8cVNhQLOS96ZkyqtVLEMMEFZgvv2IhVEQTrbyJGAA7i4U13qeda8ivLKIxAVGJq0pcfVljhsyiBDt2f8s7AFSXFDuauXVvjLm516gIAFJVoYqKMl95TRBGvB1vWsBLpBKs29RMe9NSnANVQURxTnEiWFEWAsPlq4PvAyjOCRPTFVJ+kiAIMGGElThvqSORTFFID3Oy+xfqdnUyfLZHvWByX3UGiBOsM4RhyJ5t7bH8WB2qyp27fWxLP2dx8RtyrVuYL61n9Oe+EzUFxgnOWKzzuTD4F6GxWKc4K7Sk/2DPpjINuR3Mjv9Nyov4oGEF2Q/zuRrAWiEyhkhA/TReMgm+sjr1gL0bZ2lc20M4dYlUxmNiaBQTRC+Dhf+6q0PEWIcNLKFxWCcYJ6zkPl93lMi19RJM/oSfsiSzzQSzI4j1P+862v/YrylwggkNoXEExrGkfJuv2sbJtfcSTP6InzRElRaeDtzj+4EGth7tHwLw327BRDGgsXKXL/LPWN7xJdHzPupSSlhpZur2fX4Y+Yyx+XTtGf2qYSLrsKGl/lk/vflphFVMPTyFEPBqdhWlwYdcW3SYF1H2vUaKDRM5CjpA4aMzPLp0jMd3fiOd30x5ZoqbyYNkMktRxhCRp+8oUFXwfbq2d/JofIZo5Aatmz+mvn49//75D0NNh8g2tWGtoAphENbs6Kkqn+w/3afKAUVZ8eQ4W1uX0bWhhYmonqulTuZMtvYzUa7/fvHI7irgf/y+taODWkwAAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 71,
+    "nombre": "morph granular channels",
+    "tipoMaterial": {
+      "idTipoMaterial": 71,
+      "nombre": "Managed"
+    },
+    "archivo": "tristique fusce.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAD9SURBVBgZBcFLLkNRAADQc1/fU6qkhFRMMNIQn8TUQCJWYBE2YBkWYQWMJIZmNuAXCSoGFUGIInJf33VOSAAAAIAcgLOFt3079flaEdTS50M6nT7YeggJwPFle6nhAoVhc370rnaXcwBSp62GTdxoGdPrkAPQD5OSbRFr6oLvjByA53CqY9YUvjy68YQcgELTuTd/khENbQk5ANGqFUSFnq6WW2QA5Op4VuhreJVEZACUAKiJkogMgIEKANFARAZAKQKolColMgA+f7vVkBkRSeYjvf6QAfB1cnnXNWTUhHHrXuLoESEBYO/aYjNUSqX3snk/2DjshwQAAAD4B9GUWR0G4scKAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 72,
+    "nombre": "architect next-generation bandwidth",
+    "tipoMaterial": {
+      "idTipoMaterial": 72,
+      "nombre": "extranet"
+    },
+    "archivo": "ipsum dolor.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMOSURBVDjLVZNNaBxlAIafb+ab2Z3N7Oxv/nYTEyv2LzQJpKBgrQqNUKmY4kUIXqUHT70p9iB48CKIiN5E0It6KFiwiv9FpAVpKUggNc3mZ7vpJpv9n93ZnZ35PNRI+8B7e9/n9gqlFAeIVUfPeN3zh0R0eVpYM1OanhvTCEY0f3tU79+ctnpfHM73fuQhxIHAWHnmkOGXPjgZyS09l5hnNv4YOdMhoQmigzqGt4nhfeub1fpnVsl/e+hMv/q/QKy+Me0EO5dfso/OvzB8grgV4HGXJC7jwAQ2oxxDuC36xZ+Rhe+v6iutZf2iqklReNe0tPSHZ2Nz84ujR7ht3iJKjcexiOIQI8SiixxcR7QtRORFlK7O9t0rlyy4KBEj5+YisVeez85wy9zGIUeGDDYhDhYOITYuoh2BvTJ68y7B0GnCym8XGq+KL2U0MrE8Z2SRVhqdPmlCsvgk8RlCkgAivRbUNKj1YPMeeu4wcnjRql7/+jVpyvxsPjbK3whi5LEAB0WWgBRgqwAaFah04X4V7puwdwddz+FXjJMSbXI8aSTYCgU2oKMwEdgCEoDhug/G5SjsmFDUoV+DXJ7BnpiUVCNBaJqEXfDVfwG6CjoKnF4crZGCVvNBug0IPXzPZOCnAunfk8W6ro7H2gK3A02gGoDeA1MDGx2nkYG6C24bvDaMSzq7ZfxBsiC7O+aNDaWOn0oLfl0HMwDlQRCAHYUkEGvFkLsp2G9Bo0n41AiNG6sMBvY1yZr6/JsV//XZZ3WZaEp2t6DvgWFA1QRHQbwjSDeTUGvCiSPU1ovU/typQPIrTV0yrrl3vE+/+8XlaCIgq8H+BtSLUN2C2ibsl8ArR+HYGE0rwvbvRTr96HsL6od1CUDDf+enK92JwT+982cWEswvRmiug6qAr0E4AV4uoFXosnV1g8bN5kcp7E8eOZOYKtmUqm/ZiDdfPhV3Zp6IM5k0SIUBstwmXKvCX5UdM6y9n2b34wV1IXxEcEBU3J4dprU0zODpjFBTIyoIxgjXxlB/PIl1eUmdLjzc/xceOVXddrB6BQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 73,
+    "nombre": "aggregate vertical portals",
+    "tipoMaterial": {
+      "idTipoMaterial": 73,
+      "nombre": "national"
+    },
+    "archivo": "habitasse platea dictumst.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHtSURBVDjLpZNfSFNhGMYXZ110E1QYFRR6Yd0kIhgE3ozlIII1oQvzwjAUtD8jSFILoigISqrVCAy2u6y5aAQpuJH9cUabK06GSEOnHCcrzAzsrJ3Z3K9zDjGMhhzog+fm4f093/e97/eZANP/yHDhXKhyw6TfMT/qrluJuA7z0Vs5M/1g33bDAXFfHZ96T5KRoijJGKP3rAxfqQoY3R15/BGK9IZs8p2uzOQQUZdjxRCsfAujzPpIBE4ji726tICY+0jGEJyTn5GOt/FDPMMHbwOJx+1E7zhYs4l/wVNNyBO1LC/eItXfSPx2DWtOwShcNOCla49h+J+A4PXdLKVeFIXFcxW8sm+UnlvN+aBNmFXVVQjoaS4t1WAp9pRIX2tReKx9fzYzcJP8xCBp31lipypyoQNmpx7gdu5iSYqw/HmMgYvVhO9XMTXiRPQc4u3VaoK1QuKnCnPXDp2b4FoZX29YNH+6EJBVX9eC/zhfeiwMt5bgb9pKf8de/c7asfPvA6xe3y9tQ/P1gAbrZsY9jaTFhyyIfbzuPliA9d7YhKTsbQYVUjpMLKqS2gRUf04vOGrZwjFrCZ4T5ToY6q55srq54fodl6Mt5b9SnWXMn19PomUdQ3ZzbtAmXDD8mUbqd3apO878mUJSgzX/N4hT3VGIyxnZAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 74,
+    "nombre": "optimize innovative paradigms",
+    "tipoMaterial": {
+      "idTipoMaterial": 74,
+      "nombre": "time-frame"
+    },
+    "archivo": "habitasse platea.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFuSURBVDjLpZPdS8JgFIf9F6UoieiDogKllUNhM4IIKYhCRAqlIkqKmYVGERZFUZB9kBgJ9uH9dARdeDfn6T3ndbJFN7kfPDDGe55zONvrAgCXE1zuacW7nK3UQ3ufIO8yku8gbZchuFWCwOYriBsv4E8UYCr+DMLqI/hi9yAnbutYR4JwumJEcyr8FyFybZAAO3fC2NIVkEBOfkAnGVm44AJp541eFItFAjOU0QhMvBAhms2m/Uz4rCVgC+tEMDB3ygW47b+CBSaGYdjA9M+ecAF+qt9dzU5YDCmRwMLv0jiB6Zs54gJx3T62dVTq1hI0Gg2bwCNnuEBYe2qPbB0TC6zout4G0x1Ic8Fk7IELBC+Bh83F4bM5DRZal9glprjAF83zreXvOCzlrxKBUVUVqtUqPddqNdA0vie3XwHzLigTKzf0Z40uXsJw+BwG53Nsy8e0KE8oC73SIfQED9jY+6yzAqwGUUjg+DY6FfwA5i1AjZKvAWgAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 75,
+    "nombre": "target out-of-the-box e-markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 75,
+      "nombre": "User-centric"
+    },
+    "archivo": "in faucibus.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAG8SURBVDjLjZNJS8NAGIarv0PBuzcV/4MHwYMHL/4CPQsexYvoSW2RioiguJ9cigtFKhpxqVtBXGqtVRO62TbJNFMb+zpfNKJVMQMPCWTeZ+YdMi4ALjGqBPWCxn+oEVRSxsb1IajnnGeLxeKraZr4DfEdbrd7sFxiCxoprOs6GGOf5HI5ZDIZxONxS6IoCjwezzcJjQoS0ATDMFAoFKwnoWkastksEomEJcjn86BFvF6vJfkhoLANCSigqiqSyeSPSh9nUvFNIGp8TqB36m1XSaVS1k5kWf5bUM5XCe2EziOdTjsXmGYRgVAMi9I1JrbuMbPzBF/wAS8F5kywfX6PlWAcNwrDXYpj/1bF2mkS/pOYM8G8JOPiUcNBNA8pwrArCMkcs9vR/wXUf9wfRTjBId3q2Anr8F9qCMY4pgKPzgSzovPFE0Pg+j1MHD1wjPqunFUIhBTsh1Uci9Be1MChWH35TIN3cgl97XU95YJSueBZ4zi8ecaCOIu5XRljm3cYmfQhtDYGabidTXfWttl3oUH8fUyE/rxMNpGD1dLReEcpsj4EX28TswXVJHFwnS26mqu6NwdajY3+FrwBN5GpoomTEloAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 76,
+    "nombre": "exploit ubiquitous portals",
+    "tipoMaterial": {
+      "idTipoMaterial": 76,
+      "nombre": "leverage"
+    },
+    "archivo": "ut rhoncus.txt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMCSURBVDjLTdBNaFxVGMbx/zn33plOZjIT8zmGOnFM1VoNJYFWYi2CtVSMdKUbK+LKhSAGXYhd2m6FQkEXLbiwETcWiq3WpiiSBLRqTa122pEmMZPmw8lkMt93zrnnXhdJbB54l++Ph0cEQQDAm1/l9gOnHmnbMVzXPnXto32fhueXgAqwChigCBSAz4ErNpvxPe/pvcnY8PvPdbE9NeUn6spPFF2zU2moNA1zq1W+vVs7DIxuB3riIQFAbt3gCIEtwLIh7EhSYYklJY4Fgzsj9Cai7WeuLX4stwCjdTxqg+dDRQlKGtabUHI3rtCAf6sGgA/H5hlOR3mq0+mytwHtrSFJrQk11yClwAYsC6QFFgJLgA8IU+anmSLX50uL9wGlehIRi1LDo94MkDLAkiCNwJJgEbCj/AN/j3/G250D1CZ/5BWdHPsf8JTq64k7lNwADyAAywhksLF9vPI17WvXiAy8TiI9yPrs4zSunH1jW4NmXzIRJrNiEBIkG88SaKlcJuX8SezRA6zdzRASitZ4klhHKmEDvHjicsS2ZCjsSJQxSAIgIADCtSnS9i8k0kdoLn1JqEXwz/RttKsKbqP6jATwmqorLEBujkQAAohUJtglrpLofwl38QzCKeLEWtHVRV+Xl17Y9875rNys32LjY0uwpAAhMfOXSJmrJHYdxb33KdLRqPLDrEzc4PTC4dtD741PA8iDo2OdnlIn9u9OsVwOmFsxlLKXSOqf6X5yBLV8FisU0Cz3kZ/8ndzAR2Sq3TNb29lGqUPAyG+ZWYoNG2fhG14dyOP5vSzdPM0D3SHctYfITd1CHvqEhZyLUSq/BUij9dDLB56IfHF8hJOvPcYeLrLn2bcI5ybJXphi+rs17nx/g4n2D4i09VKp1jFaF+430Hp2ebXEufEMbbEI2Zk86q+LpPcepJQvcO/mDM8fv8CDoX7CNuTXKhitF7YAMXjsVCcwCvQBHf25k0eG0l1i3+60mFPR4HxuSLhOB/FohLZ4C3/cyWWBY9fPvfsrwH+7HFmMUqkOrwAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 77,
+    "nombre": "envisioneer world-class platforms",
+    "tipoMaterial": {
+      "idTipoMaterial": 77,
+      "nombre": "transitional"
+    },
+    "archivo": "quam.pdf",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHYSURBVDjLlVLPS1RxHJynpVu7KEn0Vt+2l6IO5qGCIsIwCPwD6hTUaSk6REoUHeoQ0qVAMrp0COpY0SUIPVRgSl7ScCUTst6zIoqg0y7lvpnPt8MWKuuu29w+hxnmx8dzzmE5+l7mxk1u/a3Dd/ejDjSsII/m3vjJ9MF0yt93ZuTkdD0CnnMO/WOnmsxsJp3yd2zfvA3mHOa+zuHTjy/zojrvHX1YqunAZE9MlpUcZAaZQBNIZUg9XdPBP5wePuEO7eyGQXg29QL3jz3y1oqwbvkhCuYEOQMp/HeJohCbICMUVwr0DvZcOnK9u7GmQNmBQLJCgORxkneqRmAs0BFmDi0bW9E72PPda/BikwWi0OEHkNR14MrewsTAZF+lAAWZEH6LUCwUkUlntrS1tiG5IYlEc6LcjYjSYuncngtdhakbM5dXlhgTNEMYLqB9q49MKgsPjTBXntVgkDNIgmI1VY2Q7QzgJ9rx++ci3ofziBYiiELQEUAyhB/D29M3Zy+uIkDIhGYvgeKvIkbHxz6Tevzq6ut+ANh9fldetMn80OzZVVdgLFjBQ0tpEz68jcB4ifx3pQeictVXIEETnBPCKMLEwBIZAPJD767V/ETGwsjzYYiC6vzEP9asLo3SGuQvAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 78,
+    "nombre": "strategize sexy infomediaries",
+    "tipoMaterial": {
+      "idTipoMaterial": 78,
+      "nombre": "Phased"
+    },
+    "archivo": "massa tempor convallis.mov",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALcSURBVDjLjZFpMNRxGMfVi17UNL3qRdcLRI2jiUgyHdp6ozIlco3Whm1c49gwmyNndGBtLB3uRdPuCrOtnWoPokGMs5WwMth1S9q/Y+PbzjaJqTFefOb34jffzzPP99EBoLMRUY57KZ3ZBrPDJfsgL9BV5wfp5dpb6W37879hOMhuP2mgWHd5pHQP1vLEX5+xKUEueTdzpNwCCqEPiIZUKHg2GCk7gK5s/ZlNCViOu1KVbULM1rOgbivE3AcWhlsFkCSYDWxK4GB3nSpjh658b+diubscqq4KKKVMxN84y/uvgGprQMminJtletiC5UlS+zqbNjMj/JeUPBqGKuOgrIpGXU4AjvgYCyzDTHasE5BtDpKyKOeXGe62WEteehC4pRFo5nshmUFD5Sc2kiTxMI05VHCUZrh9VZDubF731PcKymO9ICuNQgnNCUwPEp4HXECnmIypXg6E0ptIaQkF53MugisCYe1ryVoVZDrrc3olZf8UVpNzERPdbKh/9KGj8hrS6r1Bb/QDheUJOct+48JGxClo517FwgQfC4o0TPe/hqTKGeF8P7ilu0Hx7NJfwdZjGfRMeuC6wlrZLpjs4WJhKB61KcewNMVFax4JIY9OjYVRY2Pl+a7u2vAWmxfeDrSWOekocO8lD9F5ZWDkJGNAFInF8SIQfRTUJpthfjAC3+QCNGWelDVmnNipvYKuXY6TUxBfVdW9jEQZ4NMEUCRqVBf5YkZT3PzX21B9cflNr4dmFQYGa5iof2AeoxV0JFr8bOY+Bu2VEmQhQK5YwcPCcgzWpmFxNFs7XdXrrlnBXPsScj8QykrUJpiO1cQZG+kMZJxRcJNC4BrTAOobzfRqQJx5GcRkPxanRVgY13QwzlkDD+q5Lgw3sCGONOTo9BTfshbEO9yxcmJXWAR/hG1MB97ePw1J8nGIkywhijNbkcaZqKV3jRYl0YcJTYgQ0Q0IUYQ+8S5c7/0vfNrCXhlwpm0AAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 79,
+    "nombre": "cultivate web-enabled niches",
+    "tipoMaterial": {
+      "idTipoMaterial": 79,
+      "nombre": "definition"
+    },
+    "archivo": "quam pharetra magna.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACuSURBVCjPvdChDcMwFATQD4rKwgxNwypjAxNTN6hmNakMKkWKFGDqEQo6QEbICH+EjBBeXnoFUQ0MAqOjT7rTEWg/dAhInDi9Eo9TP8dvWP3LsZ31pNa228CSLskM6DMofPwbZFkzqM0yb6ADjeaJmEE+OgnSrBgEEl3Z0JsHQv73Km65GhnNHb6AlmUNgrnBFSBZ1MCbK2wBYmlq4CbLelYGBBJDw2c+DUdevZ8ffsX6A70Y4hwAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 80,
+    "nombre": "reinvent B2B e-tailers",
+    "tipoMaterial": {
+      "idTipoMaterial": 80,
+      "nombre": "Multi-lateral"
+    },
+    "archivo": "amet sapien dignissim.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFrSURBVDjLpZO/SmNREMZ/uVxFCGy7L+AjpAgoIUW4hZjCCDZCbCQgVlY+gaDNLghibbmy2EgQTCOp8gaWYmFrpbE4Z+azuPe6UVE2ZGBgzoHz/Zk5U5HELFFZ2/uzu9ysHT2OVZUAd+SOuSEXLkdmuITMMHd+zIfn29uH/YtfGydpbal2PLdQTX4uTEVcfR7bMXCSjoOS8ePT1NJfghKAVCYONhenBtg+vCcHkAOwcwOnTRiNRkjCzHD3TwmQZRnmlgNQTOG0mSPX6/V3TJNTmqw9FgAl0tY1nGUwHA4xM2KMbyom1Uii0+ng5oUFz1HPshy50Wh8yTp59tJCWaxfwt9VMRgMiDG+y48Kut3uWz/SGAKQP5ZEq9X6lrmMGGJhofCyclGhvyb6/T4hBEIIxBgJIXyaQq/XQ6WC8vJqHSCh3W7/1z/wQlH6cHd/vvM7bLgZbv86biWzhNyQFXvhTsF5DlCZdRsTZoxXOgYqlSAcLRcAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 81,
+    "nombre": "scale real-time initiatives",
+    "tipoMaterial": {
+      "idTipoMaterial": 81,
+      "nombre": "zero tolerance"
+    },
+    "archivo": "posuere cubilia curae.doc",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJpSURBVDjLpVNLbxJRFO4P8BfwO2Dp0g07q42iGxM3JmxMXDR15aRWjdYqZMYSxbRpbaCSoEnVNjW2Ip2CNE2BUsrwELBAoTCMMDAwQDnOucCIj52TfJnk5nyPc+65IwAwMoxzs6BRoFOgV2DoQ98/0/xZP0w8o0B7+03F6Nw+Yrz+GLt/cMgHQ2F+azfCvnYlmXFH2Yg1WPubQJ981u7OUcHDBJcvVUCUWtA+7RJU6zJkC2Xw7Ia4ufUEhbUDkYGAFsmhyDex0WwDfpLcgbLYAl5BrdkhZ6Ikw5YvIFpXoyiiJQLYF8ZG5wG5WJGh8EOGo1IDStUW5IQmZMtNVWR908PdXMpjOxoU0DnZ7wzGHiZHs3W4/GgHLtx1qWII/CLJY6AdXga5KKD37EVZ7Bmj5gUZkgWJEEcnXTB236v8P5PzdLEBlXobTgQJ5pffschFAUNg/4DHYWFcLLw4xRIyEhFj97ZhlNogbWAKuX0KS7ZlHrlEwB8MEQGMj0UZvqFGRldMlMj30EvRgvmFV6qA/stOmBXEJlSlNiERZ8URcf7OJ4JLD30QP66Tm4llBKCtNrUFnW0jzqSzJeh2gThcmfHD1ScBMDzeU/94hoNtdbqw+TUMlOWDOkTNLXvRuOH2cXylN+VBXHSM5eqEGMnWiEFccTc/X+SuW2K9axwsEv02SK18dIv5cq9QqLVJmtSJRJYJnWOZMpisdnGCXv21SMOrPG3zUYuOFc4biEM6XyEzwZ7DKR7W3EGYpue4cfP7v1d5+DHdeJkyTr5YY2ZmF1j6mYV/amb4ByYrO2FyMteYyL8f0/8855/NvQk/FX0nyAAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 82,
+    "nombre": "generate value-added convergence",
+    "tipoMaterial": {
+      "idTipoMaterial": 82,
+      "nombre": "Persistent"
+    },
+    "archivo": "vel accumsan tellus.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJpSURBVDjLpVNLbxJRFO4P8BfwO2Dp0g07q42iGxM3JmxMXDR15aRWjdYqZMYSxbRpbaCSoEnVNjW2Ip2CNE2BUsrwELBAoTCMMDAwQDnOucCIj52TfJnk5nyPc+65IwAwMoxzs6BRoFOgV2DoQ98/0/xZP0w8o0B7+03F6Nw+Yrz+GLt/cMgHQ2F+azfCvnYlmXFH2Yg1WPubQJ981u7OUcHDBJcvVUCUWtA+7RJU6zJkC2Xw7Ia4ufUEhbUDkYGAFsmhyDex0WwDfpLcgbLYAl5BrdkhZ6Ikw5YvIFpXoyiiJQLYF8ZG5wG5WJGh8EOGo1IDStUW5IQmZMtNVWR908PdXMpjOxoU0DnZ7wzGHiZHs3W4/GgHLtx1qWII/CLJY6AdXga5KKD37EVZ7Bmj5gUZkgWJEEcnXTB236v8P5PzdLEBlXobTgQJ5pffschFAUNg/4DHYWFcLLw4xRIyEhFj97ZhlNogbWAKuX0KS7ZlHrlEwB8MEQGMj0UZvqFGRldMlMj30EvRgvmFV6qA/stOmBXEJlSlNiERZ8URcf7OJ4JLD30QP66Tm4llBKCtNrUFnW0jzqSzJeh2gThcmfHD1ScBMDzeU/94hoNtdbqw+TUMlOWDOkTNLXvRuOH2cXylN+VBXHSM5eqEGMnWiEFccTc/X+SuW2K9axwsEv02SK18dIv5cq9QqLVJmtSJRJYJnWOZMpisdnGCXv21SMOrPG3zUYuOFc4biEM6XyEzwZ7DKR7W3EGYpue4cfP7v1d5+DHdeJkyTr5YY2ZmF1j6mYV/amb4ByYrO2FyMteYyL8f0/8855/NvQk/FX0nyAAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 83,
+    "nombre": "embrace visionary schemas",
+    "tipoMaterial": {
+      "idTipoMaterial": 83,
+      "nombre": "analyzer"
+    },
+    "archivo": "tellus in.jpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJnSURBVDjLpZPNS9RhEMc/z29t1d1tfSmhCAwjioqoKNYuYkRRFB300MWT3eooeMn6C4TunYoiOgSKkGAUhh0SjJCwsBdtfQMN17Ta2v39nueZ6WBtktGh5jLDMPPhC/Mdo6r8T5T93nCPTUqVDhVOi5BRBRVGRBhQ4drGc5pfO2/WKnCPTbMKN0x9Z4OpzqDxWlCPFnL45VHCd91ZEdprWnRoHcANmhatbu4JtrShiSr8t9dIuIS6IpgKgoqdGBsQztwj/DDUWndee0sAO2hqVZmO7b+bkuAzvpgF+wVxIeqLqxBRTHk9sfL9fBq+kBdh+9Y2/RgAqNARbO9KaRwkzIL7ymBfDiQCH/HkIYjN4z6P4cNJEnu6UuLpAAgARDhrahqRYhZ1BVQsx85UomJRb2lqzqMSojaPW3lOWfUuxHN2LWAv5WnErZSWVCzqItRHP2qL+ggJc0CI9zSUACoU1BXBOx71PmXq7dzqorc/csj05BKDD+ZQsaCKCLFfCjxZbAGIc7R5N+9ezTI7uYD6EBXLTHaZiTfLZBrTmCCB+DJsyETJSCL029zowaC6nkRynqNNDYw9m2L8xSx4S7LSkMlUkUzEKEsfoJCbxkb0l8643GPqRHifarydEvsGnx9HohXUhYj7eUaIJXdi0qeYvn8x7yw7Dl3WxQCgplUXRWj/NnELdBuxdCMmVouKgihBfDMb6k6gieMsvezDRrQfuqyL66w8f8ecFM/15N7OhvimfQQbAhCHCz1f59+yMNyddZZLh6/owB9/AWD2pkmJp1OE096TcRE4y4izDDhL95Grf3mmf4nvrQOLvcb/mlMAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 84,
+    "nombre": "aggregate proactive mindshare",
+    "tipoMaterial": {
+      "idTipoMaterial": 84,
+      "nombre": "Centralized"
+    },
+    "archivo": "aliquet.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIzSURBVDjLhZNbbtpQEIazgaygG4nUjXRH3QAySvvSKokEgeaBSBGFXJqAQkMxYCA03EJMzcWxCb6AAYP9d46BhqRURfqw5Zn5z5y5bAHYWufd++hbwkdkCYUYEBXCz2yv/dcDtwmOsL/yIkotHU11irY5g9QfIp5tgdmWPtsvBJbB0YOLCuaOC0kHjtIGvhQMfO9PMSYnh2A25sN8VyIrAY4ZNBvezyTvvUsNn66fIGgOXPpGD+jOwr4U4TwBetkhHLFvYy+loqounE74MfxnKupDeBn06M+k55ThukzAYbHe6TG630lBx8dLBbsXCooSUOsBqapJ15mgPwFkEtAplcEcMIjYoiYcE8gLoobPyUcSkOH/JiOS1XGYqDOHLiOcbMCkoDZlU30ChPYcgqgze54JqLfSiE6WsUvBH0jkpmEyY4d4s6RT6U0QoaKGMppHUbKYj/pHwH8ugzvtwXfaRfr+b4HiLwshXsf+zYDoo7AmkM8/DMCdd73gIKlXVRcs7dUVDhMNJBssgyGOSxai5RFyzecreEW8vh9DkIGWBTQMQgMqjxOUOhOkmjOEciPs02wEMiYSJLZeRK+NNrVGph7dDQC+C1yJQLw+x/HtFOG8hQBv4eCHiSBvkrD93Mb1QVKoXYICJCg4VnMRKc8QFsYIZhfBAd5AWrRfDtLrUZYMFznKIF6bI1JcnH4k0C7cWfgp25tHedMyZR90lLtTrwYZKgj79s9l+s86K8t336Z1/g2YLh6PHfCmogAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 85,
+    "nombre": "matrix front-end platforms",
+    "tipoMaterial": {
+      "idTipoMaterial": 85,
+      "nombre": "Visionary"
+    },
+    "archivo": "eleifend luctus.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKUSURBVDjLfZPta9V1GMY/39/vbGdnTubEhsOcFIPjDEdCvijEwletQWRRYFIoEkFEIv4Bw4EEYm96WYFQ+ACCixINxFKokWFmakvwzESX7fGnR7ezne/T1Yu2OqPWDRc33Pd9XdzcD0YS8/bu2Z16obObS9kAQZEQwxwiPno2rtjEoc8/5as958w8J0eNeeeJ+qs4xICPcc7/A2t9LYVkgYD1SOBCwAZPh/2Dl6cvYIPDh7lc1S0u4KwnTyP5pAEXPE9Xh+hKEx6ZnSCfFiioCWf/X6Bv8NavrM530CrR7iZIlm9h49QwjzUUufTzZZz1fYsKHHm9v/f84Dd9Y8MZm6mQa3uNZNkzdM3cYfTGOKcvnOr78cCV3lqOkYT7bk1BSouKSqPgwFDr2ztWV95aWdwNST329jGO/nT5y1fa6/ZJCTGK4Crjba+O3TaSsOfbhtXYuUoCSSiKpGUzNK5B7h5yZdzkFUJlDGGIzmEf3sJmE28aSVROmBej43C67p2m3KptyI4Q7T2iyyBUQB5MDpNbSvSO8sUjZBevfUGe7Wb+kMqfmY4YOFm/dmsxffQlZEeRn0axgsIMmBSf3WXk9PFgH9Lb9aH2Lxhi8xsqkeep2d/6++ODQZCQqihWQRZDyujXxzNXpXue/K8ttGzTlCksOePKJWQARQwGFFCMkDK1/qDOLLpGANHQU9fyJMbkkPfY7C6mbjlJfTP1rSvbr+4z62vrF/zCZP+KQhRb0mXrKP/wAZMDAyUM3y4pduxYuvY58m1PkA2N9ABX/7ODEPyzpunxwvjJvYyfG/jIOzZ0vq+d96+Xum+e+OR3O2OZnaZnYcvS3xj+mF2l/dy8tofna+OS+P49ms9u59CprfxSG/8TX76Rzx39RVIAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 86,
+    "nombre": "recontextualize next-generation action-items",
+    "tipoMaterial": {
+      "idTipoMaterial": 86,
+      "nombre": "capability"
+    },
+    "archivo": "odio.txt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHiSURBVDjLzZPdS5NRHMf3Fwy67yYqepnzrSgJetEyl8s0GqvYEHLDFiGr4VwQZTcOpzfeVgQiCIJ4IWJUN+WNUhQqqAVjpg0c4vY8p7l89uLzfDpbV0FE4Y0HPpff7znf3+97TIBpJ5h2h4HxoNMlSUlEET0YEHrAL7Y77orCndsi7/WIXGuryN64KbRrDrF1uTmZuXjJXTKQAqckw+tXMD0N8/MQjcLSEvq7tySHh1GGhkgPDqI+fUZ8YID44242z5zPpGtONxcNPvLiOUxMwOgoLC7C3ByMjaEHg8R9Pta8XhSPhw23m09NTXzp7SXqv4+oOhkvGlQYXYEPRiQM8jZWVymdqSl0h4M1u531xka+S5br6vjc08Oytx1RcSKhHqlylmYg8+6ReV/qT7phfBwSCZidxXC5SEqhKk1Um41YOMzXW15E+fGYcriy8rctFHzt5nxb2+R2KAQzM7CwgCGfLurryTQ0sNHXx4oUq2XHYsqhcusf15h1uc2a8/pkviv0y0DOIFNbS7a/n28dflRL9bpy0Gr9aw+2rrSYf9jsb3IPH2GMjFCIRFDuBZB5NeVAWcs/FWnz3IW96VNno7lAJ5oUy7xaar/F+V9NFNU1Fpn3vcy7ktp39Oou/ws74Sc149q/X6rjygAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 87,
+    "nombre": "embrace leading-edge markets",
+    "tipoMaterial": {
+      "idTipoMaterial": 87,
+      "nombre": "neutral"
+    },
+    "archivo": "phasellus sit amet.jpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJkSURBVDjLhVLPSxRhGH5mf8yOs9O6aa2b6BJhsW3RilAXDSW65clDdgwkEBH/gIiI6FC3uoRBQYeooP4Aw9isQ2xG5YZEVFrINmnFto67s7sz33xf76wedEfwgxdm4H1+vO/zSkIINL7Bax/PpxLRkXhUTVuMY/7Hci4z++2e/njofmNvYDvwqe726/2pcJsa9MMhgd7D4T5NUQ8GBibBZka3kPgaCZKk7IKbVT8qNodpcUToe6g33tadOjCyo4NYREkrpGyYHLYDMEfArHFoioTE/o70jgRVC3AIZDMqLogA9fKR12qVefblGWHui54rmDZCsoSaLVClUkMSVlYZZl7P53YkyGQ/T9+dWqoaFY6K5ZaDEo1w42GOVWaz7xv7pc0x9kxkh/uOxa6c6JSSnDz/MgJgFGM0ZCLALTzKrhZePnh1S+gXr3p2cHQ0kx7oSVwePtmWbNUCKFsCKb6+i3K1GXKQY2JfrCW/XJqQfGNvBL/9bMsILRF1/MzxWGo3RfbHoK3VjUkgDlhEsqDXEKJ0Lgx2tSJ56JJnB13tLf3NYR9+F20CCwJSuSnw9W8hJHxdMtHeqiAYix/xEGia0ilLPuRXKnVVx41vYwRG6XEOGGsMst8PWVF3eXZgWUyixChvCc6GMiNwja7RJjR3x3GLRFwyj4PFvPFzQTehNUn1f4e6LIfXCdxDovGR2BvEh+9lVArFNQ/BdCY/Pjq5eGfqbQGC1IPkpEkGwnREMvl09/DkxQpuPs0beDd3ets7cF/HuefL8ViU7YnIYbpcTS+Y0P9apXLe+IeSWRSfzvZs7v8PV6U0ly704DwAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 88,
+    "nombre": "facilitate real-time functionalities",
+    "tipoMaterial": {
+      "idTipoMaterial": 88,
+      "nombre": "object-oriented"
+    },
+    "archivo": "quis turpis eget.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALeSURBVDjLY/j//z8DDKvNusuTturRzro9L95NO/b674RDr37W73z+Pmnxg9PypRcUkNXCMIaAcu9Nj7rjb24ee/rt/9HH3/47zry7Si7/vKZM5hlGggYodd5g1J9wc+KiKx8+Wk+5vSh367OLlp3XF8kknxbGphnDAIWGK4kbb37+pV13pV82+6xF1Y7nt90m3NwinX3JWrP51hzz3nsHTTrv7jZpvbPbrPXWQc3Sa8sQmqsuq5bsfHF15ul3b2TSzphJx5/UmXLw9Wv/KbcPSGdecFauuDnZZ97jz9kbX/zPXPPiv07pjXXisRfK4AYYtVydufn6pz/zTr77MOHAqxczDr5+e+Dmp/+xs+6eEfM6IKffcGt9wLxH/5x6795NXPbkv0T0+Wax8LNsDMAAYgEGUOySM+8++027s1cy9GikRODhYHG/g3lT97x4mzL77mXJhLMZMUue/rdtu3sZaKt7xNzH/2WizveCwwAYQHrZax5fmnTg1SuJoCOGMBeJeu5VT5px52LGrHsP3Cbff+824d5Lsajz1kBbgyJnPvyvmnhhGdiAjp3Pv087+Op/89ZnX5Jn3N4GEhRx32Mc3HPj5LJDb/5HT7r3P3HJk/9iEWdrwXIhp73Dp97/r518YQvWdICMgc6NiZ7/+H/yoif/U2fM/58zJf5/Wp///6hWj/82ucU3BL2OCOPWHH3ezLr+5mWv3rvffKvrTzeuTvy/5crU/xee7frfvzvrf3i/7n/jdJ15OA3QzL60JmHeo/9iwSebY9tdvm+8POH/xmuT/oNAz57U//170v+bZ0v9wNAIDCRj0dAzxe5tdz54tN35Kux3Itin2vD/titz/iODTZemAg2QxLTZvfPuJ9++u/99e+789+m4898o7eIxyxzp7927kv6370oAa27fmQB2gUW2/H+8gQjDQJtagns0/vfuSgHbDKJBfKB4D1EGQA3pAOJPIGdD6Q6QOADllJVJzH+HzQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 89,
+    "nombre": "drive extensible partnerships",
+    "tipoMaterial": {
+      "idTipoMaterial": 89,
+      "nombre": "value-added"
+    },
+    "archivo": "natoque penatibus.jpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJcSURBVDjLfVI7aJpRFD7/7y8qdlDwQdQYwQYJJdCSNmSwlBQcQjK4Zil0KIUgXVwFUeji1Lk4dLGh7RCoDhYtRQoODnUqjVY0SJKKT3zg83/03Jv+YlLMhcO595zzffe8GEmSQD7CK580sztgmkgAtYsiSETwTrTq4ADg23fQfv3CyBgOFo7E8/NgGTgnkYmms0UIsNcIZvwVQBCoDDY24PzwcP6mJLcSoFOaToFdX6eAhtsNo50dGJpMwLpcAOMx9d9GEGYuLkHhcICwtQW91VXQ6/XQ2N0Fbm0NxF+/acxSAtXx+yBc/gnDWRXaSGBaWQGdTgc1ux3E0xJIxXJY9/NHcBHDkMbk83kNz/MuFMVsNgPHh08vzx67X9i2H9GgWq0G0vHH+On9zRDxT7EM1A2/31+lBLlc7lypVFoFrBtJqJDUWZaFyWQCHMdBvV6HZrNJgNTf6/Wg3W4/o2NE49FoNIpZrdY7JOVutwvD4ZAK+YAQm81mcDqdoFKpyIdQqVQ+I+6EkRcplUrdRUPCYrG41Go19Pt9CqSzRyE2EceYTCYFjAuGQqHX15ro8XhKWNvDYrF4QtJUKBQUIP5bICyRgNsYsyeD/5uC1+sdYECq1WpRAtIDohmGoSTYj0E4HE4tHSM5GLRvMBhoylqtFndnTBtK7qjt2PnNpQTRaFSDGTy12WxQrVYhHo+XMpnMu2w2C51OBxy4YFje/lICBD8xGo0arJV0+i2+HwSDweeFQmEvFotdkH7cJOBupG8tl8sVBB4FAoGkbI9EIkmfz3cvnU6/wR3YXsT8BaM2jDnYpij1AAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 90,
+    "nombre": "scale visionary infrastructures",
+    "tipoMaterial": {
+      "idTipoMaterial": 90,
+      "nombre": "Inverse"
+    },
+    "archivo": "posuere nonummy.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAF1SURBVBgZpcGxalRBFMfh35yZGwK72mrrO2yxoIXFvIBNGksrsbISFGuxMRDIGwhiCtttrq9hCgWxSLtVsor3nvN3RwxcggTCfl+SxC7So+cfnz14uHi73mgmAREoAg9HIUKB3AkJueMR3N4bLk5Pz158endwXBb3F0fd/szu7HMTs4uNHwHHZTPINutzburnIKN5+f6r/ufVh2+6zpM3n7VFkYJmtVrRdR21VqbW57/wUfgoXMFvF/fu3sLDaQoSTdd11Fq5quRCSk7KIodRRtHE6DTFw7nU9z1NrZVL2cBSpiTwJNyCJjxoTCGa5XJJU2tlKicwA8uQS2IvZ5oIp7EIZ6rve6ZSMYpBNigZLPNXRNCUcRiYqrUyZWyZkQGXsCSacRhpTB5M9X3PlKWEpQQpkc3IKdEogqZEBM18PqfWylU5JZrMPznThERTzr7/OHl6OByEO+GBuxMR+DDw+PUXQkLhyEUoUAQRNCdsJUnswtjRH6iT+f+z/UsKAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 91,
+    "nombre": "drive holistic web services",
+    "tipoMaterial": {
+      "idTipoMaterial": 91,
+      "nombre": "bifurcated"
+    },
+    "archivo": "erat volutpat in.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIfSURBVDjLjZNNSJRRFIafcRJSnGEszTQddQZUJCGTCiGjXLkaiIKgTUhECK6K1oGroE20adEmQnfVIqEYhKRgyiwlFBkcqVzYHzNiVo7f982957QQpxk08cDhcA+c57735R5Uld3kt+5u3a5fwi5jtL9/275PVfOHZDKp1lqMMWxWYwzpdJpEIkFdXR3RaJRYLObbnNlTSMvlckQiEQAKwapKb28vqko8Hi9SUAQwxgAwPr/xMqtgBUQFa6Gv3eC67v8Bnuehqhw9uLKtkRDaHWBiqRJRwciGgko7Tb0dI9hxBcdxdgYAHKvN/LvZOujSY0LhHrJf4jsrcF0XVeXl4j6sKkagMTdKZ/g4wdpO0uM3KfOFiwBF/2DV/kRVOdmQ5lRDmjM1szS4zwhUhbC/nnKg/SLR4Cdmh/tKtwBuTAw0zYXeo6qICCPDwyy8uU9161lwppl8OEJFaJ0afwbjeLEtABFpLin1k1ydRVWpDfymrfkQgcos4n4GFeyfdzSfvs6a692ZvNsdyAOuJa4Gsb4X+0urGFt6jtgcLRUfCYWPINkZVNbpOteKeF/ZuzdFuONC/XfP3MoDrLEDrufpQnqeteUsM2/v0dTWQ3kgg5pl8PmZepICBHFSVLc0UuZ4l18NHW73qSqDg4NaaOb5yAwnLj3AX7KImhVAi3z3l7XyY+4DqdGhR0XLtBmvb3dl1Eq5iqIiBan5igiqOvUX9fhxNiezxvQAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 92,
+    "nombre": "revolutionize end-to-end portals",
+    "tipoMaterial": {
+      "idTipoMaterial": 92,
+      "nombre": "dedicated"
+    },
+    "archivo": "imperdiet nullam orci.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKoSURBVDjLpVM9TFNRFP7ubWvb1x+QQAtRIFaRmEakaYiGiJaAurioiYsxXXVxMHESB40TJI5OOihxq0sZTDBq6kANikAJNLSBAokQ29q/1x/69673PoSoMS6c5Oa8c979zv2+k3MIYwz7MYp9mvb3IBKJ9HB3T7BSFAXcW8Q3P/KvWOTHXC5XaBdDRDIajZ7jflyn03VYrVYQQnZ+cr9bTJjwyWQSxWJxg+dv9vX1fST81SEevLXZbKRWlLE++wlyfBO5+BZq5ZIK1BkkWGxtsNoPoePUaTCdHqurqxzGLpDl5eVZDu41m8148+QBVoLv/qv5aP8QBm/fR6lUEsznNF6vd2xtbU3vcDhw7IwHBTmrXqxXymC1GpdB0XnSDvfFw7C0n0XXwGUYG5pUOYlEQtJyBrnh4WFLuVwG7wEGvHeg0WjUIoVCAay+jVx4FJbWfjQVMjB1diEej6t3uIQkTafTU3a7HQaDQaUVi8WQSqWQzWZR4wwK3yZhanbD2uZCfuMDVhYDKrharQoWE9Tn8z3f1ScKCGr5fF59XU6uIL8+CUtzI+o5P2zOG6CJ99BpqcqCMxihCwsLOQEWIJE0mUzQ6/WglKC6NYmW7ivA9ldMv3wFc2MJJL2E2o95wS7l8XjyVJZlRXRTkiQIKep4Uop6JowDrAzLwSKUcgxgCur5zzjiuYvU/DhQyYyqd7mWkNPpvOX3+8O8H8hkMqCEoRD1obGjF0oxxLEluK91Q6ls8l5F0OI4D33osX5vEsnO6EmBQOCFVqu92lRbIhKR0XrcyF+d5lormHkd5kVOgGgaAOMlfHk2EmeKMkj+3sZgMNhO5x5u9Fx/Cg1d47OQ5ln2x/5pjN34vjiHyMQjH/nXOk+NuZOsrkhM4YsklmjvsD2PneWa+QnIJn6IP3aTNQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 93,
+    "nombre": "unleash enterprise web-readiness",
+    "tipoMaterial": {
+      "idTipoMaterial": 93,
+      "nombre": "Synergistic"
+    },
+    "archivo": "sociis.mp3",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKBSURBVDjLhZJdSFNhHMZfkQLxIhKKJPWum6KkpIxAh9KQIWTrZhfe2EWIxK5CIgJBTEphhJBkCYGI9EFLZFAtlTnnNudm80yP82xO3RzqcZp5ds7OhuTTeyYsMmkvPHfv83v+XwQAOazaNqahuS9sMwzFhKdGXqg3MLZCnbHhqL9Hmg2m2IYnlMB8JIXZcBLj8yIau4MbuaqXDVkBD2iyYg6upzAdkuEKJjCzIsM8E0dZk9mWFdAxyAtzkQPzZEDGhF+CZU6EfUGEtoMVsgJa3/MCs5zEJJeALW2WMMyIsNI2NK1MdoC2zWuzsHF4l2WM+ER88SrpEj44fyKvZiB7Cydq37bUG1jZOi/B5BHwybULM0P711v3yEl9138Bl/VOnb435O//uoS+byt49jGKJ+8ieDG4gB6jD6pm2zYpbG85EnChcbT0/qsgO0GH5Y8m4VmS4V5MwEHLd7a/xuKx4wjS74oWSI7MEaL5C1DR7Oz9/H0XbESme5fgCSkAGdOdb7BafAZ81TVs31FjW3sTa9dLsXSqAH5C1BnA3edcwM7FYfEJGGdFTNF0VyCRTuZVV7GlqcR6SQnWiouxRSHR8otgCdnJAPS9YdkdkNA/zGOM7t1J16hMXylZST78NuuqMEvIfgbQ2B1KOjgJA6ObGPXFD25gVjwA0MSU243U1FRG/K1DAPUjb6jfEsOQI5YGjNFbMM8I4PLysVZ+CbHb1YgWFaXF11UjXHZeAfz4s45ykyZf5+pp6uIwQo12v0iHKcDabcTi6QKs0p6VspXk8JW0eZ8hpPKfQzqrG94o07ujNY+ZHdVDZu/cPeee+kZnfDI3/5eP5KSNVFvUXKH8/w2+ut3dWHFeZAAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 94,
+    "nombre": "optimize B2B e-commerce",
+    "tipoMaterial": {
+      "idTipoMaterial": 94,
+      "nombre": "Optional"
+    },
+    "archivo": "rhoncus.ppt",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHrSURBVDjLjZOxaxNhGIcTtRkUJ/8AB9FBHBT8U3ToLAouxkUQLEIVnRxcKiithIjBBsSgRLgMGlNjvSOh4XJ4XLhwIRwpd+a4L1xMjEMfhy+aS6W2w2/4Pngefry8bwJI7EoSOAykaHdOTt+JvTL/UY+SNAYXML1POO4OnS5YLTCtMYb5FcO8j26cR7MX0OyFeYE2OkQjuESrBWEI4wmMxjAcgRiAH4Bu7GBaUDcFm5YzL9gcnaHdAUUBVQXPk4JoCCKSklDI+AG8Lv2YF5QbJepbEgiFBIYjGMTgQEAQQj+A/BtmAk2k0JoTKhtQrYJtQxTJhH/gEPpT2O9DLh8TbHQu0zRkZSHAdiQsdsF+AF4fPB9e5GKCiv6ZwluoVOTUe9sSjlf2+xJ2t8GyYTUTE+i2J4EQnA7UahKIV/Z8KS8W4eG6zlJGnQm+OB+wTDl5MeCvLF65aUC2AFfyadL5s9wpnJ4JitYpsrW7vKyqFNTvKLUh7rRy14V3H2EpMyG9tsj1anKvTUwCR2gExylZy1jfwO1BuQy3159xtXh0/1WGBO+7F6lqv3B70NDhwast0qVzB7sFxTmGYj3HNOWkH61G3MovHvyYFP0EiuZgt+Hx05/cyC7/D/5XkLNSrKg3ufcErq2t7AcDid88lUyCVhHVfwAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 95,
+    "nombre": "deliver B2B ROI",
+    "tipoMaterial": {
+      "idTipoMaterial": 95,
+      "nombre": "Adaptive"
+    },
+    "archivo": "felis.png",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAG6SURBVDjLxVNNKERRFP7ue0/JiIxXyE8aq/HTSP4iG2JpYSEL0qzYWFgrG8zCVopSs5CVnZVIWbFAYuG3NGaKmCz8z9z37rvuvTN+htSUhVPfPefczvd1zrldwjnHX0zDH+3/BQx5BIPBDuGmBJrS5F0IjPr9/hUjeTHj83m9BQWmSghRZzL+9ImYIBq98+zsHMyK5EPAdLtzEQ7fwLJYYjZN+yBJvOeGYaC4OF9xvu2AQNd1VSiLZCz9O5YvxrBwNCxiWaP/XKIk6rqRQv4qEmcUJaYXge0+0YmWusTEjFJAA+eGanXxdBTgNqgjYDMU5VXAW9iEx9gzBpYa0JszkRAQL8DLy0uRleWCy+VSo0gB+5iis2oQjDtgDoMDjqv7CGpKWvFEXzEfGclEEFx1EApFFL5ajFBFvrw7hyW6sB0LFrPwEH9EbWkbnqwXTIeGQH77C/0LlbzbNySITEGKXd+H4c4uxH5kC+snqyfURt2vAj1zHhajVOyAImZTVJhVWrOnC7vhLWycrR0KcuNVgMdJur+xelKL1pe1m5tnG3vUQYsgU7X8dAU84yTKHN18dVjGbUA8T9LeAB6et/fbYA/BAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 96,
+    "nombre": "repurpose strategic e-commerce",
+    "tipoMaterial": {
+      "idTipoMaterial": 96,
+      "nombre": "client-server"
+    },
+    "archivo": "nec.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGsSURBVDjLpZIxixNRFIW/kVHQQlwEQdgUdkkgTX6BkMIi/yJY5geE/ISAZIuUSb9lgnYWNsraaOkkTSSz6MLWJhmY9+7ZIm8mCUYLvfDg8d49h3POvZEk/qdigMFgkEqqSEp6vV79b4But/shz/OXzrlkMpnU4/BeabfbzGaz2pt3NzIJAd4DAplhAm+w3W7pdDqMRqNaqcB7/3U6nTbjR095fnYfGQiQCRPogOT2yTnD4RDn3CeAqMhg8Panzs8e7AAGkpDApJLITJiJ5U3GoPMiKhUQ5HoDJMwCsLjbMUnu7ThEAHnbNQrMDBkBYCWwIHTuBIEzMC8sNO2ai7vtlQjM6XcCc4Y3lT514FnBUqHEnSJwDry30v8xyV6RBM5OWfAe7+OQegAqjPIgQEl4f1LB7qOUa2DB++E4FbIqKpJEq9VK8zyvPHz8jFedi6PED6VL4vLiNd+Tz3jvkyzL6vcAsiyr9Pt9bn8sWVyvWVxvmKdrFqtfzNM189WGZLUmSTcsv10xHo9xztV285doNptfGo2GVavVK4UF+tOJ4/h9FEUCPkrar/K/1h35Nbw8S+DdbwAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 97,
+    "nombre": "facilitate next-generation relationships",
+    "tipoMaterial": {
+      "idTipoMaterial": 97,
+      "nombre": "Open-architected"
+    },
+    "archivo": "eu.mpeg",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALtSURBVBgZTcFLaFxVAIDh/5577jwzj0wSUmqMtKIiBltbbJ1FUCxVoQu3FrHGVRU3BVcKrkTcKOhCUOtOAyJ23WIQtFawpoooZWKJpnbsNJN5PzP3PO5xArPo93nOOfasXCgfAz48mE8UhzpiqCN0FLFrog7QA+qABVpAA/gC+FYyERlz/NC+qeIbT85xt4GKckMV5Voju6A09ELLzXqfi38PTgLnJBORMfPZmMeectsSeB7SA19CPBAsxgW+EAQ+PLaQZH8uXTj/S+UDwYTVOitxmAh6yqOjoR1CZwSdETR2Yadv2fPm6i2KB9IszQZzkgkVmvnLZcuP21VeO1rgs+tdAu1YOZxlKiHw8fA9iADPdvn5nxa/3epUBGOH39sqjETu2UJG4oUwDB2RcmRSHuevdtjpWgZhxEBH4KDaDflobbNrlVoRh97demHpgfTth+5J5ZpNw5kjWQxw6mCa7aYlk4bPr7X54XqfkfGIHNjAYpQ6cOH1x9fEw/cnP13M+Ik7bc3ZYxniMR9PQCElObmYptox7E97XK0MscbhHJgwxKrQMiZ+v9Y9u3knHBUCn08ut6m2DQJHe6C5WOqQl4KbVcXR2QSxwENbS38wNEapLmNi4/0Hv/r3zxvHN0p1YnGP1e/r4ODr9TbZlKBTU7xSnKG4lCUZQKMfYkJVvfT2c44xyVjKr6lpEUI3g3UOPIE1lu6O5aUTcyRjPjhISUGttYtVYYUJuXxudRZ4p/jIvZx+eoHvSopmz/Ly8jyJwBFIkD7EfMimYLM8xChVZUJapU4Ap34tbdHalfRDh7aOUHsoE2FsROQchVyOV5/Zx3ZjiFWqxoS0Wh95/qlHk2+9+AR3sw60dSgDOPj4UoVUAL3+EKt1gwlptd7arnf4cq1EfipJPpsgn46TS8fJpGLEY4K4FJxenicuodbsYbX+jwkZGfPNlfWNhSvrG/cBM8AMMA1MA7lELAgSiYBsOkk+m+KPv8o3gJ+Y+B9yFXCQeyJWrQAAAABJRU5ErkJggg=="
+  },
+  {
+    "idMaterial": 98,
+    "nombre": "reinvent cross-platform deliverables",
+    "tipoMaterial": {
+      "idTipoMaterial": 98,
+      "nombre": "asymmetric"
+    },
+    "archivo": "nibh fusce.xls",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAG5SURBVDjLpdHNa9MAGMfx/BtBvO/i26XBw0DEocLUSift2Lp2LupYFh2CVLA6rIMVmqaiqxDZxaJQNehSspCksdYXRNGJzOKmNz0IDpRSvH+9SBVEaNgDD8/hgQ8Pv0cAhM30fxfl5k8KfpvZ2gYz1S+EBgpem1etNk9XfpBeXA8PXFz6RvP1d9xnGxwtvg0PqLc/kzLWiGor7L30PDyw6RABwXEcLMuiJ6DRaBAEAZ7nYds2pmlSqVQwDANd18nlcmQyGVRVRZZl/gFc16XXs5PJJKEzOLMwnD29kOic1I8wPLenc/D89iwgCDNPJlAfp5l6NMZkfaQrp5aHSFiHiN7bT8I4wOX749itMu+++pTqU8RL29hxbivCdCOF9cnk4ce7TLjxLhBfGuTGGx3t5RVG8/uw3l/F+nANAC04QSk4RWRaRJisj/JgvYq5dofU8lAXOFwdIP9ilmzzLIMXduG0Fvm7aqtlJEVEkN0E484xxuwYI7VoFxi41U//zQiR6zvZrW6h4B9n3k8DMO+l/1zQS4CSIs7FtD6KvkxttUzRl4lpfUiKqPX8BUkR85IidiRF5PfMA8IvzWTWMhb2/CMAAAAASUVORK5CYII="
+  },
+  {
+    "idMaterial": 99,
+    "nombre": "strategize strategic vortals",
+    "tipoMaterial": {
+      "idTipoMaterial": 99,
+      "nombre": "clear-thinking"
+    },
+    "archivo": "pellentesque eget nunc.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ3SURBVDjLpZNtSNNRFIcNKunF1rZWBMJqKaSiX9RP1dClsjldA42slW0q5oxZiuHrlqllLayoaJa2jbm1Lc3QUZpKFmmaTMsaRp+kMgjBheSmTL2//kqMBJlFHx44XM7vOfdyuH4A/P6HFQ9zo7cpa/mM6RvCrVDzaVDy6C5JJKv6rwSnIhlFd0R0Up/GwF2KWyl01CTSkM/dQoQRzAurCjRCGnRUUE2FaoSL0HExiYVzsQwcj6RNrSqo4W5Gh6Yc4+1qDDTkIy+GhYK4nTgdz0H2PrrHUJzs71NQn86enPn+CVN9GnzruoYR63mMPbkC59gQzDl7pt7rc9f7FNyUhPY6Bx9gwt4E9zszhWWpdg6ZcS8j3O7zCTuEpnXB+3MNZkUUZu0NmHE8XsL91oSWwiiEc3MeseLrN6woYCWa/Zl8ozyQ3w3Hl2lYy0SwlCUvsVi/Gv2JwITnYPDun2Hy6jYuEzAF1jUBCVYpO6kXo+NuGMeBAgcgfwNkvgBOPgUqXgKvP7rBFvRhE1crp8Vq1noFYSlacVyqGk0D86gbART9BDk9BFnPCNJbCY5aCFL1Cyhtp0RWAp74MsKSrkq9guHyvfMTtmLc1togpZoyqYmyNoITzVTYRJCiXYBIQ3CwFqi83o3JDhX6C0M8XsGIMoQ4OyuRlq1DdZcLkmbgGDX1iIEKNxAcbgTEOqC4ZRaJ6Ub86K7CYFEo8Qo+GBQlQyXBczLZpbloaQ9k1NUz/kD2myBBKxRZpa5hVcQslalatoUxizxAVVrN3CW21bFj9F858Q9dnIRmDyeuybM71uxmH9BNBB1q6zybV7H9s1Ue4PM3/gu/AEbfqfWy2twsAAAAAElFTkSuQmCC"
+  },
+  {
+    "idMaterial": 100,
+    "nombre": "incentivize mission-critical portals",
+    "tipoMaterial": {
+      "idTipoMaterial": 100,
+      "nombre": "actuating"
+    },
+    "archivo": "iaculis diam.avi",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIsSURBVDjLpVNNaBNREP42Wck2MVUilJr+YJC2KG0kViGWHsTSS0HBg+DVq+hJkIJXD714E8FePHnKpdSDf4EebEJOBq1NSbUNiCYNRmPSmHSz+/Y587YpCB4KGfiYx5uZb76Z3adJKdGNedCldU2gp1KL/53BcWyChJTsBaEN2xYQwqaoRWcblmVB5+RweOKgkHcipbMPl4DPTNLxjsMxgY2NpEvAZpq7qsANuglukdgv6sBVZBhBUtByCVxmB37/cQwNnUezWUW5nMfw8EW6t7C2tozx8avwenVsbq6gWv2q7m3bhMe2rQNmLi4UMhTYo+IL2N5OodGoIBK5pJLz+SQ1CYFrhLBIARHwUnhOvmCr10vY2kqh1apibOwKAoEQSqUcgsE+jI7OoFb7rnK5KTfSHaelNusSQQWFEMjlXqmkWOwGBgaieJq4jy+/dlBv1rFn/sHZ/lPwCxM6y2D5QrTVUiYnbypp7XaD5J5QseX0c5S1Ci5PxzEYGsHK+hIyn97B+OlA59lcBW1ks4l/Nt3B6/dvcX1uDsIjcO7kLJK5BOITU0gsvYDHNE21UZ8voGAYAfWJGD09vaSiF5X6DxzRjuLambtqT/dmFnG6LwpBM5OCFs37Um2W/y4pTfJS/XncndX9JoL1YhofiquYn32GhTe3YHh98GoatMO8xvid8MPByLEHU9FpjPTH8Hkni/THVXwr1B5ph33ORLJA7jYhSNglPMk8Ls7/Be/8gsufCT5oAAAAAElFTkSuQmCC"
+  }
+]

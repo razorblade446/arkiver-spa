@@ -1,18 +1,12 @@
-@import 'color-definitions';
+@import "variables";
 
-$color-primary: $palette-blue-grey-500;
-$color-primary-dark: $palette-blue-grey-700;
-$color-accent: $palette-orange-A200;
-$color-primary-contrast: $color-dark-contrast;
-$color-accent-contrast: $color-dark-contrast;
+@import "material-design-lite";
 
-@import 'material-design-lite';
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", Arial, Helvetica, SansSerif, serif;
+}
 
-.mdl-progress {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 5px;
-  width: inherit;
+.material-icons {
+  color: $color-primary;
 }

@@ -3,6 +3,7 @@ const webpack = require('webpack');
 const HtmlWebPackPlugin = require('html-webpack-plugin');
 const NpmInstallPlugin = require('npm-install-webpack-plugin');
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
+const autoprefixer = require("autoprefixer");
 
 exports.devServer = function (options) {
     return {
@@ -32,7 +33,7 @@ exports.setupCSS = function (include) {
         module: {
             loaders: [{
                 test: /\.s?css$/,
-                loader: ExtractTextPlugin.extract('style', 'css!sass')
+                loader: ExtractTextPlugin.extract('style', 'css!postcss!sass')
             }]
         },
         plugins: [
@@ -40,8 +41,31 @@ exports.setupCSS = function (include) {
         ],
         sassLoader: {
             includePaths: [path.join(include, 'angular2-mdl/src/scss-mdl')]
-        }
+        },
+        postcss: [autoprefixer]
     };
+};
+
+exports.loadFonts = function () {
+    return {
+        module: {
+            loaders: [{
+                test: /(\.woff(2)?|\.eot|\.ttf|\.svg)$/,
+                loader: 'url?limit=100000'
+            }]
+        }
+    }
+};
+
+exports.loadJson = function () {
+    return {
+        module: {
+            loaders: [{
+                test: /\.json$/,
+                loader: 'json-loader'
+            }]
+        }
+    }
 };
 
 exports.loadTSX = function (include) {
