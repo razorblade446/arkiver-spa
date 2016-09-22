@@ -73,7 +73,7 @@ exports.loadTSX = function (include) {
         module: {
             loaders: [{
                 test: /\.ts$/,
-                loaders: ['ts-loader', 'angular2-template-loader'],
+                loaders: ['ts', 'angular2-template-loader'],
                 exclude: 'node_modules'
             }]
         }

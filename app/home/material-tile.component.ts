@@ -8,6 +8,6 @@ import {Material} from '../models/material';
   templateUrl: './material-tile.component.html',
 })
 
-export class MaterialTile {
+export class MaterialTileComponent {
   @Input('material') private material: Material;
 }

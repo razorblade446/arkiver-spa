@@ -13,10 +13,10 @@ export class MaterialesComponent implements OnInit {
   private currentPage: number = 1;
   private totalPages: number = 0;
 
-  constructor(private materialesService: MaterialesService) {
+  constructor (private materialesService: MaterialesService) {
   }
 
-  public loadPage(pageNumber: number = 1) {
+  public loadPage (pageNumber: number = 1) {
     this.materialesService.getMateriales(pageNumber)
       .subscribe(
         (response: PageableResponse) => {
@@ -27,7 +27,7 @@ export class MaterialesComponent implements OnInit {
       );
   }
 
-  public ngOnInit(): void {
+  public ngOnInit (): void {
     this.loadPage();
   }
 

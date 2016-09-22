@@ -20,3 +20,6 @@ import 'angular2-jwt';
 
 // Json Loader
 import 'json-loader';
+
+// Ng2 File Upload
+import 'ng2-file-upload';

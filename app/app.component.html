@@ -1,30 +1,28 @@
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-  <header class="mdl-layout__header">
-    <div class="mdl-layout__header-row">
-      <span class="mdl-layout-title">Arkiver</span>
-      <div class="mdl-layout-spacer"></div>
-      <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
+    <header class="mdl-layout__header">
+        <div class="mdl-layout__header-row">
+            <span class="mdl-layout-title">Arkiver</span>
+            <div class="mdl-layout-spacer"></div>
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
                   mdl-textfield--floating-label mdl-textfield--align-right">
-        <label class="mdl-button mdl-js-button mdl-button--icon"
-               for="waterfall-exp">
-          <i class="material-icons">search</i>
-        </label>
-        <div class="mdl-textfield__expandable-holder">
-          <input class="mdl-textfield__input" type="text" name="sample"
-                 id="waterfall-exp">
+                <label class="mdl-button mdl-js-button mdl-button--icon"
+                       for="waterfall-exp">
+                    <i class="material-icons">search</i>
+                </label>
+                <div class="mdl-textfield__expandable-holder">
+                    <input class="mdl-textfield__input" type="text" name="sample"
+                           id="waterfall-exp">
+                </div>
+            </div>
+            <router-outlet name="top-menu"></router-outlet>
         </div>
-      </div>
-      <nav class="mdl-navigation mdl-layout--large-screen-only">
-        <a class="mdl-navigation__link" [routerLink]="['materiales']">Materiales</a>
-      </nav>
+    </header>
+
+    <div class="mdl-layout__drawer">
+        <span class="md-layout-title">Arkiver</span>
     </div>
-  </header>
 
-  <div class="mdl-layout__drawer">
-    <span class="md-layout-title">Arkiver</span>
-  </div>
-
-  <main class="mdl-layout__content">
-    <router-outlet></router-outlet>
-  </main>
+    <main class="mdl-layout__content">
+        <router-outlet></router-outlet>
+    </main>
 </div>

@@ -1,19 +1,15 @@
-<div class="mdl-grid">
+<div class="mdl-grid materiales">
     <div class="mdl-cell mdl-cell--12-col">
-        <h3 class="mdl-typography--display-1">Materiales
-            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" href="#">
-                <i class="material-icons">add</i>
-            </button>
-        </h3>
+        <h3 class="mdl-typography--display-1">Materiales</h3>
 
-        <table class="materiales-table mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
+        <table class="materiales-table mdl-data-table mdl-js-data-table mdl-shadow--2dp">
             <thead>
             <tr>
-                <th class="mdl-data-table__cell--non-numeric">ID</th>
-                <th class="mdl-data-table__cell--non-numeric">Nombre</th>
-                <th class="mdl-data-table__cell--non-numeric">Tipo Material</th>
-                <th class="mdl-data-table__cell--non-numeric">Link</th>
-                <th class="mdl-data-table__cell--non-numeric">Opciones</th>
+                <th class="mdl-data-table__cell--non-numeric materiales-table__id">ID</th>
+                <th class="mdl-data-table__cell--non-numeric materiales-table__nombre">Nombre</th>
+                <th class="mdl-data-table__cell--non-numeric materiales-table__tipo">Tipo Material</th>
+                <th class="mdl-data-table__cell--non-numeric materiales-table__link">Link</th>
+                <th class="mdl-data-table__cell--non-numeric materiales-table__opciones">Opciones</th>
             </tr>
             </thead>
             <tbody>
@@ -23,7 +19,9 @@
                 <td>{{ material.tipoMaterial.nombre }}</td>
                 <td>{{ material.archivo }}</td>
                 <td>
-                    <a [routerLink]="['/materiales', material.idMaterial, 'edit']">Editar</a>
+                    <a [routerLink]="['/materiales', material.idMaterial, 'edit']">
+                        <i class="material-icons">delete</i>
+                    </a>
                 </td>
             </tr>
             <tr *ngIf="!materiales || materiales.length <= 0">
