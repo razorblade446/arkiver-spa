@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --hot --inline --progress --watch",
+    "prebuild": "rm -fr dist",
     "build": "webpack",
+    "postbuild": "cd dist && zip -r arkiver-spa.zip * && cd ..",
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "typings install"
   },

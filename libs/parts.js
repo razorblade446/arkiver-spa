@@ -28,12 +28,32 @@ exports.devServer = function (options) {
     };
 };
 
-exports.setupCSS = function (include) {
+exports.enableProdMode = function (isProduction) {
+    return {
+        plugins: [
+            new webpack.DefinePlugin({
+                'process.env': {
+                    'WEBPACK_PRODUCTION': isProduction
+                }
+            })
+        ]
+    }
+};
+
+exports.setupCSS = function (include, isProduction) {
+    var cssLoader = 'css-loader';
+
+    if (isProduction) {
+        cssLoader += '?minimize&safe'
+    } else {
+        cssLoader += '?sourcemap'
+    }
+
     return {
         module: {
             loaders: [{
                 test: /\.s?css$/,
-                loader: ExtractTextPlugin.extract('style', 'css!postcss!sass')
+                loader: ExtractTextPlugin.extract('style', cssLoader +'!postcss!sass')
             }]
         },
         plugins: [
@@ -93,6 +113,24 @@ exports.lintTSX = function (include) {
             }]
         }
     };
+};
+
+exports.uglifyJs = function () {
+    return {
+        plugins: [
+            new webpack.optimize.UglifyJsPlugin({
+                beautify: false,
+                mangle: {
+                    screw_ie8: true,
+                    keep_fnames: true
+                },
+                compress: {
+                    screw_ie8: true
+                },
+                comments: false
+            })
+        ]
+    }
 };
 
 exports.loadHTML = function () {

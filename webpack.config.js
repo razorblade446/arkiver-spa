@@ -10,7 +10,7 @@ const schemaExtension = Joi.object({
 const TARGET = process.env.npm_lifecycle_event;
 const PATHS = {
     app: path.join(__dirname, 'app'),
-    build: path.join(__dirname, 'build'),
+    dist: path.join(__dirname, 'dist'),
     test: path.join(__dirname, 'test'),
     style: [
         path.join(__dirname, 'app', 'main.css')
@@ -27,7 +27,7 @@ const common = {
         app: path.join(PATHS.app, 'app.ts'),
     },
     output: {
-        path: PATHS.build,
+        path: PATHS.dist,
         filename: '[name].js',
         sourceMapFilename: '[file].map'
     },
@@ -39,37 +39,35 @@ const common = {
 
 const parts = require('./libs/parts');
 
-var config;
+var config = merge(
+    common,
+    parts.setupAliases(),
+    parts.htmlWebpackPlugin(PATHS),
+    parts.loadFonts(),
+    parts.loadJson(),
+    parts.loadTSX(PATHS.app),
+    parts.lintTSX(PATHS.app),
+    parts.loadHTML(),
+    parts.setupCommonFiles(),
+    parts.chunkPlugin('vendors')
+);
 
 switch (process.env.npm_lifecycle_event) {
     case 'build':
+    case 'prod':
         config = merge(
-            common,
-            parts.setupAliases(),
-            parts.htmlWebpackPlugin(PATHS),
-            parts.loadFonts(),
-            parts.loadJson(),
-            parts.loadTSX(PATHS.app),
-            parts.lintTSX(PATHS.app),
-            parts.loadHTML(),
-            parts.setupCSS(PATHS.nodeModules),
-            parts.setupCommonFiles(),
-            parts.chunkPlugin('vendors')
+            config,
+            parts.setupCSS(PATHS.nodeModules, true),
+            parts.uglifyJs(),
+            parts.enableProdMode(true)
         );
         break;
+    case 'dev':
     default:
         config = merge(
-            common,
-            parts.setupAliases(),
-            parts.htmlWebpackPlugin(PATHS),
-            parts.loadFonts(),
-            parts.loadJson(),
-            parts.loadTSX(PATHS.app),
-            parts.lintTSX(PATHS.app),
-            parts.loadHTML(),
-            parts.setupCSS(PATHS.nodeModules),
-            parts.setupCommonFiles(),
-            parts.chunkPlugin('vendors'),
+            config,
+            parts.setupCSS(PATHS.nodeModules, false),
+            parts.enableProdMode(false),
             parts.devServer({
                 host: process.env.HOST,
                 port: process.env.PORT

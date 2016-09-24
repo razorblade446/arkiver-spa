@@ -14,13 +14,13 @@
             </thead>
             <tbody>
             <tr *ngFor="let material of materiales">
-                <td>{{ material.idMaterial }}</td>
-                <td>{{ material.nombre }}</td>
-                <td>{{ material.tipoMaterial.nombre }}</td>
-                <td>{{ material.archivo }}</td>
-                <td>
+                <td class="mdl-data-table__cell--non-numeric">{{ material.idMaterial }}</td>
+                <td class="mdl-data-table__cell--non-numeric">{{ material.nombre }}</td>
+                <td class="mdl-data-table__cell--non-numeric">{{ material.tipoMaterial.nombre }}</td>
+                <td class="mdl-data-table__cell--non-numeric">{{ material.archivo }}</td>
+                <td class="mdl-data-table__cell--non-numeric">
                     <a [routerLink]="['/materiales', material.idMaterial, 'edit']">
-                        <i class="material-icons">delete</i>
+                        <i class="material-icons">edit</i>Editar
                     </a>
                 </td>
             </tr>

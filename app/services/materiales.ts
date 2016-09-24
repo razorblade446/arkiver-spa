@@ -11,13 +11,15 @@ import {TipoMaterial} from '../models/tipo-material';
 export class MaterialesService {
   private baseUrl: string;
 
-  constructor(private http: Http) {
-    this.baseUrl = ConfigService.baseUrl + '/materiales';
+  constructor(private http: Http,
+              private configService: ConfigService) {
+    this.baseUrl = configService.getBaseUrl() + '/materiales';
   }
 
   public getMateriales(pageNumber: number = 1): Observable<PageableResponse> {
     let requestParameters: URLSearchParams = new URLSearchParams();
     requestParameters.set('pageNumber', pageNumber.toString());
+    requestParameters.set('pageSize', this.configService.getPageSize().toString());
 
     return this.http.get(
       this.baseUrl,
