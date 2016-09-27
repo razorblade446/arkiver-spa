@@ -10,6 +10,8 @@ addons:
     - ubuntu-toolchain-r-test
     packages:
     - g++-4.8
+before_install: 
+  - npm install -g typings webpack webpack-dev-server typescript
 before_deploy: cd dist && zip -r arkiver-spa.zip *
 deploy:
   provider: releases
