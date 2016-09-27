@@ -16,15 +16,21 @@ export class MaterialesService {
     this.baseUrl = configService.getBaseUrl() + '/materiales';
   }
 
-  public getMateriales(pageNumber: number = 1): Observable<PageableResponse> {
+  public getMateriales(pageNumber: number = 1,
+                       pageSize: number = this.configService.getPageSize(),
+                       search: string = '') {
     let requestParameters: URLSearchParams = new URLSearchParams();
-    requestParameters.set('pageNumber', pageNumber.toString());
-    requestParameters.set('pageSize', this.configService.getPageSize().toString());
 
-    return this.http.get(
-      this.baseUrl,
-      {search: requestParameters})
-      .map(resp => resp.json());
+    requestParameters.set('pageNumber', pageNumber.toString());
+    requestParameters.set('pageSize', pageSize.toString());
+
+    if (search !== '') {
+      requestParameters.set('search', search);
+    }
+
+    return this.http.get(this.baseUrl, {search: requestParameters})
+      .map(response => response.json())
+      .toPromise();
   }
 
   public getMaterial(idMaterial: number): Observable<Material> {

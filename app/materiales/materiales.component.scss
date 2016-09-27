@@ -11,15 +11,20 @@
     width: 50px;
   }
 
-  .materiales-table__nombre {
-    width: 300px;
+  .materiales-table__tipo {
+    width: 150px;
   }
 
-  .materiales-table__tipo {
+  .materiales-table__link {
     width: 150px;
   }
 
   .materiales-table__opciones {
     width: 150px;
+  }
+
+  .materiales-table__paginator__link {
+    margin-left: 5px;
+    margin-right: 5px;
   }
 }

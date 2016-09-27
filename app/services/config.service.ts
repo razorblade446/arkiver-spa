@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {WindowRef} from "./window-ref.service";
+import {WindowRef} from './window-ref.service';
 
 class DefaultConfig {
   protected baseUrl = 'http://localhost:8080/api';

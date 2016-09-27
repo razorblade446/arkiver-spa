@@ -3,7 +3,7 @@ import {ActivatedRoute} from '@angular/router';
 import {Subscription} from 'rxjs';
 import {Material} from '../models/material';
 import {TipoMaterial} from '../models/tipo-material';
-import {MaterialesService} from '../services/materiales';
+import {MaterialesService} from '../services/materiales.service';
 
 @Component({
   templateUrl: './materiales-edit.component.html',

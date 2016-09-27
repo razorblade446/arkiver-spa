@@ -21,8 +21,7 @@ import {FormsModule} from '@angular/forms';
     FormsModule,
     materialesRouting,
   ],
-  providers: []
+  providers: [],
 })
 
-export class MaterialesModule {
-}
+export class MaterialesModule {}

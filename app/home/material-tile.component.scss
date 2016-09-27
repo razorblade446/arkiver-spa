@@ -11,7 +11,7 @@
   box-sizing: border-box;
   background-color: unquote("rgb(#{$color-accent})");
   border-radius: 5px;
-  border: 1px solid unquote("rgb(#{$color-primary})");
+  border: 1px solid unquote("rgb(#{$color-accent})");
 
   .material-tile__title {
     display: block;
@@ -25,14 +25,15 @@
     font-size: 18px;
     font-weight: 600;
     text-transform: capitalize;
+    color: white;
   }
 
   .material-tile__preview {
     display: block;
     position: relative;
     margin: 10px 0;
-    width: 198px;
-    height: 198px;
+    width: 196px;
+    height: 196px;
     background-color: rgba(255, 255, 255, 0.5);
     border-color: #a0a0a0;
 
@@ -51,6 +52,8 @@
     position: relative;
     margin: 10px 0 0 0;
     height: 30px;
+    color: white;
+    vertical-align: middle;
 
     .material-tile__info__courses {
       display: block;

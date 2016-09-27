@@ -1,5 +1,5 @@
-import {IWindow} from "../models/window.interface";
-import {Injectable} from "@angular/core";
+import {IWindow} from '../models/window.interface';
+import {Injectable} from '@angular/core';
 
 function _window(): any {
   return window;

@@ -1,7 +1,6 @@
 import {Component, OnInit} from '@angular/core';
-import {PageableResponse} from '../models/pageable-response';
 import {Material} from '../models/material';
-import {MaterialesService} from '../services/materiales';
+import {MaterialesService} from '../services/materiales.service';
 
 @Component({
   styles: [String(require('./materiales.component.scss'))],
@@ -10,24 +9,41 @@ import {MaterialesService} from '../services/materiales';
 
 export class MaterialesComponent implements OnInit {
   private materiales: Material[];
-  private currentPage: number = 1;
+  private currentPage: number = 0;
   private totalPages: number = 0;
 
-  constructor (private materialesService: MaterialesService) {
+  constructor(private materialesService: MaterialesService) {
   }
 
-  public loadPage (pageNumber: number = 1) {
+  public loadPage(pageNumber: number = 0) {
     this.materialesService.getMateriales(pageNumber)
-      .subscribe(
-        (response: PageableResponse) => {
-          this.totalPages = response.totalPages;
-          this.materiales = response.content;
-          this.currentPage = response.number;
-        }
-      );
+      .then((response: any) => {
+        this.materiales = response.content;
+        this.currentPage = response.number;
+        this.totalPages = response.totalPages;
+      })
+      .catch(() => {
+        // Error
+      });
   }
 
-  public ngOnInit (): void {
+  public nextPage () {
+    if (this.currentPage + 1 <= this.totalPages) {
+      this.loadPage(this.currentPage + 1);
+    }
+  }
+
+  public pageRange = () => {
+    let range: any = [];
+
+    for (let i = 1; i <= this.materiales.length; i++) {
+      range.push(i);
+    }
+
+    return range;
+  }
+
+  public ngOnInit(): void {
     this.loadPage();
   }
 

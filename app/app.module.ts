@@ -8,11 +8,11 @@ import {MdlModule} from 'angular2-mdl';
 
 // Módulos Aplicación
 import {AppComponent} from './app.component';
-import {MaterialesService} from './services/materiales';
+import {MaterialesService} from './services/materiales.service';
 import {HomeModule} from './home/home.module';
 import {MaterialesModule} from './materiales/materiales.module';
-import {ConfigService} from "./services/config.service";
-import {WindowRef} from "./services/window-ref.service";
+import {ConfigService} from './services/config.service';
+import {WindowRef} from './services/window-ref.service';
 
 @NgModule({
   bootstrap: [AppComponent],
