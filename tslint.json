@@ -4,6 +4,11 @@
     "ordered-imports": false,
     "no-var-requires": false,
     "quotemark": [true, "single", "avoid-escape"],
-    "no-unused-variable": false
+    "no-unused-variable": false,
+    "class-name": true,
+    "comment-format": [
+      true,
+      "check-space"
+    ]
   }
 }
