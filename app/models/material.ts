@@ -1,4 +1,4 @@
-import {TipoMaterial} from "./tipo-material";
+import {TipoMaterial} from './tipo-material';
 
 export class Material {
   constructor(public idMaterial: number,

@@ -1,0 +1,30 @@
+.materiales {
+  width: 960px;
+}
+
+.materiales-table {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+  .materiales-table__id {
+    width: 50px;
+  }
+
+  .materiales-table__tipo {
+    width: 150px;
+  }
+
+  .materiales-table__link {
+    width: 150px;
+  }
+
+  .materiales-table__opciones {
+    width: 150px;
+  }
+
+  .materiales-table__paginator__link {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}

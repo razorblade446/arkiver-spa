@@ -1,0 +1,46 @@
+<div class="mdl-grid materiales">
+  <div class="mdl-cell mdl-cell--12-col">
+    <h3 class="mdl-typography--display-1">Materiales</h3>
+
+    <table class="materiales-table mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+      <thead>
+      <tr>
+        <th class="mdl-data-table__cell--non-numeric materiales-table__id">ID</th>
+        <th class="mdl-data-table__cell--non-numeric materiales-table__nombre">Nombre</th>
+        <th class="mdl-data-table__cell--non-numeric materiales-table__tipo">Tipo Material</th>
+        <th class="mdl-data-table__cell--non-numeric materiales-table__link">Link</th>
+        <th class="mdl-data-table__cell--non-numeric materiales-table__opciones">Opciones</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let material of materiales">
+        <td class="mdl-data-table__cell--non-numeric">{{ material.idMaterial }}</td>
+        <td class="mdl-data-table__cell--non-numeric">{{ material.nombre }}</td>
+        <td class="mdl-data-table__cell--non-numeric">{{ material.tipoMaterial.nombre }}</td>
+        <td class="mdl-data-table__cell--non-numeric">
+          <a href="{{ material.archivo }}">Archivo</a></td>
+        <td class="mdl-data-table__cell--non-numeric">
+          <a [routerLink]="['/materiales', material.idMaterial, 'edit']" title="Editar">
+            <i class="material-icons">edit</i>
+          </a>
+        </td>
+      </tr>
+
+      </tbody>
+      <tfoot>
+      <tr *ngIf="!materiales || materiales.length <= 0">
+        <td class="mdl-data-table__cell--non-numeric" colspan="5">No hay materiales disponibles</td>
+      </tr>
+      <tr *ngIf="materiales && materiales.length > 0">
+        <td colspan="5">
+          <a class="materiales-table__paginator__link"
+             href="javascript:void(0)"
+             [ngClass]="{'materiales-table__paginator__link--active': page == currentPage}"
+             *ngFor="let page of pageRange()"
+             (onclick)="loadPage(page)">{{ page }}</a>
+        </td>
+      </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>

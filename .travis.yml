@@ -1,0 +1,22 @@
+language: node_js
+node_js:
+- node
+- iojs
+env:
+- CXX=g++-4.8
+addons:
+  apt:
+    sources:
+    - ubuntu-toolchain-r-test
+    packages:
+    - g++-4.8
+before_install: 
+  - npm install -g typings webpack webpack-dev-server typescript
+before_deploy: cd dist && zip -r arkiver-spa.zip *
+deploy:
+  provider: releases
+  api_key:
+    secure: Hoxl7cWC8BZ5C1SF+OOriJdHzMzswUSsyM2v7UPMXSrJ2rt/62MVcCTNqMwdNQWAOTIQdbY7r9Zjw3Ze4qXyDfBBycsQDd/qQQFRbnBf+5iJ+C10WOa6AUnxwWMZdXhRB60288bMXoKRCqmIDjKRtZqdMLiA9oPCaKOWOr1yEtSxZZzclrL5Emh2OnXGZTM2hI9ndfeT2/0X6q6C/OlQ2kT0iWDqBHyngyyaxyrH3V9byt0C7jLW2KAhN63TzZHezZrp1u56XW8Y1VcI/tOECdommTkAiz19dQ03rErfyQYmfh6ccSZCUmqB8uERNAaCT+LSoA5tAgFyTrKJw3oyfsBC22u/pdCxiXmPA3axE16pcCvOZyPvgBsRcuKBH4Q89/Ow0ZstLgzLDZlFdliBj/mnjnGWqIXu6H4DqyScy0FTgw85QDwV92sLPb76cYDarUSUOMeV0ehZfO+73XTwcTMrfkLWeF3LemJ1iejtcpxlOYFpes42JqefNVflfrckOWB1HeEWd+amKyUak0aH7s3IiHe1vYYoI6gg3dzJ7kKcDRs3C14VNiAlqG2YjyCm0++vJax+y5O3K3g+7HMoTdWIbK6Y3kuQcEk0KFOTp5X63OtTwJyyPLKAsrsO1tkpX1Qp9bUbYyL2xnLqxQ7ldnvFVOQUT5wINsD5pyP3PU4=
+  file: dist/arkiver-spa.zip
+  on:
+    repo: razorblade446/arkiver-spa

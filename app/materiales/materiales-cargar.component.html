@@ -1,0 +1,47 @@
+<div class="mdl-grid materiales-cargar">
+    <div class="mdl-cell mdl-cell--12-col">
+        <h3 class="mdl-typography--display-1">Cargar Material</h3>
+
+        <form #materialCargar="ngForm">
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--6-col form-group">
+                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                        <input class="mdl-textfield__input" type="text" id="nombre" required/>
+                        <label class="mdl-textfield__label" for="nombre">Nombre</label>
+                        <div class="mdl-textfield__error">Requerido</div>
+                    </div>
+                </div>
+                <div class="mdl-cell mdl-cell--6-col form-group">
+                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                        <input class="mdl-textfield__input" type="text" id="tipo" required/>
+                        <label class="mdl-textfield__label" for="tipo">Tipo de Material</label>
+                        <div class="mdl-textfield__error">Requerido</div>
+                        <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right mdl-js-ripple-effect" for="tipo">
+                            <li class="mdl-menu__item">Tipo 1</li>
+                            <li class="mdl-menu__item">Tipo 2</li>
+                            <li class="mdl-menu__item">Tipo 3</li>
+                            <li class="mdl-menu__item">Tipo 4</li>
+                            <li class="mdl-menu__item">Tipo 5</li>
+                            <li class="mdl-menu__item">Tipo 6</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--12-col">
+                    <div ng2FileDrop
+                         [ngClass]="{'materiales-cargar__archivo--over': isOver}"
+                         (fileOver)="fileOver($event)"
+                         class="materiales-cargar__archivo">Arrastre aquí el archivo
+                    </div>
+                </div>
+            </div>
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--12-col">
+                    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Cargar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

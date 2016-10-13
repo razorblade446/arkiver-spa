@@ -1,5 +1,5 @@
-import {Component} from "@angular/core";
-import {FormBuilder, Validators} from "@angular/forms";
+import {Component} from '@angular/core';
+import {FormBuilder, Validators} from '@angular/forms';
 
 @Component({
   selector: 'material-form',
@@ -10,8 +10,8 @@ export class MaterialesForm {
   public materialForm: any;
   constructor(private fb: FormBuilder){
     this.materialForm = fb.group({
-      idMaterial: ["", Validators.required],
-      nombre: ["", Validators.required],
+      idMaterial: ['', Validators.required],
+      nombre: ['', Validators.required],
     });
   }
 

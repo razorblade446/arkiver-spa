@@ -1,8 +1,14 @@
 {
-  "extends": ["tslint:latest", "tslint-react"],
+  "extends": ["tslint:latest"],
   "rules" : {
-    "jsx-no-lambda": true,
     "ordered-imports": false,
-    "no-var-requires": false
+    "no-var-requires": false,
+    "quotemark": [true, "single", "avoid-escape"],
+    "no-unused-variable": false,
+    "class-name": true,
+    "comment-format": [
+      true,
+      "check-space"
+    ]
   }
 }

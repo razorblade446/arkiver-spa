@@ -1,39 +1,38 @@
 // Módulos Globales
-import {NgModule} from "@angular/core";
-import {BrowserModule} from "@angular/platform-browser";
-import {AppComponent} from "./app.component";
-import {HttpModule} from "@angular/http";
-import {RouterModule} from "@angular/router";
-import {APP_ROUTER_PROVIDERS, ROUTING} from "./app.routing";
-import {FormsModule} from "@angular/forms";
+import {NgModule} from '@angular/core';
+import {BrowserModule} from '@angular/platform-browser';
+import {HttpModule} from '@angular/http';
+import {APP_ROUTER_PROVIDERS, appRouting} from './app.routing';
+import {FormsModule} from '@angular/forms';
+import {MdlModule} from 'angular2-mdl';
 
-// Modulos Aplicación
-
-import {UsuariosComponent} from "./components/usuarios";
-import {HomeComponent} from "./components/home";
-import {MaterialesComponent} from "./components/materiales";
-import {MaterialesService} from "./services/materiales";
-import {EditarMaterialComponent} from "./components/materiales/edit";
+// Módulos Aplicación
+import {AppComponent} from './app.component';
+import {MaterialesService} from './services/materiales.service';
+import {HomeModule} from './home/home.module';
+import {MaterialesModule} from './materiales/materiales.module';
+import {ConfigService} from './services/config.service';
+import {WindowRef} from './services/window-ref.service';
 
 @NgModule({
   bootstrap: [AppComponent],
   declarations: [
     AppComponent,
-    EditarMaterialComponent,
-    HomeComponent,
-    MaterialesComponent,
-    UsuariosComponent,
   ],
   imports: [
     BrowserModule,
     FormsModule,
+    HomeModule,
     HttpModule,
-    RouterModule,
-    ROUTING,
+    MaterialesModule,
+    MdlModule,
+    appRouting,
   ],
   providers: [
     APP_ROUTER_PROVIDERS,
+    ConfigService,
     MaterialesService,
+    WindowRef,
   ],
 })
 

@@ -1,0 +1,16 @@
+<div class="mdl-grid dashboard" infinite-scroll [infiniteScrollDistance]="2" [infiniteScrollThrottle]="500"
+     (scrolled)="nextPage()" [scrollWindow]="false">
+  <div class="mdl-cell mdl-cell--12-col">
+    <div class="dashboard__tiles-container">
+      <material-tile *ngFor="let material of materiales" [material]="material"></material-tile>
+    </div>
+
+    <div *ngIf="!materiales || materiales.length <= 0" class="dashboard__no-items">
+      No hay material disponible
+    </div>
+
+    <div *ngIf="cargando" class="dashboard__loading-bar">
+      <div class="dashboard__loading-bar__spinner mdl-spinner mdl-js-spinner is-active"></div>
+    </div>
+  </div>
+</div>
